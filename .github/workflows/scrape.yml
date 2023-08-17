@@ -23,7 +23,7 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         yyyymmdd=$(date +%F)
         mkdir -p changelog
-        git diff --color | tail -n +6 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
+        git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
         git push
