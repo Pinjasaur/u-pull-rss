@@ -1,0 +1,30 @@
+name: Scrape
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 9 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Dependencies
+      run: sudo apt-get update && sudo apt-get install -y aha
+    - name: Fetch latest data
+      run: |-
+        curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST -H --data-raw 'action=getVehicles' > inventory.html
+    - name: Commit and push if it changed
+      run: |-
+        git diff --quiet && exit 0
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        yyyymmdd=$(date +%F)
+        mkdir -p changelog
+        git diff --color | tail -n +6 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
+        git add -A
+        git commit -m "Latest data: ${yyyymmdd}"
+        git push
