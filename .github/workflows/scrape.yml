@@ -5,6 +5,9 @@ on:
   schedule:
     - cron:  '0 9 * * *'
 
+env:
+  DIFFTASTIC_VERSION: 0.50.0
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -12,7 +15,13 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v3
     - name: Dependencies
-      run: sudo apt-get update && sudo apt-get install -y aha difftastic
+      run: sudo apt-get update && sudo apt-get install -y aha
+    - name: Difftastic
+      run: |
+        curl -sL https://github.com/Wilfred/difftastic/releases/download/$DIFFTASTIC_VERSION/difft-x86_64-unknown-linux-gnu.tar.gz -o difftastic-$DIFFTASTIC_VERSION.tar.gz && \
+        tar -xzvf difftastic-$DIFFTASTIC_VERSION.tar.gz && \
+        mv difft /usr/local/bin && \
+        rm -f difftastic-$DIFFTASTIC_VERSION.tar.gz
     - name: Fetch latest data
       run: |-
         curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' > inventory.html
