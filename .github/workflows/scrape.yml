@@ -12,7 +12,7 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v3
     - name: Dependencies
-      run: sudo apt-get update && sudo apt-get install -y aha
+      run: sudo apt-get update && sudo apt-get install -y aha difftastic
     - name: Fetch latest data
       run: |-
         curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' > inventory.html
@@ -23,7 +23,7 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         yyyymmdd=$(date +%F)
         mkdir -p changelog
-        git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
+        GIT_EXTERNAL_DIFF=difft git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
         git push
