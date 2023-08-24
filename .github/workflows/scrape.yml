@@ -22,9 +22,9 @@ jobs:
         curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' | sed 's/<br>//g' > inventory.html
     - name: Convert HTML to Markdown
       run: |-
-        npx -y @wcj/html-to-markdown-cli inventory.html -o . && \ 
-          mv -f inventory.html.md inventory.md && \
-          rm inventory.html
+        npx -y @wcj/html-to-markdown-cli inventory.html -o .
+        mv -f inventory.html.md inventory.md
+        rm -f inventory.html
     - name: Commit and push if it changed
       run: |-
         [[ -z "$(git status --porcelain)" ]] && exit 0
