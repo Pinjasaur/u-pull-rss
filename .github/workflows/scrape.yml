@@ -14,17 +14,20 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
+    - name: Grab LTS Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: lts
     - name: Dependencies
       run: sudo apt-get update && sudo apt-get install -y aha
-    - name: Difftastic
-      run: |
-        curl -sL https://github.com/Wilfred/difftastic/releases/download/$DIFFTASTIC_VERSION/difft-x86_64-unknown-linux-gnu.tar.gz -o difftastic-$DIFFTASTIC_VERSION.tar.gz && \
-        tar -xzvf difftastic-$DIFFTASTIC_VERSION.tar.gz && \
-        mv difft /usr/local/bin && \
-        rm -f difftastic-$DIFFTASTIC_VERSION.tar.gz
-    - name: Fetch latest data
+    - name: Fetch latest inventory as HTML
       run: |-
-        curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' > inventory.html
+        curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' | sed 's/<br>//g' > inventory.html
+    - name: Convert HTML to Markdown
+      run: |-
+        npx -y @wcj/html-to-markdown-cli inventory.html -o . && \ 
+          mv -f inventory.html.md inventory.md && \
+          rm inventory.html
     - name: Commit and push if it changed
       run: |-
         [[ -z "$(git status --porcelain)" ]] && exit 0
@@ -32,7 +35,7 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         yyyymmdd=$(date +%F)
         mkdir -p changelog
-        GIT_EXTERNAL_DIFF=difft git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
+        git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
         git push
