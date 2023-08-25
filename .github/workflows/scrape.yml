@@ -36,7 +36,7 @@ jobs:
         echo '```diff' > changelog/"${yyyymmdd}".md
         git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort >> changelog/"${yyyymmdd}".md
         echo '```' >> changelog/"${yyyymmdd}".md
-        pandoc -t html5 diff.md | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g' > changelog/"${yyyymmdd}".html
+        pandoc -t html5 changelog/"${yyyymmdd}".md | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g' > changelog/"${yyyymmdd}".html
         
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
