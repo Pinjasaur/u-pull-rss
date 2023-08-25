@@ -16,7 +16,7 @@ jobs:
       with:
         node-version: 18
     - name: Dependencies
-      run: sudo apt-get update && sudo apt-get install -y aha
+      run: sudo apt-get update && sudo apt-get install -y pandoc
     - name: Fetch latest inventory as HTML
       run: |-
         curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles' | sed 's/<br>//g' > inventory.html
@@ -32,7 +32,12 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         yyyymmdd=$(date +%F)
         mkdir -p changelog
-        git diff --color | tail -n +5 | aha -t "${yyyymmdd}" > changelog/"${yyyymmdd}".html
+        
+        echo '```diff' > changelog/"${yyyymmdd}".md
+        git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort >> changelog/"${yyyymmdd}".md
+        echo '```' >> changelog/"${yyyymmdd}".md
+        pandoc -t html5 diff.md | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g' > changelog/"${yyyymmdd}".html
+        
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
         git push
