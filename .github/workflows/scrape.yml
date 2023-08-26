@@ -56,13 +56,13 @@ jobs:
           date="$(basename "${file}" .md)"
           html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
           cat <<EOF>> feed.rss
-          <item>
+            <item>
               <title><![CDATA[ $date ]]></title>
               <link>$SITE_URL/changelog/$date</link>
               <guid isPermaLink="false">$date</guid>
               <pubDate>$date</pubDate>
               <description><![CDATA[ $html ]]></description>
-          </item>
+            </item>
         EOF
         done
         
