@@ -1,17 +1,20 @@
 # u-pull-rss
 
-U Pull R Parts junkyard inventory scraped into RSS
+[U Pull R Parts](https://upullrparts.com/) junkyard inventory scraped into RSS.
 
-## High Level
+## How This Works
 
-- https://simonwillison.net/2020/Oct/9/git-scraping/
-- `curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST -H --data-raw 'action=getVehicles'`
-- `npx -y @wcj/html-to-markdown-cli inventory.html -o . && mv -f inventory.html.md inventory.md`
-- https://github.com/rtfpessoa/diff2html-cli
-- https://github.com/janl/mustache.js
+- Use the UPRP API to get the inventory as HTML, just like their website
+  - `curl 'https://upullrparts.com/wp-admin/admin-ajax.php' --compressed -X POST --data-raw 'action=getVehicles'`
+- Convert the HTML to Markdown, so each table row is a single line (makes diffing easier)
+- Run a diff, deduplicating where necessary (reordered lines) to get the bare additions and removals
+- Finesse that into a Markdown code fence as `diff` language stored in YYYY-MM-DD.md format
+- Re-build the RSS feed on the fly, converting the Markdown into HTML for the feed item body
 
-Thinking `inventory.html` for the response. And then `changelog/$YYYY-MM-DD.html` for each diff, which is used to build the RSS feed. Probably `0 9 * * *` for the cron, since 9am UTC is 3 or 4am CT depending on the time of year.
+The RSS lives at [/feed.rss](./feed.rss). You'd put this URL into your feed reader of choice. If you want a recommendation, I use [Miniflux](https://miniflux.app/).
 
-Diffing is more complicated than expected because it's common for the table rows to get reordered, so attempting to convert HTML table to Markdown table to keep each row a single line. From there, probably need to do some custom logic on added (`+`) lines versus removed (`-`) lines to see what was _actually_ added/removed versus simply reordered in the output.
+You can view the current inventory at [/inventory](./inventory).
 
-This is preferable to the native GitHub RSS feed based on commits since it doesn't show the body of the diff, which is the most useful thing for this.
+## Who Built This?
+
+Me. It's licensed under [MIT](https://pinjasaur.mit-license.org/2023).
