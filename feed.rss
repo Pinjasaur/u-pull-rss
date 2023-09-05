@@ -203,6 +203,13 @@
 <span id="cb1-191"><a href="#cb1-191" aria-hidden="true"></a><span style="color:red" class="st">-| 2013 | LEXUS LS600HL          | 06-15-23      | 311 | BLACK     | NG043910 | 159619   | YV1612FS2D2201124 |</span></span></code></pre></div> ]]></description>
     </item>
     <item>
+      <title><![CDATA[ 2023-09-05 ]]></title>
+      <link>https://pinjasaur.github.io/u-pull-rss/changelog/2023-09-05</link>
+      <guid isPermaLink="false">2023-09-05</guid>
+      <pubDate>2023-09-05</pubDate>
+      <description><![CDATA[ <div class="sourceCode" id="cb1"><pre class="sourceCode diff"><code class="sourceCode diff"></code></pre></div> ]]></description>
+    </item>
+    <item>
       <title><![CDATA[ 2023-08-25 ]]></title>
       <link>https://pinjasaur.github.io/u-pull-rss/changelog/2023-08-25</link>
       <guid isPermaLink="false">2023-08-25</guid>
@@ -642,14 +649,6 @@
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | LEGACY                 | 08-22-23      | 314 | GREEN     | NG045336 | Unknown  | 4S4BP61C767315891 |</span></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | TORRENT                | 08-22-23      | 208 | BLACK     | NG045347 | Unknown  | 2CKDL63FX66203630 |</span></span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | IMPREZA                | 08-22-23      | 314 | WHITE     | NG045348 | Unknown  | JF1GH61648H824471 |</span></span></code></pre></div> ]]></description>
-    </item>
-    <item>
-      <title><![CDATA[ 2023-09-03 ]]></title>
-      <link>https://pinjasaur.github.io/u-pull-rss/changelog/2023-09-03</link>
-      <guid isPermaLink="false">2023-09-03</guid>
-      <pubDate>2023-09-03</pubDate>
-      <description><![CDATA[ <div class="sourceCode" id="cb1"><pre class="sourceCode diff"><code class="sourceCode diff"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span style="color:green" class="va">+| 2013 | RIO                    | 08-30-23      | 311 | GRAY      | NG045499 | Unknown  | KNADN4A36D6196044 |</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span style="color:red" class="st">-| 2013 |                        | 08-30-23      | 311 | GRAY      | NG045499 | Unknown  | KNADN4A36D6196044 |</span></span></code></pre></div> ]]></description>
     </item>
   </channel>
 </rss>
