@@ -8,7 +8,7 @@ on:
 env:
   SITE_TITLE: U Pull RSS (U Pull R Parts Inventory Feed)
   SITE_URL: https://pinjasaur.github.io/u-pull-rss
-  FEED_SIZE: 10
+  FEED_SIZE_PLUS_ONE: 11
 
 jobs:
   scheduled:
@@ -44,6 +44,7 @@ jobs:
           echo '```diff' >> changelog/"${yyyymmdd}".md
           echo "$diff" >> changelog/"${yyyymmdd}".md
           echo '```' >> changelog/"${yyyymmdd}".md
+          echo "- [${yyyymmdd}](./${yyyymmdd})" >> changelog/index.md
         fi
 
         cat <<EOF> feed.rss
@@ -56,8 +57,9 @@ jobs:
             <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
         EOF
 
-        for file in $(ls -rU changelog | head -$FEED_SIZE); do
+        for file in $(ls -rU changelog | head -$FEED_SIZE_PLUS_ONE); do
           date="$(basename "${file}" .md)"
+          [[ "$date" == "index" ]] && continue
           html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
           cat <<EOF>> feed.rss
             <item>
