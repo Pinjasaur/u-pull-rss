@@ -37,10 +37,14 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         yyyymmdd=$(date +%F)
         mkdir -p changelog
-        
-        echo '```diff' > changelog/"${yyyymmdd}".md
-        git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort >> changelog/"${yyyymmdd}".md
-        echo '```' >> changelog/"${yyyymmdd}".md
+
+        diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort)"
+        if [[ -n "$diff" ]]; then
+          echo "${yyyymmdd}: **UG** == Rosemount, **NG** == East Bethel." > changelog/"${yyyymmdd}".md
+          echo '```diff' >> changelog/"${yyyymmdd}".md
+          echo "$diff" >> changelog/"${yyyymmdd}".md
+          echo '```' >> changelog/"${yyyymmdd}".md
+        fi
 
         cat <<EOF> feed.rss
         <?xml version="1.0" encoding="UTF-8"?>
@@ -51,7 +55,7 @@ jobs:
             <atom:link href="$SITE_URL/feed.rss" rel="self" type="application/rss+xml"/>
             <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
         EOF
-        
+
         for file in $(ls -rU changelog | head -$FEED_SIZE); do
           date="$(basename "${file}" .md)"
           html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
@@ -65,12 +69,12 @@ jobs:
             </item>
         EOF
         done
-        
+
         cat <<EOF>> feed.rss
           </channel>
         </rss>
         EOF
-        
+
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
         git push
