@@ -15,7 +15,7 @@ There's a scheduled (cron) job that runs daily at 9am UTC via a GitHub Actions p
 
 The RSS lives at [/feed.rss](./feed.rss). You'd put this URL into your feed reader of choice. If you want a recommendation, I use [Miniflux](https://miniflux.app/).
 
-You can view the current inventory at [/inventory](./inventory).
+You can view the current inventory at [/inventory](./inventory) and the changelog index at [/changelog](./changelog).
 
 ## Who
 
@@ -24,3 +24,7 @@ Me. It's licensed under [MIT](https://pinjasaur.mit-license.org/2023).
 ## Why
 
 I wanted to see changes to the junkyard inventory real(ish) time, as well as historically.
+
+## Thanks
+
+Simon Willison for their [article on scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) which I leveraged.
