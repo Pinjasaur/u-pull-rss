@@ -40,7 +40,8 @@ jobs:
 
         diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort)"
         if [[ -n "$diff" ]]; then
-          echo "${yyyymmdd}: **UG** == Rosemount, **NG** == East Bethel." > changelog/"${yyyymmdd}".md
+          echo "> Last updated: ${yyyymmdd}" > changelog/"${yyyymmdd}".md
+          echo "Stock numbers are prefixed with \`UG\` for Rosemount and \`NG\` for East Bethel." >> changelog/"${yyyymmdd}".md
           echo '```diff' >> changelog/"${yyyymmdd}".md
           echo "$diff" >> changelog/"${yyyymmdd}".md
           echo '```' >> changelog/"${yyyymmdd}".md
