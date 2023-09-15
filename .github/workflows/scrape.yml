@@ -77,7 +77,7 @@ jobs:
                 <pubDate>$date</pubDate>
                 <description><![CDATA[ $html ]]></description>
               </item>
-          EOF
+            EOF
           done
 
           cat <<EOF>> feed.rss
