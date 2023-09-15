@@ -63,7 +63,7 @@ jobs:
               <link>$SITE_URL</link>
               <atom:link href="$SITE_URL/feed.rss" rel="self" type="application/rss+xml"/>
               <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
-          EOF
+        EOF
 
           for file in $(ls -rU changelog | head -$FEED_SIZE_PLUS_ONE); do
             date="$(basename "${file}" .md)"
@@ -77,13 +77,13 @@ jobs:
                 <pubDate>$date</pubDate>
                 <description><![CDATA[ $html ]]></description>
               </item>
-            EOF
+        EOF
           done
 
           cat <<EOF>> feed.rss
             </channel>
           </rss>
-          EOF
+        EOF
         fi
 
         git add -A
