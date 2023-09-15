@@ -38,14 +38,15 @@ jobs:
         yyyymmdd=$(date +%F)
         mkdir -p changelog
 
+        diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort)"
+
         mv inventory.md{,.bak}
         echo -e "# Inventory\n" > inventory.md
         echo -e "> Last updated ${yyyymmdd}\n" >> inventory.md
         echo -e "Stock numbers are prefixed with \`UG\` for Rosemount and \`NG\` for East Bethel.\n" >> inventory.md
         cat inventory.md.bak >> inventory.md
         rm -f inventory.md.bak
-
-        diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort)"
+        
         if [[ -n "$diff" ]]; then
           echo -e "# ${yyyymmdd}\n" > changelog/"${yyyymmdd}".md
           echo -e "Stock numbers are prefixed with \`UG\` for Rosemount and \`NG\` for East Bethel.\n" >> changelog/"${yyyymmdd}".md
@@ -53,37 +54,37 @@ jobs:
           echo "$diff" >> changelog/"${yyyymmdd}".md
           echo '```' >> changelog/"${yyyymmdd}".md
           echo "- [${yyyymmdd}](./${yyyymmdd})" >> changelog/index.md
-        fi
 
-        cat <<EOF> feed.rss
-        <?xml version="1.0" encoding="UTF-8"?>
-        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-          <channel>
-            <title><![CDATA[ $SITE_TITLE ]]></title>
-            <link>$SITE_URL</link>
-            <atom:link href="$SITE_URL/feed.rss" rel="self" type="application/rss+xml"/>
-            <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
-        EOF
+          cat <<EOF> feed.rss
+          <?xml version="1.0" encoding="UTF-8"?>
+          <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+              <title><![CDATA[ $SITE_TITLE ]]></title>
+              <link>$SITE_URL</link>
+              <atom:link href="$SITE_URL/feed.rss" rel="self" type="application/rss+xml"/>
+              <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
+          EOF
 
-        for file in $(ls -rU changelog | head -$FEED_SIZE_PLUS_ONE); do
-          date="$(basename "${file}" .md)"
-          [[ "$date" == "index" ]] && continue
-          html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
+          for file in $(ls -rU changelog | head -$FEED_SIZE_PLUS_ONE); do
+            date="$(basename "${file}" .md)"
+            [[ "$date" == "index" ]] && continue
+            html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
+            cat <<EOF>> feed.rss
+              <item>
+                <title><![CDATA[ $date ]]></title>
+                <link>$SITE_URL/changelog/$date</link>
+                <guid isPermaLink="false">$date</guid>
+                <pubDate>$date</pubDate>
+                <description><![CDATA[ $html ]]></description>
+              </item>
+          EOF
+          done
+
           cat <<EOF>> feed.rss
-            <item>
-              <title><![CDATA[ $date ]]></title>
-              <link>$SITE_URL/changelog/$date</link>
-              <guid isPermaLink="false">$date</guid>
-              <pubDate>$date</pubDate>
-              <description><![CDATA[ $html ]]></description>
-            </item>
-        EOF
-        done
-
-        cat <<EOF>> feed.rss
-          </channel>
-        </rss>
-        EOF
+            </channel>
+          </rss>
+          EOF
+        fi
 
         git add -A
         git commit -m "Latest data: ${yyyymmdd}"
