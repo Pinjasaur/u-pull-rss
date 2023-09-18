@@ -38,7 +38,7 @@ jobs:
         yyyymmdd=$(date +%F)
         mkdir -p changelog
 
-        diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | sort)"
+        diff="$(git diff | awk '{ seen[substr($0,2)]++; l[i++] = $0; } END { for (j = 0; j < i; ++j) if (seen[substr(l[j],2)] < 2) print l[j] }' | grep '^[+-][^+-]' | tail -n +4 | sort)"
 
         mv inventory.md{,.bak}
         echo -e "# Inventory\n" > inventory.md
