@@ -46,7 +46,7 @@ jobs:
         echo -e "Stock numbers are prefixed with \`UG\` for Rosemount and \`NG\` for East Bethel.\n" >> inventory.md
         cat inventory.md.bak >> inventory.md
         rm -f inventory.md.bak
-        
+
         if [[ -n "$diff" ]]; then
           echo -e "# ${yyyymmdd}\n" > changelog/"${yyyymmdd}".md
           echo -e "Stock numbers are prefixed with \`UG\` for Rosemount and \`NG\` for East Bethel.\n" >> changelog/"${yyyymmdd}".md
@@ -65,7 +65,7 @@ jobs:
               <description><![CDATA[ The feed of updates to $SITE_TITLE ]]></description>
         EOF
 
-          for file in $(ls -rU changelog | head -$FEED_SIZE_PLUS_ONE); do
+          for file in $(ls changelog | sort -r | head -$FEED_SIZE_PLUS_ONE); do
             date="$(basename "${file}" .md)"
             [[ "$date" == "index" ]] && continue
             html="$(pandoc -t html5 changelog/"$file" | sed -e 's/<span class="va">/<span style="color:green" class="va">/g' -e 's/<span class="st">/<span style="color:red" class="st">/g')"
