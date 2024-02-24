@@ -6,6 +6,92 @@
       <atom:link href="https://pinjasaur.github.io/u-pull-rss/feed.rss" rel="self" type="application/rss+xml"/>
       <description><![CDATA[ The feed of updates to U Pull RSS (U Pull R Parts Inventory Feed) ]]></description>
       <item>
+        <title><![CDATA[ 2024-02-24 ]]></title>
+        <link>https://pinjasaur.github.io/u-pull-rss/changelog/2024-02-24</link>
+        <guid isPermaLink="false">2024-02-24</guid>
+        <pubDate>2024-02-24</pubDate>
+        <description><![CDATA[ <h1 id="section">2024-02-24</h1>
+<p>Stock numbers are prefixed with <code>UG</code> for Rosemount and <code>NG</code> for East Bethel.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode diff"><code class="sourceCode diff"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span style="color:green" class="va">+| 1988 | CHEVROLET 1500 PICKUP | 02-23-24      | 226 | BLUE      | NG048888 | Unknown  | 2GCDK14H5J1106676 |</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span style="color:green" class="va">+| 1988 | CHEVROLET 1500 PICKUP | 02-23-24      | 226 | BLUE      | NG048970 | Unknown  | 2GCEK19K7J1227573 |</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a><span style="color:green" class="va">+| 1998 | GRAND MARQUIS         | 02-23-24      | 402 | GRAY      | UG050412 | Unknown  | 2MEFM75W5WX651265 |</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | TAURUS                | 02-23-24      | 402 | RED       | UG050602 | Unknown  | 1FAFP53U3YG126590 |</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a><span style="color:green" class="va">+| 2001 | ACCORD                | 02-23-24      | 308 | GREEN     | NG048982 | Unknown  | JHMCG66821C001920 |</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span style="color:green" class="va">+| 2001 | EXPRESS 3500 VAN      | 02-23-24      | 204 | WHITE     | UG046472 | Unknown  | 1GAHG39R611204629 |</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a><span style="color:green" class="va">+| 2001 | FORD F150 PICKUP      | 02-23-24      | 204 | TAN       | UG050646 | Unknown  | 2FTRX18LX1CA45934 |</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a><span style="color:green" class="va">+| 2001 | YUKON XL 1500         | 02-23-24      | 225 | GRAY      | NG048988 | Unknown  | 1GKFK16T11J215639 |</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | MALIBU                | 02-23-24      | 402 | BROWN     | UG050661 | Unknown  | 1G1ND52J42M522762 |</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | SANTA FE              | 02-23-24      | 226 | BLACK     | NG048579 | Unknown  | KM8SC73D92U151319 |</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | TAHOE                 | 02-23-24      | 226 | TAN       | NG048900 | Unknown  | 1GNEK13Z32J191983 |</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | DEVILLE               | 02-23-24      | 418 | SILVER    | NG048986 | Unknown  | 1G6KD54Y53U131497 |</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | FORD F150 PICKUP      | 02-23-24      | 204 | BLUE      | UG050649 | Unknown  | 1FTRW07623KD31638 |</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | REGAL                 | 02-23-24      | 402 | TAN       | UG050654 | Unknown  | 2G4WB52K531153767 |</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a><span style="color:green" class="va">+| 2004 | FORD F350SD PICKUP    | 02-23-24      | 204 | RED       | UG046986 | Unknown  | 1FTSF31P64ED74027 |</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | COROLLA               | 02-23-24      | 308 | GRAY      | NG049007 | Unknown  | 1NXBR32E65Z413917 |</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | EXPRESS 1500 VAN      | 02-23-24      | 204 | GRAY      | UG046630 | Unknown  | 1GCHG39U251127422 |</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | TOWN &amp; COUNTRY        | 02-23-24      | 402 | TAN       | UG050616 | Unknown  | 2C4GP64L15R191202 |</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | VIBE                  | 02-23-24      | 418 |           | NG048974 | Unknown  | 5Y2SL668X5Z472791 |</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | EQUINOX               | 02-23-24      | 402 | TAN       | UG050573 | Unknown  | 2CNDL73F666166990 |</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | ACCENT                | 02-23-24      | 308 | RED       | NG049001 | Unknown  | KMHCM36C97U054349 |</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | ALTIMA                | 02-23-24      | 204 | GRAY      | UG050663 | Unknown  | 1N4AL21E07C113625 |</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | CTS                   | 02-23-24      | 418 | GOLD      | NG048999 | Unknown  | 1G6DP577670179817 |</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | G5                    | 02-23-24      | 419 | GOLD      | NG049003 | Unknown  | 1G2AL15F377149748 |</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | LIBERTY               | 02-23-24      | 204 | SILVER    | UG050639 | Unknown  | 1J4GL58K87W573917 |</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | MAZDA 3               | 02-23-24      | 307 | GRAY      | NG048956 | Unknown  | JM1BK32F281161896 |</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | ALTIMA                | 02-23-24      | 308 | BLACK     | NG048993 | Unknown  | 1N4AL21E69N471416 |</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | MALIBU                | 02-23-24      | 419 | BLACK     | NG048968 | Unknown  | 1G1ZK57B39F116401 |</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | NITRO                 | 02-23-24      | 226 | RED       | NG049002 | Unknown  | 1D8GU28K49W517978 |</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | SUBURBAN 1500         | 02-23-24      | 204 | MAROON    | UG050634 | Unknown  | 1GNFK36369J104692 |</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true"></a><span style="color:green" class="va">+| 2010 | ACCORD                | 02-23-24      | 308 | BLACK     | NG048975 | Unknown  | 1HGCP2F34AA164211 |</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true"></a><span style="color:green" class="va">+| 2010 | JOURNEY               | 02-23-24      | 402 | BLACK     | UG050662 | Unknown  | 3D4PG4FB2AT177876 |</span></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true"></a><span style="color:green" class="va">+| 2011 | CRUZE                 | 02-23-24      | 402 | BLUE      | UG050445 | Unknown  | 1G1PF5S95B7238869 |</span></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true"></a><span style="color:green" class="va">+| 2011 | FOCUS                 | 02-23-24      | 402 | GRAY      | UG050651 | Unknown  | 1FAHP3HN3BW149492 |</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true"></a><span style="color:green" class="va">+| 2011 | MALIBU                | 02-23-24      | 418 | BLUE      | NG048790 | Unknown  | 1G1ZD5E15BF289136 |</span></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true"></a><span style="color:green" class="va">+| 2012 | IMPALA                | 02-23-24      | 402 | CHAMPAGNE | UG050657 | Unknown  | 2G1WF5E37C1157213 |</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true"></a><span style="color:green" class="va">+| 2012 | MAZDA 3               | 02-23-24      | 307 | BLUE      | NG048977 | Unknown  | JM1BL1V70C1619935 |</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true"></a><span style="color:green" class="va">+| 2013 | CRUZE                 | 02-23-24      | 402 | BLACK     | UG050669 | Unknown  | 1G1PB5SG9D7295525 |</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true"></a><span style="color:green" class="va">+| 2016 | CIVIC                 | 02-23-24      | 307 | GRAY      | NG048979 | Unknown  | 19XFC1F7XGE015473 |</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true"></a><span style="color:green" class="va">+| 2016 | JOURNEY               | 02-23-24      | 402 | BLACK     | UG050618 | Unknown  | 3C4PDCAB6GT158134 |</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true"></a><span style="color:red" class="st">-| 1988 | RANGER                | 12-08-23      | 205 | BROWN     | UG049107 | Unknown  | 1FTCR15T8JPA98974 |</span></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true"></a><span style="color:red" class="st">-| 1994 | GRAND CHEROKEE        | 12-13-23      | 229 | WHITE     | NG047029 | Unknown  | 1J4GZ78S9RC316764 |</span></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true"></a><span style="color:red" class="st">-| 1997 | BLAZER S10/JIMMY S15  | 12-11-23      | 205 | WHITE     | UG049019 | Unknown  | 1GNDT13W0V2239128 |</span></span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true"></a><span style="color:red" class="st">-| 1998 | GRAND CHEROKEE        | 12-08-23      | 205 | BLACK     | UG049024 | Unknown  | 1J4GZ88Z4WC263938 |</span></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true"></a><span style="color:red" class="st">-| 1998 | WINDSTAR              | 01-04-24      | 403 | BLUE      | UG049682 | Unknown  | 2FMZA5146WBE01641 |</span></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true"></a><span style="color:red" class="st">-| 2000 | GRAND CHEROKEE        | 12-13-23      | 229 | WHITE     | NG047623 | Unknown  | 1J4GW58NXYC167657 |</span></span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true"></a><span style="color:red" class="st">-| 2000 | SEBRING               | 01-04-24      | 403 | SILVER    | UG049702 | Unknown  | 3C3EL45H6YT257167 |</span></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true"></a><span style="color:red" class="st">-| 2001 | SEVILLE               | 01-03-24      | 403 | WHITE     | UG049653 | Unknown  | 1G6KS54Y81U122554 |</span></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true"></a><span style="color:red" class="st">-| 2001 | SIERRA 1500 PICKUP    | 12-08-23      | 205 | BROWN     | UG049153 | Unknown  | 2GTEK19T011117165 |</span></span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true"></a><span style="color:red" class="st">-| 2002 | EXPRESS 1500 VAN      | 12-15-23      | 230 | GOLD      | NG047680 | Unknown  | 1GAHG39R421210317 |</span></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | AERIO                 | 12-08-23      | 306 | WHITE     | NG047532 | Unknown  | JS2RC41H235207268 |</span></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | FORESTER              | 12-08-23      | 306 | RED       | NG047552 | Unknown  | JF1SG65603H714016 |</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | MALIBU                | 01-04-24      | 403 | GOLD      | UG049694 | Unknown  | 1G1ND52J53M741456 |</span></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true"></a><span style="color:red" class="st">-| 2004 | FORD F150 PICKUP      | 12-08-23      | 205 | BLUE      | UG049022 | Unknown  | 1FTRF14W54NA66255 |</span></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | FIVE HUNDRED          | 12-29-23      | 417 | GRAY      | NG047935 | Unknown  | 1FAHP24125G157918 |</span></span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | ODYSSEY               | 12-08-23      | 306 | SILVER    | NG047530 | Unknown  | 5FNRL38795B030978 |</span></span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | SEBRING               | 01-04-24      | 403 | WHITE     | UG049704 | Unknown  | 1C3EL56R35N637348 |</span></span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | EQUINOX               | 12-13-23      | 229 | PURPLE    | NG047395 | Unknown  | 2CNDL63FX66070211 |</span></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | G6                    | 01-04-24      | 403 | GREEN     | UG049690 | Unknown  | 1G2ZH558164129415 |</span></span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | MILAN                 | 01-02-24      | 417 | GOLD      | NG048006 | Unknown  | 3MEHM08ZX6R631033 |</span></span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | PT CRUISER            | 01-04-24      | 403 | SILVER    | UG049700 | Unknown  | 3A4FY48B66T200760 |</span></span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | TOWN &amp; COUNTRY        | 01-04-24      | 403 | BLUE      | UG049685 | Unknown  | 1A4GP45R96B686877 |</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | DODGE 1500 PICKUP     | 12-13-23      | 229 | BLACK     | NG047184 | Unknown  | 1D7HU18267S217799 |</span></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | FOCUS                 | 01-04-24      | 403 | GOLD      | UG049713 | Unknown  | 1FAFP34N67W167313 |</span></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | LINCOLN &amp; TOWN CAR    | 01-02-24      | 417 | WHITE     | NG047993 | Unknown  | 1LNHM81W97Y609023 |</span></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | LUCERNE               | 01-02-24      | 417 | GRAY      | NG048017 | Unknown  | 1G4HE57Y07U160455 |</span></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | PT CRUISER            | 01-04-24      | 403 | GRAY      | UG049706 | Unknown  | 3A4FY58B57T625815 |</span></span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | COBALT                | 01-04-24      | 403 | BRONZE    | UG049067 | Unknown  | 1G1AL58F387265802 |</span></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | FORD F150 PICKUP      | 12-11-23      | 205 | GREEN     | UG049210 | Unknown  | 1FTRF12298KD09816 |</span></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | GRAND CHEROKEE        | 12-11-23      | 205 | SILVER    | UG049062 | Unknown  | 1J8HR48N48C122413 |</span></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | IMPALA                | 12-29-23      | 417 | GOLD      | NG048011 | Unknown  | 2G1WT58K581245289 |</span></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | MAZDA 3               | 12-08-23      | 306 | GRAY      | NG047537 | Unknown  | JM1BK32F981788059 |</span></span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | TRAILBLAZER           | 12-11-23      | 205 | GRAY      | UG049077 | Unknown  | 1GNDT13S282192783 |</span></span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true"></a><span style="color:red" class="st">-| 2009 | G6                    | 12-29-23      | 417 | BLUE      | NG048001 | Unknown  | 1G2ZH57N894119066 |</span></span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true"></a><span style="color:red" class="st">-| 2009 | OPTIMA                | 12-08-23      | 306 | BROWN     | NG047344 | Unknown  | KNAGE228395317461 |</span></span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true"></a><span style="color:red" class="st">-| 2009 | SUBURBAN 1500         | 12-13-23      | 229 | SILVER    | NG047209 | Unknown  | 1GNFK26319R269898 |</span></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true"></a><span style="color:red" class="st">-| 2011 | EQUINOX               | 01-04-24      | 403 | WHITE     | UG049689 | Unknown  | 2CNALDEC9B6203612 |</span></span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true"></a><span style="color:red" class="st">-| 2015 | RIO                   | 12-08-23      | 306 | SILVER    | NG047561 | Unknown  | KNADM4A36F6453161 |</span></span></code></pre></div> ]]></description>
+      </item>
+      <item>
         <title><![CDATA[ 2024-02-23 ]]></title>
         <link>https://pinjasaur.github.io/u-pull-rss/changelog/2024-02-23</link>
         <guid isPermaLink="false">2024-02-23</guid>
@@ -5427,116 +5513,6 @@
 <span id="cb1-102"><a href="#cb1-102" aria-hidden="true"></a><span style="color:red" class="st">-| 2016 | SOUL                  | 12-15-23      | 316 | WHITE     | UG049055 | Unknown  | KNDJN2A2XG7839382 |</span></span>
 <span id="cb1-103"><a href="#cb1-103" aria-hidden="true"></a><span style="color:red" class="st">-| 2017 | EQUINOX               | 12-15-23      | 420 | BLACK     | UG049309 | Unknown  | 2GNALCEKXH1545105 |</span></span>
 <span id="cb1-104"><a href="#cb1-104" aria-hidden="true"></a><span style="color:red" class="st">-| 2017 | SONIC                 | 12-18-23      | 420 | BLACK     | UG049135 | Unknown  | 1G1JF5SB8H4119832 |</span></span></code></pre></div> ]]></description>
-      </item>
-      <item>
-        <title><![CDATA[ 2024-02-10 ]]></title>
-        <link>https://pinjasaur.github.io/u-pull-rss/changelog/2024-02-10</link>
-        <guid isPermaLink="false">2024-02-10</guid>
-        <pubDate>2024-02-10</pubDate>
-        <description><![CDATA[ <h1 id="section">2024-02-10</h1>
-<p>Stock numbers are prefixed with <code>UG</code> for Rosemount and <code>NG</code> for East Bethel.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode diff"><code class="sourceCode diff"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span style="color:green" class="va">+| 1987 | FORD F150 PICKUP      | 02-09-24      | 218 | RED       | NG044114 | Unknown  | 1FTEX15Y6HKB31911 |</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span style="color:green" class="va">+| 1992 | MERCEDES 400          | 02-09-24      | 314 | GRAY      | UG050380 | Unknown  | WDBGA42E6NA026274 |</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a><span style="color:green" class="va">+| 1995 | COROLLA               | 02-09-24      | 314 | BLUE      | UG050432 | Unknown  | 1NXAE09B1SZ297491 |</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a><span style="color:green" class="va">+| 1995 | GMC 2500 VAN          | 02-09-24      | 221 | WHITE     | UG050320 | Unknown  | 1GTEG25K5SF531895 |</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a><span style="color:green" class="va">+| 1997 | FORD F150 PICKUP      | 02-09-24      | 218 | BLACK     | NG048507 | Unknown  | 1FTDX1767VND10606 |</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span style="color:green" class="va">+| 1998 | CR-V                  | 02-09-24      | 314 | RED       | UG050421 | Unknown  | JHLRD1848WC094227 |</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a><span style="color:green" class="va">+| 1999 | VITARA                | 02-09-24      | 215 | BLACK     | NG047544 | Unknown  | JS3TD62V8X4101403 |</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | CAMRY                 | 02-09-24      | 313 | SILVER    | UG050440 | Unknown  | JT2BG28K7Y0409090 |</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | EXPLORER              | 02-09-24      | 221 | RED       | UG050425 | Unknown  | 1FMZU73EXYZC61277 |</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | EXPLORER              | 02-09-24      | 221 | WHITE     | UG050426 | Unknown  | 1FMZU73E1YZA77684 |</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | JETTA                 | 02-09-24      | 312 | BLUE      | NG048786 | Unknown  | 3VWSF29M8YM171612 |</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | NAVIGATOR             | 02-09-24      | 221 | RED       | UG050428 | Unknown  | 5LMFU28A5YLJ38109 |</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | ODYSSEY               | 02-09-24      | 314 | SILVER    | UG050423 | Unknown  | 2HKRL185XYH535307 |</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a><span style="color:green" class="va">+| 2000 | SEVILLE               | 02-09-24      | 419 | WHITE     | UG050427 | Unknown  | 1G6KY5498YU289613 |</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a><span style="color:green" class="va">+| 2001 | BLAZER S10/JIMMY S15  | 02-09-24      | 221 | WHITE     | UG050429 | Unknown  | 1GNCT18W91K214601 |</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | CAMRY                 | 02-09-24      | 312 | BLACK     | NG048781 | Unknown  | 4T1BE32K32U007977 |</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | LIBERTY               | 02-09-24      | 218 | BLUE      | NG048795 | Unknown  | 1J4GL48K42W325828 |</span></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | SIENNA                | 02-09-24      | 314 | GOLD      | UG050346 | Unknown  | 4T3ZF13C42U505572 |</span></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | SUNFIRE               | 02-09-24      | 427 | GREEN     | NG048757 | Unknown  | 1G2JB52FX27317358 |</span></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true"></a><span style="color:green" class="va">+| 2002 | TAHOE                 | 02-09-24      | 218 | WHITE     | NG048593 | Unknown  | 1GNEK13Z62R301068 |</span></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | CAMRY                 | 02-09-24      | 312 | BLUE      | NG048800 | Unknown  | 4T1BE32K23U774284 |</span></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | CARAVAN               | 02-09-24      | 418 | WHITE     | UG050420 | Unknown  | 1D4GP24363B230695 |</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | COROLLA               | 02-09-24      | 312 | SILVER    | NG048804 | Unknown  | JTDBR32E530010116 |</span></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | EXPLORER              | 02-09-24      | 221 | BLUE      | UG050382 | Unknown  | 1FMZU73K13UC21004 |</span></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | FORESTER              | 02-09-24      | 314 | RED       | UG050424 | Unknown  | JF1SG63663G766940 |</span></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true"></a><span style="color:green" class="va">+| 2003 | MAZDA MPV             | 02-09-24      | 313 | SILVER    | UG050015 | Unknown  | JM3LW28AX30358674 |</span></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true"></a><span style="color:green" class="va">+| 2004 | FORD F150 PICKUP      | 02-09-24      | 221 | BLACK     | UG050436 | Unknown  | 1FTPW14524KB00863 |</span></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true"></a><span style="color:green" class="va">+| 2004 | SATURN L SERIES       | 02-09-24      | 427 | BLUE      | NG048500 | Unknown  | 1G8JD54R54Y511252 |</span></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | ALTIMA                | 02-09-24      | 314 | GOLD      | UG050399 | Unknown  | 1N4BL11D85N461714 |</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | GRAND CHEROKEE        | 02-09-24      | 221 | WHITE     | UG050397 | Unknown  | 1J4GR48K05C725437 |</span></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | PRIUS                 | 02-09-24      | 312 | GRAY      | NG048426 | Unknown  | JTDKB20U250125980 |</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true"></a><span style="color:green" class="va">+| 2005 | SUBURBAN 1500         | 02-09-24      | 218 | BLACK     | NG048685 | Unknown  | 3GNFK16Z55G125800 |</span></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | AVEO                  | 02-09-24      | 418 | BLUE      | UG050438 | Unknown  | KL1TG66666B523342 |</span></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | FORD E350 VAN         | 02-09-24      | 218 | RED       | NG048636 | Unknown  | 1FTSS34P46DA22046 |</span></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | LIBERTY               | 02-09-24      | 221 | GRAY      | UG050318 | Unknown  | 1J8GL58K26W283749 |</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | RENDEZVOUS            | 02-09-24      | 427 | GOLD      | NG048561 | Unknown  | 3G5DA03L06S614401 |</span></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true"></a><span style="color:green" class="va">+| 2006 | TAURUS                | 02-09-24      | 426 | BURGUNDY  | NG048789 | Unknown  | 1FAFP56U76A132517 |</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | IMPALA                | 02-09-24      | 419 | GRAY      | UG050422 | Unknown  | 2G1WT58K279243595 |</span></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | SPORTAGE              | 02-09-24      | 218 | BLACK     | NG047257 | Unknown  | KNDJE723177366282 |</span></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true"></a><span style="color:green" class="va">+| 2007 | VUE                   | 02-09-24      | 427 | RED       | NG048696 | Unknown  | 5GZCZ63457S813867 |</span></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | ASPEN                 | 02-09-24      | 218 | GOLD      | NG045741 | Unknown  | 1A8HW58208F104056 |</span></span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | AVENGER               | 02-09-24      | 419 | RED       | UG050054 | Unknown  | 1B3LD76M78N626729 |</span></span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | FIT                   | 02-09-24      | 314 | BLUE      | UG050430 | Unknown  | JHMGD38618S024755 |</span></span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | MALIBU                | 02-09-24      | 418 | GRAY      | UG050405 | Unknown  | 1G1ZF575X8F154317 |</span></span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true"></a><span style="color:green" class="va">+| 2008 | QUEST                 | 02-09-24      | 314 | RED       | UG050388 | Unknown  | 5N1BV28U78N113533 |</span></span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | COROLLA               | 02-09-24      | 312 | WHITE     | NG048750 | Unknown  | 1NXBU40E69Z119382 |</span></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true"></a><span style="color:green" class="va">+| 2009 | HIGHLANDER            | 02-09-24      | 314 | BLACK     | UG050384 | Unknown  | JTEEW44A592026279 |</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true"></a><span style="color:green" class="va">+| 2010 | CARAVAN               | 02-09-24      | 419 | BLUE      | UG050410 | Unknown  | 2D4RN5DX5AR363563 |</span></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true"></a><span style="color:green" class="va">+| 2010 | COBALT                | 02-09-24      | 426 | BLACK     | NG048803 | Unknown  | 1G1AF1F5XA7223501 |</span></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true"></a><span style="color:green" class="va">+| 2010 | MALIBU                | 02-09-24      | 426 | WHITE     | NG048783 | Unknown  | 1G1ZC5EB9A4148317 |</span></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true"></a><span style="color:green" class="va">+| 2011 | FOCUS                 | 02-09-24      | 427 | RED       | NG048797 | Unknown  | 1FAHP3FN0BW179309 |</span></span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true"></a><span style="color:green" class="va">+| 2011 | MALIBU                | 02-09-24      | 419 | BROWN     | UG050419 | Unknown  | 1G1ZA5EU3BF190172 |</span></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true"></a><span style="color:green" class="va">+| 2012 | EQUINOX               | 02-09-24      | 218 | BLACK     | NG048769 | Unknown  | 2GNFLEEK3C6209809 |</span></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true"></a><span style="color:green" class="va">+| 2012 | JUKE                  | 02-09-24      | 312 | BLACK     | NG048782 | Unknown  | JN8AF5MV1CT108558 |</span></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true"></a><span style="color:green" class="va">+| 2012 | PASSAT                | 02-09-24      | 311 | SILVER    | NG048770 | Unknown  | 1VWBH7A3XCC014040 |</span></span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true"></a><span style="color:green" class="va">+| 2015 | ALTIMA                | 02-09-24      | 314 | BLACK     | UG050413 | Unknown  | 1N4AL3AP5FN917963 |</span></span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true"></a><span style="color:red" class="st">-| 1979 | FORD F150 PICKUP      | 11-20-23      | 201 | BROWN     | UG048744 | Unknown  | F25HPEJ7386       |</span></span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true"></a><span style="color:red" class="st">-| 1985 | DODGE 250 PICKUP      | 11-30-23      | 220 | RED       | NG047210 | Unknown  | 1B7JW24W8FS544711 |</span></span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true"></a><span style="color:red" class="st">-| 1987 | THUNDERBIRD           | 12-19-23      | 424 | PINK      | NG047788 | Unknown  | 1FABP6037HH110693 |</span></span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true"></a><span style="color:red" class="st">-| 1995 | CAMARO                | 12-18-23      | 420 | BLACK     | UG049325 | Unknown  | 2G1FP22S9S2175812 |</span></span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true"></a><span style="color:red" class="st">-| 1995 | PRIZM                 | 12-13-23      | 419 | TEAL      | UG049244 | Unknown  | 1Y1SK5260SZ013178 |</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true"></a><span style="color:red" class="st">-| 1997 | EXPLORER              | 12-01-23      | 220 | BLUE      | NG047299 | Unknown  | 1FMDU35P3VUB30539 |</span></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true"></a><span style="color:red" class="st">-| 1999 | ECLIPSE               | 11-20-23      | 311 | RED       | NG047172 | Unknown  | 4A3AK44Y0XE144048 |</span></span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true"></a><span style="color:red" class="st">-| 2000 |                       | 12-08-23      | 314 | SILVER    | UG049187 | Unknown  | 3VWCA21C0YM486491 |</span></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true"></a><span style="color:red" class="st">-| 2000 | REGAL                 | 12-13-23      | 419 | GREEN     | UG049240 | Unknown  | 2G4WF5513Y1154639 |</span></span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true"></a><span style="color:red" class="st">-| 2001 | BLAZER S10/JIMMY S15  | 12-01-23      | 220 | WHITE     | NG047399 | Unknown  | 1GKDT13W712184412 |</span></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true"></a><span style="color:red" class="st">-| 2001 | LEGACY                | 11-20-23      | 311 | GREEN     | NG047153 | Unknown  | 4S3BH806717640025 |</span></span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true"></a><span style="color:red" class="st">-| 2002 | GRAND PRIX            | 12-15-23      | 425 | GOLD      | NG047739 | Unknown  | 1G2WP12K02F256623 |</span></span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true"></a><span style="color:red" class="st">-| 2002 | SILVERADO 1500 PICKUP | 11-17-23      | 201 | WHITE     | UG048617 | Unknown  | 2GCEK19V421298502 |</span></span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | ACCORD                | 12-14-23      | 315 | GRAY      | UG049041 | 198774   | 1HGCM66313A081239 |</span></span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | DAKOTA                | 12-01-23      | 220 | GREEN     | NG047390 | 170000   | 1D7HG48N33S126924 |</span></span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true"></a><span style="color:red" class="st">-| 2003 | SUBURBAN 1500         | 12-01-23      | 220 | GRAY      | NG047421 | Unknown  | 1GNFK16Z73J182818 |</span></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true"></a><span style="color:red" class="st">-| 2004 | COROLLA               | 11-20-23      | 311 | SILVER    | NG046690 | Unknown  | 2T1BR32E94C293644 |</span></span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true"></a><span style="color:red" class="st">-| 2004 | ESCALADE              | 12-04-23      | 221 | WHITE     | NG047451 | Unknown  | 1GYEK63N44R311369 |</span></span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true"></a><span style="color:red" class="st">-| 2004 | VUE                   | 12-19-23      | 420 | RED       | UG049270 | Unknown  | 5GZCZ63464S857145 |</span></span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | ALTIMA                | 11-20-23      | 311 | RED       | NG047165 | Unknown  | 1N4AL11D55C25226  |</span></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | COLORADO              | 11-20-23      | 201 | TAN       | UG048747 | Unknown  | 1GCDT136X58149751 |</span></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | FORD F150 PICKUP      | 11-17-23      | 201 | WHITE     | UG048735 | Unknown  | 1FTRF12W05NA20563 |</span></span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | PACIFICA              | 12-15-23      | 425 | BLUE      | NG047669 | Unknown  | 2C8GF68445R329531 |</span></span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true"></a><span style="color:red" class="st">-| 2005 | SILVERADO 1500 PICKUP | 11-20-23      | 201 | MAROON    | UG047973 | Unknown  | 1GCEK19Z15Z189400 |</span></span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | COROLLA               | 12-14-23      | 315 | BLACK     | UG049262 | 172676   | 1NXBR32E46Z604575 |</span></span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | DAKOTA                | 11-20-23      | 201 | SILVER    | UG048730 | Unknown  | 1D7HW48K86S506676 |</span></span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | EXPEDITION            | 12-04-23      | 221 | RED       | NG047442 | Unknown  | 1FMPU16506LA24538 |</span></span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true"></a><span style="color:red" class="st">-| 2006 | MAZDA 3               | 11-20-23      | 311 | SILVER    | NG046729 | Unknown  | JM1BK12F261517622 |</span></span>
-<span id="cb1-85"><a href="#cb1-85" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | AVEO                  | 12-18-23      | 420 | BLACK     | UG049338 | Unknown  | KL1TD66637B771882 |</span></span>
-<span id="cb1-86"><a href="#cb1-86" aria-hidden="true"></a><span style="color:red" class="st">-| 2007 | MERCEDES ML-CLASS     | 12-14-23      | 315 | BLACK     | UG049080 | Unknown  | 4JGBB86E37A262132 |</span></span>
-<span id="cb1-87"><a href="#cb1-87" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | FORD F150 PICKUP      | 11-20-23      | 201 | BLACK     | UG048256 | Unknown  | 1FTPX14V78FA38923 |</span></span>
-<span id="cb1-88"><a href="#cb1-88" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | LACROSSE              | 12-18-23      | 424 | RED       | NG047782 | Unknown  | 2G4WC582481188926 |</span></span>
-<span id="cb1-89"><a href="#cb1-89" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | MKX                   | 12-04-23      | 221 | SILVER    | NG047347 | Unknown  | 2LMDU88C88BJ00666 |</span></span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true"></a><span style="color:red" class="st">-| 2008 | OUTLOOK               | 11-30-23      | 220 | MAROON    | NG047302 | Unknown  | 5GZEV13768J283885 |</span></span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true"></a><span style="color:red" class="st">-| 2009 | CROWN VICTORIA        | 12-19-23      | 424 | BLACK     | NG047787 | Unknown  | 2FAHP71V89X100787 |</span></span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true"></a><span style="color:red" class="st">-| 2009 | SAAB 9-3              | 11-20-23      | 311 | BLACK     | NG047115 | Unknown  | YS3FB49Y191008855 |</span></span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true"></a><span style="color:red" class="st">-| 2010 | LEXUS GS350           | 11-20-23      | 311 | BLACK     | NG047088 | Unknown  | JTHCE1KS7A0026257 |</span></span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true"></a><span style="color:red" class="st">-| 2010 | MALIBU                | 12-15-23      | 425 | BRONZE    | NG047728 | Unknown  | 1G1ZC5EB1AF167450 |</span></span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true"></a><span style="color:red" class="st">-| 2012 | CHARGER               | 12-18-23      | 420 | GRAY      | UG049284 | Unknown  | 2C3CDXJG3CH120806 |</span></span>
-<span id="cb1-96"><a href="#cb1-96" aria-hidden="true"></a><span style="color:red" class="st">-| 2012 | EQUINOX               | 12-13-23      | 419 | BLUE      | UG049161 | Unknown  | 2GNFLEEKXC6269683 |</span></span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true"></a><span style="color:red" class="st">-| 2012 | INFINITI G25          | 12-14-23      | 315 | WHITE     | UG049196 | Unknown  | JN1DV6ARXCM731425 |</span></span>
-<span id="cb1-98"><a href="#cb1-98" aria-hidden="true"></a><span style="color:red" class="st">-| 2012 | JOURNEY               | 12-18-23      | 424 | BLACK     | NG047717 | Unknown  | 3C4PDDBG6CT300492 |</span></span>
-<span id="cb1-99"><a href="#cb1-99" aria-hidden="true"></a><span style="color:red" class="st">-| 2013 | ACADIA                | 11-30-23      | 220 | WHITE     | NG047236 | Unknown  | 1GKKVRKD9DJ180503 |</span></span>
-<span id="cb1-100"><a href="#cb1-100" aria-hidden="true"></a><span style="color:red" class="st">-| 2014 | CARAVAN               | 12-18-23      | 420 | MAROON    | UG049336 | Unknown  | 2C4RDGBG0ER352653 |</span></span>
-<span id="cb1-101"><a href="#cb1-101" aria-hidden="true"></a><span style="color:red" class="st">-| 2014 | IMPALA                | 12-19-23      | 424 | SILVER    | NG047769 | Unknown  | 2G1WA5E39E1126157 |</span></span>
-<span id="cb1-102"><a href="#cb1-102" aria-hidden="true"></a><span style="color:red" class="st">-| 2014 | VERSA                 | 11-20-23      | 311 | SILVER    | NG047166 | Unknown  | 3N1CE2CP3EL431674 |</span></span></code></pre></div> ]]></description>
       </item>
     </channel>
   </rss>
