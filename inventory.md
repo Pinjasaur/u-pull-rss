@@ -1,6 +1,6 @@
 # Inventory
 
-> Last updated 2024-03-04
+> Last updated 2024-03-05
 
 Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 
@@ -15,8 +15,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2009 | CALIBER               | 12-29-23      | 402 | TAN       | UG049602 | Unknown  | 1B3HB48AX9D118873 |
 | 2006 | EXPLORER              | 12-29-23      | 210 | RED       | UG049595 | Unknown  | 1FMEU74E76UB48586 |
 | 2001 | STRATUS               | 12-29-23      | 402 | WHITE     | UG049592 | Unknown  | 1B3EJ46X21N654339 |
-| 2005 | SIERRA 1500 PICKUP    | 12-29-23      | 210 | SILVER    | UG049590 | Unknown  | 2GTEK19B551330304 |
 | 2003 | LIBERTY               | 12-29-23      | 210 | SILVER    | UG049588 | Unknown  | 1J4GL48K53W679097 |
+| 2005 | SIERRA 1500 PICKUP    | 12-29-23      | 210 | SILVER    | UG049590 | Unknown  | 2GTEK19B551330304 |
 | 2002 | ALTIMA                | 12-29-23      | 321 | BLACK     | UG049517 | Unknown  | 1N4AL11D62C122064 |
 | 1994 | CHEVROLET 1500 PICKUP | 12-29-23      | 211 | TEAL      | UG049509 | Unknown  | 2GCEK19K0R1240404 |
 | 2000 | ESCALADE              | 12-29-23      | 210 | WHITE     | UG049483 | Unknown  | 1GYEK63R4YR180128 |
@@ -32,8 +32,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | RANGER                | 12-28-23      | 210 | BLUE      | UG049497 | Unknown  | 1FTZR15E81TA57540 |
 | 2007 | FORD F150 PICKUP      | 12-28-23      | 210 | MAROON    | UG049498 | Unknown  | 1FTPW14V47KC84658 |
 | 2002 | TUNDRA                | 12-28-23      | 210 | GRAY      | UG049385 | Unknown  | 5TBBT44182S319472 |
-| 2005 | TAHOE                 | 12-27-23      | 209 | MAROON    | UG049591 | Unknown  | 1GNEK13T65J194974 |
 | 2005 | DODGE 1500 PICKUP     | 12-27-23      | 209 | GRAY      | UG049583 | Unknown  | 1D7HA18DX5S116305 |
+| 2005 | TAHOE                 | 12-27-23      | 209 | MAROON    | UG049591 | Unknown  | 1GNEK13T65J194974 |
 | 2007 | TRAILBLAZER           | 12-27-23      | 210 | SILVER    | UG049395 | Unknown  | 1GNDT13SX72233823 |
 | 2007 | TAHOE                 | 12-27-23      | 210 | TAN       | UG048607 | Unknown  | 1GNFK13027R102581 |
 | 1996 | RANGER                | 12-26-23      | 209 | RED       | UG049548 | Unknown  | 1FTCR10A4TPB07341 |
@@ -45,10 +45,10 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2004 | LIBERTY               | 12-26-23      | 209 | BLUE      | UG049093 | Unknown  | 1J4GL58K94W106274 |
 | 2003 | EXPLORER              | 12-22-23      | 209 | RED       | UG049499 | Unknown  | 1FMZU63K33UC39949 |
 | 1999 | DODGE 1500 PICKUP     | 12-22-23      | 209 | WHITE     | UG049493 | Unknown  | 3B7HF13Z3XG145587 |
-| 2004 | TRAILBLAZER           | 12-22-23      | 209 | TAN       | UG049474 | Unknown  | 1GNDT13S142448664 |
+| 1999 | EXPLORER              | 12-22-23      | 209 | BLACK     | UG049488 | Unknown  | 1FMYU22X6XUC27916 |
 | 2000 | CIVIC                 | 12-22-23      | 320 | GREEN     | UG049476 | Unknown  | 1HGEJ8249YL122014 |
 | 2004 | ENVOY                 | 12-22-23      | 209 | MAROON    | UG049478 | Unknown  | 1GKDT13S742133896 |
-| 1999 | EXPLORER              | 12-22-23      | 209 | BLACK     | UG049488 | Unknown  | 1FMYU22X6XUC27916 |
+| 2004 | TRAILBLAZER           | 12-22-23      | 209 | TAN       | UG049474 | Unknown  | 1GNDT13S142448664 |
 | 1999 | 4 RUNNER              | 12-22-23      | 209 | SILVER    | UG049466 | Unknown  | JT3HN87RXX0196230 |
 | 2003 | EXPEDITION            | 12-22-23      | 209 | WHITE     | UG049447 | Unknown  | 1FMFU17L03LA87353 |
 | 1998 | BLAZER S10/JIMMY S15  | 12-22-23      | 209 | TAN       | UG049423 | Unknown  | 1GNDT13W6W2276475 |
@@ -63,8 +63,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1995 | DAKOTA                | 12-21-23      | 208 | GRAY      | UG049401 | Unknown  | 1B7GG23Y9SS192498 |
 | 2005 | ENVOY                 | 12-20-23      | 208 | SILVER    | UG049413 | Unknown  | 1GKDT13S752344663 |
 | 2006 | NAVIGATOR             | 12-20-23      | 208 | BLACK     | UG049363 | Unknown  | 5LMFU28566LJ09461 |
-| 2005 | EXPLORER              | 12-20-23      | 208 | GOLD      | UG049358 | Unknown  | 1FMZU73K05UB61364 |
 | 2004 | TRAILBLAZER           | 12-20-23      | 208 | GRAY      | UG049352 | Unknown  | 1GNDT13S342195900 |
+| 2005 | EXPLORER              | 12-20-23      | 208 | GOLD      | UG049358 | Unknown  | 1FMZU73K05UB61364 |
 | 2006 | ENVOY XL              | 12-20-23      | 208 | WHITE     | UG049328 | Unknown  | 1GKET16S366128125 |
 | 2001 | FORD F150 PICKUP      | 12-20-23      | 208 | BLUE      | UG049279 | Unknown  | 1FTRW08L41KE42225 |
 | 2004 | GRAND CHEROKEE        | 12-20-23      | 208 | BLUE      | UG049166 | Unknown  | 1J4GW48S84C323706 |
@@ -85,22 +85,22 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | SILVERADO 1500 PICKUP | 12-15-23      | 207 | GRAY      | UG049287 | Unknown  | 1GCEK19T91E187486 |
 | 2003 | ODYSSEY               | 12-15-23      | 316 | WHITE     | UG049293 | Unknown  | 5FNRL18083B076404 |
 | 2002 | BLAZER S10/JIMMY S15  | 12-15-23      | 207 | SILVER    | UG049300 | Unknown  | 1GNDT13WX2K189088 |
-| 2004 | FORD F250SD PICKUP    | 12-15-23      | 207 | BLUE      | UG049208 | Unknown  | 1FTNX20LX4ED82294 |
 | 2002 | SUBURBAN 1500         | 12-15-23      | 207 | TAN       | UG049247 | Unknown  | 1GNEC16Z12J168470 |
 | 2011 | SONATA                | 12-15-23      | 316 | SILVER    | UG049261 | Unknown  | 5NPEC4AC2BH144779 |
+| 2004 | FORD F250SD PICKUP    | 12-15-23      | 207 | BLUE      | UG049208 | Unknown  | 1FTNX20LX4ED82294 |
 | 2000 | ASTRO                 | 12-15-23      | 207 | WHITE     | UG049101 | Unknown  | 1GCDM19W6YB146163 |
 | 2003 | SILVERADO 2500 PICKUP | 12-15-23      | 207 | WHITE     | UG048971 | Unknown  | 1GCHK29U23E132019 |
 | 2004 | MURANO                | 12-14-23      | 315 | GRAY      | UG049173 | Unknown  | JN8AZ08W24W334881 |
-| 2009 | ALTIMA                | 12-13-23      | 315 | RED       | UG049230 | Unknown  | 1N4AL21E29N486091 |
 | 2000 | ACCORD                | 12-13-23      | 315 | GOLD      | UG049238 | Unknown  | 1HGCG1650YA044508 |
+| 2009 | ALTIMA                | 12-13-23      | 315 | RED       | UG049230 | Unknown  | 1N4AL21E29N486091 |
 | 2008 | LIBERTY               | 12-11-23      | 205 | SILVER    | UG049197 | Unknown  | 1J8GN58K28W247721 |
 | 1999 | BMW 740i              | 12-08-23      | 313 | BLACK     | UG049193 | Unknown  | WBAGH8334XDP04925 |
 | 2004 | SENTRA                | 12-08-23      | 314 | WHITE     | UG049097 | Unknown  | 3N1AB51D34L732261 |
 | 2014 | TAURUS                | 12-07-23      | 416 | SILVER    | UG048867 | Unknown  | 1FAHP2D87EG138133 |
 | 2012 | ODYSSEY               | 12-07-23      | 313 | RED       | UG048561 | Unknown  | 5FNRL5H60CB054926 |
+| 2010 | ENCLAVE               | 12-07-23      | 416 | TAN       | UG048347 | Unknown  | 5GALRAED3AJ153764 |
 | 2011 | 200                   | 12-07-23      | 416 | BLACK     | UG048368 | Unknown  | 1C3BC2FB9BN597468 |
 | 2008 | FOCUS                 | 12-07-23      | 416 | BLUE      | UG048340 | Unknown  | 1FAHP35N48W224570 |
-| 2010 | ENCLAVE               | 12-07-23      | 416 | TAN       | UG048347 | Unknown  | 5GALRAED3AJ153764 |
 | 2008 | MARINER               | 12-07-23      | 416 | GRAY      | UG048320 | Unknown  | 4M2CU81128KJ10551 |
 | 2002 | DEVILLE               | 12-07-23      | 416 | WHITE     | UG048275 | Unknown  | 1G6KD54YX2U218570 |
 | 2010 | ESCAPE                | 12-07-23      | 416 | BLUE      | UG047858 | Unknown  | 1FMCU9D76AKB72953 |
@@ -116,20 +116,20 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2002 | EXPRESS 1500 VAN      | 11-29-23      | 203 | WHITE     | UG048911 | Unknown  | 1GCHG35R221122606 |
 | 1999 | DURANGO               | 11-29-23      | 203 | GRAY      | UG048860 | 197069   | 1B4HS28Y9XF675028 |
 | 2007 | RIDGELINE             | 11-29-23      | 203 | SILVER    | UG048514 | Unknown  | 2HJYK16517H532428 |
+| 1998 | FORESTER              | 11-27-23      | 309 | BLACK     | UG048850 | Unknown  | JF1SF6554WH771141 |
 | 2013 | AUDI A4               | 11-27-23      | 309 | BLACK     | UG048833 | Unknown  | WAUFFAFL2DN047195 |
 | 2001 | FORD F150 PICKUP      | 11-27-23      | 202 | RED       | UG048843 | Unknown  | 1FTRW08L41KC29176 |
-| 1998 | FORESTER              | 11-27-23      | 309 | BLACK     | UG048850 | Unknown  | JF1SF6554WH771141 |
 | 1995 | DAKOTA                | 11-27-23      | 202 | WHITE     | UG048832 | Unknown  | 1B7HL26X6SS360178 |
 | 1989 | GMC 2500 VAN          | 11-22-23      | 202 | GRAY      | UG048823 | Unknown  | 2GDEG25K8K4524635 |
 | 2004 | EXPEDITION            | 11-22-23      | 202 | GRAY      | UG048815 | Unknown  | 1FMPU16L14LA72688 |
+| 2007 | G6                    | 11-21-23      | 411 | BLUE      | UG048799 | Unknown  | 1G2ZG57N374161872 |
 | 2014 | PASSAT                | 11-21-23      | 307 | GRAY      | UG048810 | Unknown  | 1VWBM7A31EC014412 |
 | 1999 | CAMRY                 | 11-21-23      | 307 | BROWN     | UG048812 | Unknown  | JT2BG22K9X0308818 |
-| 2007 | G6                    | 11-21-23      | 411 | BLUE      | UG048799 | Unknown  | 1G2ZG57N374161872 |
 | 1998 | FRONTIER              | 11-21-23      | 202 | BLACK     | UG048781 | Unknown  | 1N6DD26Y1WC357741 |
 | 1995 | TAURUS                | 11-21-23      | 411 | GOLD      | UG048756 | Unknown  | 1FALP52U7SG247375 |
 | 2004 | FOCUS                 | 11-21-23      | 411 | WHITE     | UG048755 | Unknown  | 1FAFP34304W158116 |
-| 2001 | CARAVAN               | 11-21-23      | 411 | RED       | UG048746 | Unknown  | 2B4GP44391R354254 |
 | 2012 | TERRAIN               | 11-21-23      | 411 | BLACK     | UG048750 | Unknown  | 2GKFLXE52C6346081 |
+| 2001 | CARAVAN               | 11-21-23      | 411 | RED       | UG048746 | Unknown  | 2B4GP44391R354254 |
 | 2008 | VOLVO 70 SERIES       | 11-21-23      | 307 | SILVER    | UG048020 | Unknown  | YV4BZ982481004015 |
 | 2003 | CIVIC                 | 11-20-23      | 306 | GOLD      | UG048665 | Unknown  | 2HGES15563H602235 |
 | 1998 | CIVIC                 | 11-20-23      | 307 | SILVER    | UG048652 | Unknown  | 1HGEJ864XWL011530 |
@@ -139,59 +139,59 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | DURANGO               | 09-01-23      | 201 | RED       | UG046938 | Unknown  | 1B4HS28N51F620590 |
 | 2006 | EQUINOX               | 03-01-24      | 405 | SILVER    | UG050798 | Unknown  | 2CNDL73FX66085975 |
 | 2014 | SORENTO               | 03-01-24      | 322 | BLACK     | UG050797 | Unknown  | 5XYKTCA62EG538558 |
+| 2008 | VUE                   | 03-01-24      | 405 | MAROON    | UG050796 | Unknown  | 3GSCL33P28S599720 |
+| 2002 | AVALON                | 03-01-24      | 321 | SILVER    | UG050794 | Unknown  | 4T1BF28B92U266052 |
+| 1998 | CR-V                  | 03-01-24      | 321 | RED       | UG050790 | Unknown  | JHLRD1865WC064605 |
+| 1998 | CIVIC                 | 03-01-24      | 321 | BLACK     | UG050787 | Unknown  | 1HGEJ6673WL050071 |
+| 2004 | GRAND AM              | 03-01-24      | 405 | BLACK     | UG050786 | Unknown  | 1G2NV12E24C123135 |
+| 2003 | COROLLA               | 03-01-24      | 321 | BLACK     | UG050785 | Unknown  | 1NXBR32E03Z060460 |
+| 2011 | ACADIA                | 03-01-24      | 206 | BLACK     | UG050784 | Unknown  | 1GKKVSED0BJ378337 |
 | 2008 | PASSAT                | 03-01-24      | 322 | GRAY      | UG050782 | Unknown  | WVWEK73C48E144986 |
 | 2011 | VERSA                 | 03-01-24      | 322 | GRAY      | UG050783 | Unknown  | 3N1BC1CP1BL403668 |
-| 2011 | ACADIA                | 03-01-24      | 206 | BLACK     | UG050784 | Unknown  | 1GKKVSED0BJ378337 |
-| 2003 | COROLLA               | 03-01-24      | 321 | BLACK     | UG050785 | Unknown  | 1NXBR32E03Z060460 |
-| 2004 | GRAND AM              | 03-01-24      | 405 | BLACK     | UG050786 | Unknown  | 1G2NV12E24C123135 |
-| 1998 | CIVIC                 | 03-01-24      | 321 | BLACK     | UG050787 | Unknown  | 1HGEJ6673WL050071 |
-| 1998 | CR-V                  | 03-01-24      | 321 | RED       | UG050790 | Unknown  | JHLRD1865WC064605 |
-| 2002 | AVALON                | 03-01-24      | 321 | SILVER    | UG050794 | Unknown  | 4T1BF28B92U266052 |
-| 2008 | VUE                   | 03-01-24      | 405 | MAROON    | UG050796 | Unknown  | 3GSCL33P28S599720 |
 | 2000 | SILVERADO 1500 PICKUP | 03-01-24      | 206 | WHITE     | UG050781 | Unknown  | 1GCEK14W3YZ337600 |
+| 2005 | SIERRA 1500 PICKUP    | 03-01-24      | 206 | BLUE      | UG050777 | Unknown  | 2GTEK13T551323175 |
 | 2005 | FOCUS                 | 03-01-24      | 405 | BLACK     | UG050778 | Unknown  | 1FAHP36N75W127602 |
 | 2008 | SIENNA                | 03-01-24      | 321 | SILVER    | UG050779 | Unknown  | 5TDZK23C58S144686 |
-| 2004 | MURANO                | 03-01-24      | 321 | GOLD      | UG050773 | Unknown  | JN8AZ08W64W310244 |
-| 2004 | IMPALA                | 03-01-24      | 405 | RED       | UG050776 | Unknown  | 2G1WF52E249460649 |
 | 2005 | MOUNTAINEER           | 03-01-24      | 206 | BLACK     | UG050775 | Unknown  | 4M2DU86W25ZJ12523 |
-| 2005 | SIERRA 1500 PICKUP    | 03-01-24      | 206 | BLUE      | UG050777 | Unknown  | 2GTEK13T551323175 |
+| 2004 | IMPALA                | 03-01-24      | 405 | RED       | UG050776 | Unknown  | 2G1WF52E249460649 |
+| 2004 | MURANO                | 03-01-24      | 321 | GOLD      | UG050773 | Unknown  | JN8AZ08W64W310244 |
 | 2005 | YUKON                 | 03-01-24      | 206 | WHITE     | UG050771 | Unknown  | 1GKEK13T85J203333 |
 | 2004 | SILVERADO 1500 PICKUP | 03-01-24      | 206 | RED       | UG050770 | Unknown  | 2GCEK13T441352357 |
 | 2000 | MERCEDES ML-CLASS     | 03-01-24      | 321 | BLACK     | UG050767 | Unknown  | 4JGAB72E4YA164532 |
-| 2007 | ACCORD                | 03-01-24      | 321 | TAN       | UG050761 | Unknown  | 1HGCM56467A120321 |
-| 2010 | LEGACY                | 03-01-24      | 322 | GRAY      | UG050763 | Unknown  | 4S4BRBFC3A3353680 |
-| 1997 | MONTE CARLO           | 03-01-24      | 405 | BLACK     | UG050764 | Unknown  | 2G1WW12M1V9128767 |
 | 2004 | VIBE                  | 03-01-24      | 405 | RED       | UG050766 | Unknown  | 5Y2SL62804Z451663 |
+| 1997 | MONTE CARLO           | 03-01-24      | 405 | BLACK     | UG050764 | Unknown  | 2G1WW12M1V9128767 |
+| 2010 | LEGACY                | 03-01-24      | 322 | GRAY      | UG050763 | Unknown  | 4S4BRBFC3A3353680 |
+| 2007 | ACCORD                | 03-01-24      | 321 | TAN       | UG050761 | Unknown  | 1HGCM56467A120321 |
 | 2006 | YUKON XL 1500         | 03-01-24      | 206 | BLUE      | UG050756 | Unknown  | 1GKFK16Z46J176606 |
 | 2009 | SANTA FE              | 03-01-24      | 321 | MAROON    | UG050750 | Unknown  | 5NMSG73D69H283741 |
 | 2000 | CIVIC                 | 03-01-24      | 322 | SILVER    | UG050746 | Unknown  | 1HGEJ8246YL059065 |
 | 2007 | BMW 525i              | 03-01-24      | 321 | SILVER    | UG050702 | Unknown  | WBANF33537CS41098 |
 | 2004 | BMW X3                | 03-01-24      | 321 | SILVER    | UG050695 | Unknown  | WBXPA93404WC30144 |
 | 2007 | FORD F150 PICKUP      | 03-01-24      | 206 | SILVER    | UG050683 | Unknown  | 1FTPW14V27KC54803 |
-| 2003 | TAHOE                 | 02-29-24      | 205 | GREEN     | UG050772 | Unknown  | 1GNEK13Z73R105268 |
 | 2003 | CENTURY               | 02-29-24      | 404 | RED       | UG050774 | Unknown  | 2G4WS52J531204918 |
+| 2003 | TAHOE                 | 02-29-24      | 205 | GREEN     | UG050772 | Unknown  | 1GNEK13Z73R105268 |
 | 2007 | FORESTER              | 02-29-24      | 321 | GOLD      | UG050765 | Unknown  | JF1SG63607H721038 |
 | 1994 | RANGER                | 02-29-24      | 205 | BLUE      | UG050769 | Unknown  | 1FTCR10AXRPA24442 |
 | 2000 | LESABRE               | 02-29-24      | 404 | TAN       | UG050760 | Unknown  | 1G4HP54K8Y4254434 |
 | 2001 | PARK AVENUE           | 02-29-24      | 404 | SILVER    | UG050759 | Unknown  | 1G4CU541014234856 |
 | 2011 | DTS                   | 02-29-24      | 405 | WHITE     | UG050757 | Unknown  | 1G6KD5E68BU115600 |
 | 2000 | YUKON                 | 02-29-24      | 205 | BLACK     | UG050755 | Unknown  | 1GKEK13R2YR104971 |
-| 2012 | FOCUS                 | 02-29-24      | 404 | SILVER    | UG050749 | Unknown  | 1FAHP3M26CL374178 |
-| 2003 | MALIBU                | 02-29-24      | 404 | GREEN     | UG050753 | Unknown  | 1G1ND52J33M654090 |
 | 2007 | TRAILBLAZER           | 02-29-24      | 205 | MAROON    | UG050752 | Unknown  | 1GNDT13S772106012 |
+| 2003 | MALIBU                | 02-29-24      | 404 | GREEN     | UG050753 | Unknown  | 1G1ND52J33M654090 |
 | 1995 | ASTRO                 | 02-29-24      | 205 | MAROON    | UG050747 | Unknown  | 1GBEL19W0SB196110 |
+| 2012 | FOCUS                 | 02-29-24      | 404 | SILVER    | UG050749 | Unknown  | 1FAHP3M26CL374178 |
 | 1999 | MUSTANG               | 02-29-24      | 404 | RED       | UG050745 | Unknown  | 1FAFP4040XF115341 |
 | 2002 | SILVERADO 1500 PICKUP | 02-29-24      | 205 | SILVER    | UG050741 | Unknown  | 2GCEC19V221188402 |
-| 2004 | LINCOLN LS            | 02-29-24      | 405 | BLUE      | UG050738 | 90000    | 1LNHM87A44Y669900 |
 | 2010 | FUSION                | 02-29-24      | 404 | BLUE      | UG050739 | Unknown  | 3FAHP0JG8AR403211 |
 | 2008 | FUSION                | 02-29-24      | 404 | GREEN     | UG050740 | Unknown  | 3FAHP07Z58R148245 |
+| 2004 | LINCOLN LS            | 02-29-24      | 405 | BLUE      | UG050738 | 90000    | 1LNHM87A44Y669900 |
+| 2005 | MONTE CARLO           | 02-29-24      | 405 | BLACK     | UG050735 | Unknown  | 2G1WZ151959234036 |
 | 2006 | FOCUS                 | 02-29-24      | 404 | BLACK     | UG050736 | 198744   | 1FAHP34NX6W200823 |
 | 2005 | PILOT                 | 02-29-24      | 205 | SILVER    | UG050733 | Unknown  | 5FNYF18665B000030 |
-| 2005 | MONTE CARLO           | 02-29-24      | 405 | BLACK     | UG050735 | Unknown  | 2G1WZ151959234036 |
 | 2003 | DEVILLE               | 02-29-24      | 405 | TAN       | UG050729 | Unknown  | 1G6KD54Y63U285491 |
 | 2008 | G6                    | 02-29-24      | 404 | GRAY      | UG050732 | Unknown  | 1G2ZH57N184182153 |
-| 2003 | ION                   | 02-29-24      | 404 | SILVER    | UG050731 | Unknown  | 1G8AZ52F33Z114190 |
 | 2005 | MONTEGO               | 02-29-24      | 405 | WHITE     | UG050730 | Unknown  | 1MEFM42125G605999 |
+| 2003 | ION                   | 02-29-24      | 404 | SILVER    | UG050731 | Unknown  | 1G8AZ52F33Z114190 |
 | 2006 | SILVERADO 1500 PICKUP | 02-29-24      | 205 | BLACK     | UG050720 | Unknown  | 3GCEK14X76G205462 |
 | 2000 | SILVERADO 1500 PICKUP | 02-29-24      | 205 | RED       | UG050717 | Unknown  | 1GCEK19T9YE100213 |
 | 2006 | LINCOLN LS            | 02-29-24      | 405 | BLACK     | UG050707 | Unknown  | 1LNFM87A26Y622021 |
@@ -201,16 +201,16 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | VOLVO XC90            | 02-29-24      | 321 | WHITE     | UG050483 | Unknown  | YV1CZ852751204429 |
 | 2002 | TOWN & COUNTRY        | 02-28-24      | 403 | BLUE      | UG050754 | Unknown  | 2C4GP54L32R720168 |
 | 2010 | EQUINOX               | 02-28-24      | 403 | GOLD      | UG050743 | Unknown  | 2CNALBEW2A6359343 |
-| 2009 | LEGACY                | 02-28-24      | 320 | WHITE     | UG050726 | Unknown  | 4S3BL616097226517 |
-| 2008 | DTS                   | 02-28-24      | 403 | BLACK     | UG050725 | Unknown  | 1G6KD57Y28U141696 |
-| 2002 | MUSTANG               | 02-28-24      | 403 | BLUE      | UG050713 | Unknown  | 1FAFP40402F200222 |
-| 2004 | VOLVO XC90            | 02-28-24      | 321 | SILVER    | UG050724 | Unknown  | YV1CY59H541103453 |
 | 1995 | FORD E150 VAN         | 02-28-24      | 205 | GREEN     | UG050723 | Unknown  | 1FDEE14Y6SHB37828 |
+| 2004 | VOLVO XC90            | 02-28-24      | 321 | SILVER    | UG050724 | Unknown  | YV1CY59H541103453 |
+| 2008 | DTS                   | 02-28-24      | 403 | BLACK     | UG050725 | Unknown  | 1G6KD57Y28U141696 |
+| 2009 | LEGACY                | 02-28-24      | 320 | WHITE     | UG050726 | Unknown  | 4S3BL616097226517 |
 | 2006 | MALIBU                | 02-28-24      | 404 | SILVER    | UG050719 | Unknown  | 1G1ZT618X6F119694 |
 | 2004 | FORD F150 PICKUP      | 02-28-24      | 205 | BLUE      | UG050716 | Unknown  | 1FTPW14504KD49954 |
 | 2013 | FORD E150 VAN         | 02-28-24      | 205 | WHITE     | UG050715 | Unknown  | 1FTNE1EW5DDB25617 |
 | 2008 | MALIBU                | 02-28-24      | 403 | SILVER    | UG050714 | Unknown  | 1G1ZG57B78F287765 |
 | 2008 | OUTLOOK               | 02-28-24      | 403 | SILVER    | UG050712 | Unknown  | 5GZER13778J229662 |
+| 2002 | MUSTANG               | 02-28-24      | 403 | BLUE      | UG050713 | Unknown  | 1FAFP40402F200222 |
 | 2003 | SUBURBAN 1500         | 02-28-24      | 205 | BLACK     | UG050710 | Unknown  | 3GNFK16Z73G238631 |
 | 2003 | PILOT                 | 02-28-24      | 205 | BLACK     | UG050704 | Unknown  | 2HKYF18553H600012 |
 | 1997 | FORD F150 PICKUP      | 02-28-24      | 205 | WHITE     | UG050693 | Unknown  | 1FTEX08L7VKD46056 |
@@ -220,8 +220,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | CAVALIER              | 02-28-24      | 403 | BLUE      | UG050685 | Unknown  | 1G1JC124417236752 |
 | 2007 | EQUINOX               | 02-28-24      | 404 | BLACK     | UG050682 | Unknown  | 2CNDL63F076098729 |
 | 2006 | G6                    | 02-28-24      | 404 | RED       | UG050678 | Unknown  | 1G2ZF55B364156987 |
-| 2008 | FUSION                | 02-28-24      | 404 | BLACK     | UG050674 | Unknown  | 3FAHP08108R175815 |
 | 2000 | TAURUS                | 02-28-24      | 404 | WHITE     | UG050671 | Unknown  | 1FAFP55U4YA122211 |
+| 2008 | FUSION                | 02-28-24      | 404 | BLACK     | UG050674 | Unknown  | 3FAHP08108R175815 |
 | 2001 | ACCORD                | 02-28-24      | 320 | BLACK     | UG050667 | Unknown  | 1HGCG16501A070788 |
 | 2002 | MONTANA               | 02-28-24      | 404 | RED       | UG050660 | Unknown  | 1GMDU03E12D139932 |
 | 2006 | ACCORD                | 02-28-24      | 320 | BLUE      | UG050650 | Unknown  | 1HGCM66536A064402 |
@@ -232,18 +232,18 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | PT CRUISER            | 02-27-24      | 403 | WHITE     | UG050708 | Unknown  | 3C3EY55E15T266531 |
 | 2010 | CARAVAN               | 02-27-24      | 403 | BLUE      | UG050706 | Unknown  | 2D4RN5DX7AR143793 |
 | 2007 | PACIFICA              | 02-27-24      | 403 | WHITE     | UG050692 | Unknown  | 2A8GM68X47R291103 |
-| 2008 | ACCORD                | 02-27-24      | 320 | BLACK     | UG050690 | Unknown  | 1HGCP268X8A088886 |
 | 2008 | TRAILBLAZER           | 02-27-24      | 204 | BLACK     | UG050691 | Unknown  | 1GNDT13S582165240 |
+| 2008 | ACCORD                | 02-27-24      | 320 | BLACK     | UG050690 | Unknown  | 1HGCP268X8A088886 |
 | 2004 | ALERO                 | 02-27-24      | 403 | SILVER    | UG050688 | Unknown  | 1G3NL52EX4C151323 |
 | 2005 | TRAILBLAZER EXT       | 02-27-24      | 204 | TAN       | UG050681 | Unknown  | 1GNET16S956144931 |
-| 1998 | DODGE 2500 PICKUP     | 02-27-24      | 204 | BROWN     | UG050680 | Unknown  | 1B7KF23W8WJ215437 |
 | 2011 | SONATA                | 02-27-24      | 320 | GRAY      | UG050679 | Unknown  | 5NPEC4AC8BH098228 |
+| 1998 | DODGE 2500 PICKUP     | 02-27-24      | 204 | BROWN     | UG050680 | Unknown  | 1B7KF23W8WJ215437 |
 | 2006 | CAMRY                 | 02-27-24      | 320 | GOLD      | UG050677 | Unknown  | JTDBE32K263057527 |
-| 2010 | HHR                   | 02-27-24      | 403 | SILVER    | UG050675 | Unknown  | 3GNBABDB9AS603222 |
 | 2003 | TL                    | 02-27-24      | 320 | BLACK     | UG050676 | Unknown  | 19UUA566X3A038861 |
-| 1983 | CUTLASS               | 02-27-24      | 403 | WHITE     | UG050672 | Unknown  | 1G3AR47AXDM453699 |
-| 2006 | SONATA                | 02-27-24      | 320 | BLACK     | UG050668 | Unknown  | 5NPEU46F46H028702 |
 | 2005 | EXPLORER              | 02-27-24      | 204 | GREEN     | UG050670 | Unknown  | 1FMZU73E35ZA48165 |
+| 1983 | CUTLASS               | 02-27-24      | 403 | WHITE     | UG050672 | Unknown  | 1G3AR47AXDM453699 |
+| 2010 | HHR                   | 02-27-24      | 403 | SILVER    | UG050675 | Unknown  | 3GNBABDB9AS603222 |
+| 2006 | SONATA                | 02-27-24      | 320 | BLACK     | UG050668 | Unknown  | 5NPEU46F46H028702 |
 | 2004 | DURANGO               | 02-27-24      | 205 | RED       | UG050666 | Unknown  | 1D4HB58D74F239908 |
 | 2005 | XTERRA                | 02-27-24      | 205 | GOLD      | UG050665 | Unknown  | 5N1AN08W65C649818 |
 | 2007 | IMPALA                | 02-27-24      | 403 | SILVER    | UG050664 | Unknown  | 2G1WB58KX79240673 |
@@ -264,8 +264,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | ALTIMA                | 02-23-24      | 204 | GRAY      | UG050663 | Unknown  | 1N4AL21E07C113625 |
 | 2010 | JOURNEY               | 02-23-24      | 402 | BLACK     | UG050662 | Unknown  | 3D4PG4FB2AT177876 |
 | 2002 | MALIBU                | 02-23-24      | 402 | BROWN     | UG050661 | Unknown  | 1G1ND52J42M522762 |
-| 2012 | IMPALA                | 02-23-24      | 402 | CHAMPAGNE | UG050657 | Unknown  | 2G1WF5E37C1157213 |
 | 2003 | REGAL                 | 02-23-24      | 402 | TAN       | UG050654 | Unknown  | 2G4WB52K531153767 |
+| 2012 | IMPALA                | 02-23-24      | 402 | CHAMPAGNE | UG050657 | Unknown  | 2G1WF5E37C1157213 |
 | 2011 | FOCUS                 | 02-23-24      | 402 | GRAY      | UG050651 | Unknown  | 1FAHP3HN3BW149492 |
 | 2003 | FORD F150 PICKUP      | 02-23-24      | 204 | BLUE      | UG050649 | Unknown  | 1FTRW07623KD31638 |
 | 2001 | FORD F150 PICKUP      | 02-23-24      | 204 | TAN       | UG050646 | Unknown  | 2FTRX18LX1CA45934 |
@@ -283,24 +283,24 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | TOWN & COUNTRY        | 02-22-24      | 401 | BLUE      | UG050659 | Unknown  | 2A4RR5D12AR449890 |
 | 2006 | SILVERADO 1500 PICKUP | 02-22-24      | 203 | GREEN     | UG050653 | Unknown  | 1GCEK14Z66Z276475 |
 | 2008 | JETTA                 | 02-22-24      | 320 | SILVER    | UG050647 | Unknown  | 3VWRM71K28M150315 |
+| 2008 | CARAVAN               | 02-22-24      | 401 | ORANGE    | UG050640 | Unknown  | 2D8HN44H48R660329 |
 | 2008 | FOCUS                 | 02-22-24      | 401 | RED       | UG050642 | Unknown  | 1FAHP35N28W103181 |
 | 2008 | SPECTRA               | 02-22-24      | 320 | BLUE      | UG050643 | Unknown  | KNAFE121785561895 |
-| 2008 | CARAVAN               | 02-22-24      | 401 | ORANGE    | UG050640 | Unknown  | 2D8HN44H48R660329 |
 | 2006 | MONTEGO               | 02-22-24      | 401 | SILVER    | UG050638 | Unknown  | 1MEHM42126G618911 |
 | 2013 | IMPALA                | 02-22-24      | 401 | SILVER    | UG050635 | Unknown  | 2G1WC5E37D1104683 |
-| 2005 | EXPLORER              | 02-22-24      | 203 | BLACK     | UG050628 | Unknown  | 1FMZU72K95ZA77676 |
-| 2005 | UPLANDER              | 02-22-24      | 401 | TAN       | UG050629 | Unknown  | 1GNDV33L15D177917 |
-| 2006 | SONATA                | 02-22-24      | 319 | GRAY      | UG050630 | Unknown  | 5NPEU46F96H025052 |
 | 2012 | IMPALA                | 02-22-24      | 402 | RED       | UG050625 | Unknown  | 2G1WG5E31C1178765 |
+| 2006 | SONATA                | 02-22-24      | 319 | GRAY      | UG050630 | Unknown  | 5NPEU46F96H025052 |
+| 2005 | UPLANDER              | 02-22-24      | 401 | TAN       | UG050629 | Unknown  | 1GNDV33L15D177917 |
+| 2005 | EXPLORER              | 02-22-24      | 203 | BLACK     | UG050628 | Unknown  | 1FMZU72K95ZA77676 |
 | 2009 | PILOT                 | 02-22-24      | 204 | GRAY      | UG050621 | Unknown  | 5FNYF48429B000872 |
 | 2007 | TORRENT               | 02-22-24      | 401 | BLACK     | UG050617 | Unknown  | 2CKDL63F376056066 |
-| 2006 | HHR                   | 02-22-24      | 401 | GREEN     | UG050609 | Unknown  | 3GNDA23DX6S647054 |
 | 2003 | JETTA                 | 02-22-24      | 318 | BLACK     | UG050611 | Unknown  | 3VWSK69M73M025942 |
+| 2006 | HHR                   | 02-22-24      | 401 | GREEN     | UG050609 | Unknown  | 3GNDA23DX6S647054 |
 | 2002 | SILVERADO 1500 PICKUP | 02-22-24      | 203 | BLUE      | UG050603 | Unknown  | 1GCEK14VX2Z295585 |
 | 1997 | FORD F150 PICKUP      | 02-22-24      | 204 | RED       | UG050598 | Unknown  | 1FTDX18W6VKD05932 |
 | 2011 | IMPALA                | 02-22-24      | 402 | WHITE     | UG050595 | Unknown  | 2G1WD5EM3B1292041 |
-| 2005 | TRAILBLAZER           | 02-22-24      | 204 | SILVER    | UG050592 | Unknown  | 1GNDT13S152241614 |
 | 2007 | FIVE HUNDRED          | 02-22-24      | 402 | GREEN     | UG050594 | Unknown  | 1FAHP24117G128686 |
+| 2005 | TRAILBLAZER           | 02-22-24      | 204 | SILVER    | UG050592 | Unknown  | 1GNDT13S152241614 |
 | 2004 | ENDEAVOR              | 02-22-24      | 203 | GRAY      | UG050585 | Unknown  | 4A4MN31S04E065596 |
 | 2009 | ENCLAVE               | 02-22-24      | 402 | BLUE      | UG050588 | Unknown  | 5GAEV23D59J168663 |
 | 2002 | SILVERADO 1500 PICKUP | 02-22-24      | 204 | TAN       | UG050587 | Unknown  | 1GCEK19V12Z296200 |
@@ -321,9 +321,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2011 | CR-V                  | 02-21-24      | 318 | RED       | UG050613 | Unknown  | 5J6RE4H77BL044736 |
 | 2016 | EQUINOX               | 02-21-24      | 422 | BLACK     | UG050615 | Unknown  | 2GNALCEK9G6172267 |
 | 2006 | IMPALA                | 02-21-24      | 422 | SILVER    | UG050604 | Unknown  | 2G1WT58K869259010 |
+| 2006 | EQUINOX               | 02-21-24      | 401 | GOLD      | UG050600 | Unknown  | 2CNDL73F066208134 |
 | 2004 | SABLE                 | 02-21-24      | 401 | GRAY      | UG050601 | Unknown  | 1MEFM50U34G615197 |
 | 2005 | PACIFICA              | 02-21-24      | 401 | BLACK     | UG050597 | Unknown  | 2C8GM68465R588981 |
-| 2006 | EQUINOX               | 02-21-24      | 401 | GOLD      | UG050600 | Unknown  | 2CNDL73F066208134 |
 | 2008 | UPLANDER              | 02-21-24      | 401 | SILVER    | UG050590 | Unknown  | 1GNDV23128D141232 |
 | 2006 | FIVE HUNDRED          | 02-21-24      | 401 | BLACK     | UG050583 | Unknown  | 1FAHP28136G118671 |
 | 2006 | CARAVAN               | 02-21-24      | 401 | BLUE      | UG050577 | Unknown  | 2D4GP44L56R701348 |
@@ -334,17 +334,17 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2006 | JETTA                 | 02-20-24      | 318 | RED       | UG050576 | Unknown  | 3VWSF71K86M710704 |
 | 2008 | YUKON                 | 02-20-24      | 203 | GOLD      | UG050574 | Unknown  | 1GKFK63828J159167 |
 | 2010 | FUSION                | 02-20-24      | 422 | BLACK     | UG050572 | Unknown  | 3FAHP0KC9AR124880 |
-| 2007 | IMPREZA               | 02-20-24      | 318 | GRAY      | UG050564 | Unknown  | JF1GD61627G501147 |
+| 2005 | CAMRY                 | 02-20-24      | 317 | GREEN     | UG050569 | Unknown  | 4T1BE32KX5U065637 |
 | 2002 | EXPLORER              | 02-20-24      | 203 | BLUE      | UG050570 | Unknown  | 1FMZU73EX2ZB79380 |
 | 2005 | GRAND MARQUIS         | 02-20-24      | 422 | GOLD      | UG050563 | Unknown  | 2MEHM75W25X639288 |
-| 2005 | CAMRY                 | 02-20-24      | 317 | GREEN     | UG050569 | Unknown  | 4T1BE32KX5U065637 |
+| 2007 | IMPREZA               | 02-20-24      | 318 | GRAY      | UG050564 | Unknown  | JF1GD61627G501147 |
 | 2010 | MURANO                | 02-20-24      | 318 | BLACK     | UG050568 | Unknown  | JN8AZ1MW9AW109137 |
 | 2005 | FORESTER              | 02-20-24      | 318 | SILVER    | UG050567 | Unknown  | JF1SG636X5H724445 |
 | 2003 | CR-V                  | 02-20-24      | 318 | BROWN     | UG050565 | Unknown  | JHLRD78883C012031 |
 | 2007 | CARAVAN               | 02-20-24      | 422 | WHITE     | UG050560 | Unknown  | 1D4GP23R07B134850 |
 | 2006 | TAURUS                | 02-20-24      | 422 | GREEN     | UG050553 | Unknown  | 1FAFP56U26A169779 |
-| 2006 | HIGHLANDER            | 02-20-24      | 318 | BLUE      | UG050547 | Unknown  | JTEEP21A360152055 |
 | 2003 | SENTRA                | 02-20-24      | 318 | GRAY      | UG050552 | Unknown  | 3N1CB51D73L779039 |
+| 2006 | HIGHLANDER            | 02-20-24      | 318 | BLUE      | UG050547 | Unknown  | JTEEP21A360152055 |
 | 2005 | SONATA                | 02-20-24      | 318 | GREEN     | UG050364 | Unknown  | KMHWF35H35A149251 |
 | 2004 | ACCORD                | 02-20-24      | 318 | BLUE      | UG050344 | Unknown  | 1HGCM72614A007004 |
 | 2001 | AUDI ALLROAD          | 02-20-24      | 318 | SILVER    | UG050283 | Unknown  | WAUYP64B71N131926 |
@@ -369,17 +369,17 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2002 | FORD F150 PICKUP      | 02-16-24      | 202 | GREEN     | UG050566 | Unknown  | 1FTRW08L62KB07453 |
 | 2004 | FREESTAR              | 02-16-24      | 421 | WHITE     | UG050571 | Unknown  | 2FMZA57614BA77553 |
 | 2010 | SRX                   | 02-16-24      | 422 | BLACK     | UG050562 | Unknown  | 3GYFNDEY0AS606694 |
-| 2012 | REGAL                 | 02-16-24      | 421 | BLACK     | UG050561 | Unknown  | 2G4GR5EK7C9130682 |
 | 2004 | FOCUS                 | 02-16-24      | 421 | BLACK     | UG050559 | Unknown  | 1FAFP34324W159672 |
+| 2012 | REGAL                 | 02-16-24      | 421 | BLACK     | UG050561 | Unknown  | 2G4GR5EK7C9130682 |
 | 2006 | ENVOY                 | 02-16-24      | 202 | BLUE      | UG050558 | Unknown  | 1GKDT13S262133050 |
-| 2004 | GRAND CHEROKEE        | 02-16-24      | 203 | SILVER    | UG050555 | Unknown  | 1J4GW58N34C434924 |
-| 2005 | RELAY                 | 02-16-24      | 421 | BLUE      | UG050556 | Unknown  | 5GZDV03L65D176705 |
 | 2011 | HHR                   | 02-16-24      | 421 | WHITE     | UG050557 | Unknown  | 3GNBABFW6BS650354 |
+| 2005 | RELAY                 | 02-16-24      | 421 | BLUE      | UG050556 | Unknown  | 5GZDV03L65D176705 |
+| 2004 | GRAND CHEROKEE        | 02-16-24      | 203 | SILVER    | UG050555 | Unknown  | 1J4GW58N34C434924 |
 | 2004 | ESCAPE                | 02-16-24      | 422 | RED       | UG050554 | Unknown  | 1FMYU93154KB18759 |
-| 2006 | CAMRY                 | 02-16-24      | 317 | BLACK     | UG050546 | Unknown  | 4T1BE30K86U644369 |
-| 2001 | HIGHLANDER            | 02-16-24      | 317 | GREEN     | UG050548 | Unknown  | JTEHF21A010008729 |
-| 2007 | ALTIMA                | 02-16-24      | 317 | BLACK     | UG050549 | Unknown  | 1N4AL21EX7C205616 |
 | 2007 | ARMADA                | 02-16-24      | 202 | GRAY      | UG050550 | Unknown  | 5N1BA08C97N714075 |
+| 2007 | ALTIMA                | 02-16-24      | 317 | BLACK     | UG050549 | Unknown  | 1N4AL21EX7C205616 |
+| 2001 | HIGHLANDER            | 02-16-24      | 317 | GREEN     | UG050548 | Unknown  | JTEHF21A010008729 |
+| 2006 | CAMRY                 | 02-16-24      | 317 | BLACK     | UG050546 | Unknown  | 4T1BE30K86U644369 |
 | 2002 | CR-V                  | 02-16-24      | 317 | GRAY      | UG050537 | Unknown  | JHLRD78442C086414 |
 | 2006 | ODYSSEY               | 02-16-24      | 317 | SILVER    | UG050529 | Unknown  | 5FNRL38456B402050 |
 | 2003 | MDX                   | 02-16-24      | 317 | BLUE      | UG050528 | Unknown  | 2HNYD18983H510235 |
@@ -396,8 +396,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2014 | CHEROKEE              | 02-16-24      | 203 | SILVER    | UG050179 | Unknown  | 1C4PJMCS2EW297700 |
 | 2011 | PILOT                 | 02-16-24      | 203 | BLACK     | UG050095 | Unknown  | 5FNYF4H5XBB058792 |
 | 1999 | FORD E150 VAN         | 02-16-24      | 202 | RED       | UG050081 | Unknown  | 1FDRE14W6XHC22532 |
-| 2006 | TAURUS                | 02-15-24      | 421 | SILVER    | UG050551 | Unknown  | 1FAFP53U56A183406 |
 | 2011 | TOWN & COUNTRY        | 02-15-24      | 421 | GRAY      | UG050543 | Unknown  | 2A4RR8DG3BR703954 |
+| 2006 | TAURUS                | 02-15-24      | 421 | SILVER    | UG050551 | Unknown  | 1FAFP53U56A183406 |
 | 2005 | IMPALA                | 02-15-24      | 421 | WHITE     | UG050535 | Unknown  | 2G1WH52K259100413 |
 | 2003 | CTS                   | 02-15-24      | 421 | SILVER    | UG050533 | Unknown  | 1G6DM57N130134835 |
 | 2005 | FORENZA               | 02-15-24      | 317 | GREEN     | UG050526 | Unknown  | KL5JD56Z15K142788 |
@@ -419,8 +419,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | TRAILBLAZER           | 02-14-24      | 202 | GRAY      | UG050520 | Unknown  | 1GNDT13S972206323 |
 | 1993 | SUBURBAN 2500         | 02-14-24      | 201 | WHITE     | UG050516 | Unknown  | 1GNGK26K4PJ335965 |
 | 2002 | ALERO                 | 02-14-24      | 420 | GOLD      | UG050515 | Unknown  | 1G3NL52F32C290005 |
-| 2008 | ALTIMA                | 02-14-24      | 316 | SILVER    | UG050514 | Unknown  | 1N4AL21E98C167958 |
 | 1999 | DAKOTA                | 02-14-24      | 201 | RED       | UG050513 | Unknown  | 1B7FL26XXXS321527 |
+| 2008 | ALTIMA                | 02-14-24      | 316 | SILVER    | UG050514 | Unknown  | 1N4AL21E98C167958 |
 | 2010 | CARAVAN               | 02-14-24      | 420 | SILVER    | UG050512 | Unknown  | 2D4RN5DX4AR124585 |
 | 1996 | CENTURY               | 02-14-24      | 420 | BLUE      | UG050511 | Unknown  | 1G4AG55M6T6485119 |
 | 2003 | FORD E350 VAN         | 02-14-24      | 201 | WHITE     | UG050510 | Unknown  | 1FBNE31S03HB32162 |
@@ -454,17 +454,17 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | BEETLE                | 02-13-24      | 316 | BLUE      | UG050484 | Unknown  | 3VWDC21C31M430551 |
 | 2004 | ODYSSEY               | 02-13-24      | 315 | GREEN     | UG050493 | Unknown  | 5FNRL18904B034695 |
 | 2006 | FORD F150 PICKUP      | 02-13-24      | 221 | BLACK     | UG050480 | Unknown  | 1FTPW14V86FB25990 |
-| 2004 | DAKOTA                | 02-13-24      | 201 | BLACK     | UG050477 | 218000   | 1D7HG12K94S520006 |
 | 2001 | CENTURY               | 02-13-24      | 420 | TAN       | UG050474 | Unknown  | 2G4WS52J011114749 |
 | 2009 | FORD F150 PICKUP      | 02-13-24      | 201 | WHITE     | UG050476 | Unknown  | 1FTRX12W39FA20084 |
+| 2004 | DAKOTA                | 02-13-24      | 201 | BLACK     | UG050477 | 218000   | 1D7HG12K94S520006 |
 | 2014 | VERSA                 | 02-13-24      | 316 | RED       | UG050468 | Unknown  | 3N1CE2CP7EL371690 |
 | 2000 | SILVERADO 1500 PICKUP | 02-13-24      | 201 | RED       | UG050472 | Unknown  | 1GCEK19T3YZ258071 |
-| 2003 | TAURUS                | 02-13-24      | 420 | SILVER    | UG050466 | Unknown  | 1FAFP55U83A126206 |
-| 1989 | COUGAR                | 02-13-24      | 420 | RED       | UG050461 | Unknown  | 1MEPM6049KH687457 |
 | 2014 | ALTIMA                | 02-13-24      | 316 | TAN       | UG050464 | Unknown  | DPSMN170370       |
 | 1996 | RANGER                | 02-13-24      | 201 | RED       | UG050462 | Unknown  | 1FTCR14XXTTA73914 |
-| 2000 | CENTURY               | 02-13-24      | 419 | MAROON    | UG050455 | Unknown  | 2G4WS52J3Y1145648 |
+| 2003 | TAURUS                | 02-13-24      | 420 | SILVER    | UG050466 | Unknown  | 1FAFP55U83A126206 |
+| 1989 | COUGAR                | 02-13-24      | 420 | RED       | UG050461 | Unknown  | 1MEPM6049KH687457 |
 | 2010 | ELANTRA               | 02-13-24      | 316 | SILVER    | UG050469 | Unknown  | KMHDU4AD1AU192064 |
+| 2000 | CENTURY               | 02-13-24      | 419 | MAROON    | UG050455 | Unknown  | 2G4WS52J3Y1145648 |
 | 2003 | PILOT                 | 02-13-24      | 201 | GRAY      | UG050449 | Unknown  | 2HKYF186X3H544447 |
 | 2008 | EXPEDITION            | 02-13-24      | 201 | GREEN     | UG050452 | Unknown  | 1FMFK18518LA73281 |
 | 2012 | FUSION                | 02-13-24      | 419 | WHITE     | UG050439 | Unknown  | 3FAHP0HA1CR182409 |
@@ -476,15 +476,15 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | AUDI S4               | 02-13-24      | 316 | BLACK     | UG048713 | Unknown  | WAUPL68E15A021690 |
 | 2012 | PRIUS                 | 02-13-24      | 316 | BLACK     | UG048717 | Unknown  | JTDZN3EU3C3053560 |
 | 2006 | AUDI A6               | 02-13-24      | 315 | TAN       | UG047431 | Unknown  | WAUDH74F26N158589 |
-| 2001 | GRAND AM              | 02-12-24      | 419 | RED       | UG050465 | Unknown  | 1G2NF52E31C218092 |
 | 2005 | SPORTAGE              | 02-12-24      | 314 | BRONZE    | UG050463 | Unknown  | KNDJE723457045995 |
+| 2001 | GRAND AM              | 02-12-24      | 419 | RED       | UG050465 | Unknown  | 1G2NF52E31C218092 |
 | 1998 | ISUZU HOMBRE          | 02-12-24      | 221 | WHITE     | UG050460 | Unknown  | 1GGCS1441W8669753 |
 | 2010 | COROLLA               | 02-12-24      | 315 | SILVER    | UG050454 | Unknown  | 1NXBU4EE1AZ294457 |
-| 2003 | ACCORD                | 02-12-24      | 315 | GRAY      | UG050451 | Unknown  | 1HGCM56693A127629 |
 | 2007 | VOLVO 40 SERIES       | 02-12-24      | 315 | BLACK     | UG050453 | Unknown  | YV1MS390472271409 |
 | 2012 | TRAVERSE              | 02-12-24      | 419 | BLACK     | UG050450 | Unknown  | 1GNKVJED9CJ189555 |
-| 2007 | SPECTRA               | 02-12-24      | 315 | TAN       | UG050446 | Unknown  | KNAFE121275469706 |
+| 2003 | ACCORD                | 02-12-24      | 315 | GRAY      | UG050451 | Unknown  | 1HGCM56693A127629 |
 | 2008 | ESCAPE                | 02-12-24      | 419 | RED       | UG050447 | Unknown  | 1FMCU93198KE77256 |
+| 2007 | SPECTRA               | 02-12-24      | 315 | TAN       | UG050446 | Unknown  | KNAFE121275469706 |
 | 2002 | ESCAPE                | 02-12-24      | 419 | BLUE      | UG050435 | Unknown  | 1FMYU041X2KD00349 |
 | 2003 | CAMRY                 | 02-12-24      | 315 | RED       | UG050418 | Unknown  | 4T1BE32K63U175808 |
 | 2008 | FIT                   | 02-12-24      | 315 | GRAY      | UG050409 | Unknown  | JHMGD38478S020286 |
@@ -508,9 +508,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | INFINITI FX SERIES    | 02-12-24      | 314 | SILVER    | UG048697 | Unknown  | JNRAS08W63X004007 |
 | 2003 | BMW X5                | 02-12-24      | 315 | BLACK     | UG047987 | Unknown  | 5UXFA535X3LV90740 |
 | 2000 | CAMRY                 | 02-09-24      | 313 | SILVER    | UG050440 | Unknown  | JT2BG28K7Y0409090 |
-| 2004 | FORD F150 PICKUP      | 02-09-24      | 221 | BLACK     | UG050436 | Unknown  | 1FTPW14524KB00863 |
 | 2006 | AVEO                  | 02-09-24      | 418 | BLUE      | UG050438 | Unknown  | KL1TG66666B523342 |
 | 1995 | COROLLA               | 02-09-24      | 314 | BLUE      | UG050432 | Unknown  | 1NXAE09B1SZ297491 |
+| 2004 | FORD F150 PICKUP      | 02-09-24      | 221 | BLACK     | UG050436 | Unknown  | 1FTPW14524KB00863 |
 | 2008 | FIT                   | 02-09-24      | 314 | BLUE      | UG050430 | Unknown  | JHMGD38618S024755 |
 | 2001 | BLAZER S10/JIMMY S15  | 02-09-24      | 221 | WHITE     | UG050429 | Unknown  | 1GNCT18W91K214601 |
 | 2000 | NAVIGATOR             | 02-09-24      | 221 | RED       | UG050428 | Unknown  | 5LMFU28A5YLJ38109 |
@@ -525,12 +525,12 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1998 | CR-V                  | 02-09-24      | 314 | RED       | UG050421 | Unknown  | JHLRD1848WC094227 |
 | 2007 | IMPALA                | 02-09-24      | 419 | GRAY      | UG050422 | Unknown  | 2G1WT58K279243595 |
 | 2010 | CARAVAN               | 02-09-24      | 419 | BLUE      | UG050410 | Unknown  | 2D4RN5DX5AR363563 |
+| 2005 | GRAND CHEROKEE        | 02-09-24      | 221 | WHITE     | UG050397 | Unknown  | 1J4GR48K05C725437 |
 | 2008 | MALIBU                | 02-09-24      | 418 | GRAY      | UG050405 | Unknown  | 1G1ZF575X8F154317 |
 | 2005 | ALTIMA                | 02-09-24      | 314 | GOLD      | UG050399 | Unknown  | 1N4BL11D85N461714 |
-| 2005 | GRAND CHEROKEE        | 02-09-24      | 221 | WHITE     | UG050397 | Unknown  | 1J4GR48K05C725437 |
 | 2008 | QUEST                 | 02-09-24      | 314 | RED       | UG050388 | Unknown  | 5N1BV28U78N113533 |
-| 2009 | HIGHLANDER            | 02-09-24      | 314 | BLACK     | UG050384 | Unknown  | JTEEW44A592026279 |
 | 2003 | EXPLORER              | 02-09-24      | 221 | BLUE      | UG050382 | Unknown  | 1FMZU73K13UC21004 |
+| 2009 | HIGHLANDER            | 02-09-24      | 314 | BLACK     | UG050384 | Unknown  | JTEEW44A592026279 |
 | 1992 | MERCEDES 400          | 02-09-24      | 314 | GRAY      | UG050380 | Unknown  | WDBGA42E6NA026274 |
 | 2002 | SIENNA                | 02-09-24      | 314 | GOLD      | UG050346 | Unknown  | 4T3ZF13C42U505572 |
 | 2006 | LIBERTY               | 02-09-24      | 221 | GRAY      | UG050318 | Unknown  | 1J8GL58K26W283749 |
@@ -542,15 +542,15 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2012 | FORESTER              | 02-08-24      | 313 | WHITE     | UG050415 | Unknown  | JF2SHBDC8CG407045 |
 | 2000 | ODYSSEY               | 02-08-24      | 313 | BLUE      | UG050416 | Unknown  | 2HKRL1857YH586103 |
 | 2012 | TOWN & COUNTRY        | 02-08-24      | 418 | BLACK     | UG050411 | 148000   | 2C4RC1BG3CR416908 |
-| 2006 | IMPALA                | 02-08-24      | 418 | TEAL      | UG050408 | Unknown  | 2G1WU581569428937 |
 | 1998 | FORESTER              | 02-08-24      | 313 | WHITE     | UG050407 | Unknown  | JF1SF6357WH775719 |
+| 2006 | IMPALA                | 02-08-24      | 418 | TEAL      | UG050408 | Unknown  | 2G1WU581569428937 |
+| 2009 | ALTIMA                | 02-08-24      | 313 | WHITE     | UG050396 | Unknown  | 1N4AL24E49C137120 |
 | 2003 | EXPLORER              | 02-08-24      | 221 | TAN       | UG050400 | Unknown  | 1FMZU73K73ZA91524 |
 | 2007 | ODYSSEY               | 02-08-24      | 313 | GRAY      | UG050406 | Unknown  | 5FNRL38757B143278 |
 | 2007 | TAHOE                 | 02-08-24      | 221 | BLACK     | UG050398 | Unknown  | 1GNFK13077R363852 |
 | 2006 | MALIBU                | 02-08-24      | 418 | BLUE      | UG050401 | Unknown  | 1G1ZT61866F119854 |
-| 2009 | ALTIMA                | 02-08-24      | 313 | WHITE     | UG050396 | Unknown  | 1N4AL24E49C137120 |
-| 2007 | CALIBER               | 02-08-24      | 418 | BLACK     | UG050395 | Unknown  | 1B3HE78K27D344629 |
 | 1998 | FORD F150 PICKUP      | 02-08-24      | 221 | GREEN     | UG050394 | Unknown  | 1FTZF1822WKB34538 |
+| 2007 | CALIBER               | 02-08-24      | 418 | BLACK     | UG050395 | Unknown  | 1B3HE78K27D344629 |
 | 2016 | CARAVAN               | 02-08-24      | 418 | GRAY      | UG050379 | Unknown  | 2C4RDGCG9GR176137 |
 | 2014 | FUSION                | 02-08-24      | 418 | TAN       | UG050367 | Unknown  | 3FA6P0LU7ER142136 |
 | 2001 | FORD F150 PICKUP      | 02-08-24      | 221 | BLACK     | UG050365 | Unknown  | 2FTRX08L91CA04687 |
@@ -567,15 +567,15 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | INFINITI G35          | 02-08-24      | 313 | GRAY      | UG050150 | Unknown  | JNKBV61F98M276518 |
 | 2006 | SORENTO               | 02-08-24      | 313 | TAN       | UG049307 | Unknown  | KNDJC733865656758 |
 | 2002 | CAVALIER              | 02-07-24      | 418 | YELLOW    | UG050389 | Unknown  | 1G1JH12F627464076 |
-| 2001 | HIGHLANDER            | 02-07-24      | 312 | SILVER    | UG050377 | Unknown  | JTEHF21A910009877 |
 | 1999 | DAKOTA                | 02-07-24      | 220 | BLUE      | UG050375 | Unknown  | 1B7GG22Y7XS204625 |
 | 1999 | SATURN S SERIES       | 02-07-24      | 418 | WHITE     | UG050376 | Unknown  | 1G8ZF5282XZ211061 |
-| 2005 | NAVIGATOR             | 02-07-24      | 220 | RED       | UG050368 | Unknown  | 5LMFU28575LJ08219 |
+| 2001 | HIGHLANDER            | 02-07-24      | 312 | SILVER    | UG050377 | Unknown  | JTEHF21A910009877 |
 | 2008 | CAMRY                 | 02-07-24      | 312 | BLACK     | UG050369 | Unknown  | 4T1BB46K18U031857 |
+| 2005 | NAVIGATOR             | 02-07-24      | 220 | RED       | UG050368 | Unknown  | 5LMFU28575LJ08219 |
 | 2002 | BRAVADA               | 02-07-24      | 220 | SILVER    | UG050359 | Unknown  | 1GHDT13S722137479 |
-| 2004 | TRAILBLAZER EXT       | 02-07-24      | 220 | BLUE      | UG050356 | Unknown  | 1GNET16S146206093 |
 | 2006 | LIBERTY               | 02-07-24      | 220 | SILVER    | UG050355 | Unknown  | 1J4GL48K06W102529 |
 | 2005 | VIBE                  | 02-07-24      | 418 | RED       | UG050348 | Unknown  | 5Y2SL63885Z402985 |
+| 2004 | TRAILBLAZER EXT       | 02-07-24      | 220 | BLUE      | UG050356 | Unknown  | 1GNET16S146206093 |
 | 1998 | PRIZM                 | 02-07-24      | 415 | MAROON    | UG050328 | Unknown  | 1Y1SK528XWZ444912 |
 | 2005 | TOWN & COUNTRY        | 02-07-24      | 418 | SILVER    | UG050321 | Unknown  | 1C4GP45R25B207686 |
 | 2005 | TAHOE                 | 02-07-24      | 220 | SILVER    | UG050315 | Unknown  | 1GNEK13T25J260758 |
@@ -596,11 +596,11 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | ODYSSEY               | 02-07-24      | 313 | SILVER    | UG048766 | Unknown  | 5FNRL38725B096708 |
 | 2004 | JETTA                 | 02-07-24      | 312 | BLUE      | UG048332 | Unknown  | 3VWRK69M24M012001 |
 | 2001 | ACCORD                | 02-06-24      | 312 | SILVER    | UG050360 | Unknown  | JHMCG56611C009631 |
-| 1999 | VOLVO 70 SERIES       | 02-06-24      | 312 | WHITE     | UG050351 | Unknown  | YV1LT56D5X2590538 |
 | 2010 | CARAVAN               | 02-06-24      | 417 | WHITE     | UG050358 | Unknown  | 2D4RN4DE7AR101598 |
 | 2005 | FORENZA               | 02-06-24      | 312 | BRONZE    | UG050350 | 124000   | KL5JJ86Z75K099178 |
-| 2010 | MALIBU                | 02-06-24      | 417 | SILVER    | UG050347 | Unknown  | 1G1ZB5EB1AF309766 |
+| 1999 | VOLVO 70 SERIES       | 02-06-24      | 312 | WHITE     | UG050351 | Unknown  | YV1LT56D5X2590538 |
 | 2002 | CAMRY                 | 02-06-24      | 312 | GRAY      | UG050345 | Unknown  | 4T1BE32KX2U607332 |
+| 2010 | MALIBU                | 02-06-24      | 417 | SILVER    | UG050347 | Unknown  | 1G1ZB5EB1AF309766 |
 | 2003 | GOLF GTI              | 02-06-24      | 312 | BLACK     | UG050343 | Unknown  | 9BWKE61J034073036 |
 | 1999 | FORD F150 PICKUP      | 02-06-24      | 220 | BLUE      | UG050341 | Unknown  | 2FTRX18L6XCB08939 |
 | 2002 | RL                    | 02-06-24      | 312 | SILVER    | UG050340 | Unknown  | JH4KA96562C005863 |
@@ -609,13 +609,13 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | AUDI A4               | 02-06-24      | 312 | BLACK     | UG050335 | Unknown  | WAUEF78E87A270396 |
 | 2008 | QUEST                 | 02-06-24      | 312 | GRAY      | UG050329 | Unknown  | 5N1BV28U68N115774 |
 | 2005 | TRAILBLAZER EXT       | 02-06-24      | 220 | MAROON    | UG050327 | Unknown  | 1GNET16S856130888 |
-| 2008 | VUE                   | 02-06-24      | 417 | GOLD      | UG050325 | Unknown  | 3GSCL33P88S580945 |
 | 2000 | MONTANA               | 02-06-24      | 417 | GRAY      | UG050323 | Unknown  | 1GMDX03E8YD361514 |
+| 2008 | VUE                   | 02-06-24      | 417 | GOLD      | UG050325 | Unknown  | 3GSCL33P88S580945 |
 | 2005 | TOWN & COUNTRY        | 02-06-24      | 417 | SILVER    | UG050322 | Unknown  | 2C8GP64L15R281528 |
 | 2009 | VUE                   | 02-06-24      | 417 | BLACK     | UG050313 | Unknown  | 3GSCL33P89S513585 |
 | 2000 | TAHOE                 | 02-06-24      | 220 | GRAY      | UG050310 | Unknown  | 1GNEK13T3YJ153044 |
-| 2006 | ENVOY                 | 02-06-24      | 220 | SILVER    | UG050301 | Unknown  | 1GKDT13S762129513 |
 | 2002 | STRATUS               | 02-06-24      | 414 | BLUE      | UG050304 | Unknown  | 1B3EL46R22N140424 |
+| 2006 | ENVOY                 | 02-06-24      | 220 | SILVER    | UG050301 | Unknown  | 1GKDT13S762129513 |
 | 2014 | VERSA                 | 02-06-24      | 312 | BLUE      | UG050289 | Unknown  | 3N1CE2CP1EL383950 |
 | 2001 | SEBRING               | 02-06-24      | 417 | BLUE      | UG050276 | Unknown  | 1C3EL46U81N730438 |
 | 2007 | SRX                   | 02-06-24      | 417 | GOLD      | UG050249 | Unknown  | 1GYEE637470169543 |
@@ -628,17 +628,17 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | MAZDA 3               | 02-05-24      | 311 | BLACK     | UG050334 | Unknown  | JM1BK343451318147 |
 | 1999 | SAAB 9-3              | 02-05-24      | 311 | BLACK     | UG050316 | Unknown  | YS3DF58NXX2054300 |
 | 2010 | ROGUE                 | 02-05-24      | 312 | GRAY      | UG050314 | Unknown  | JN8AS5MV4AW108609 |
-| 1993 | FORD F150 PICKUP      | 02-05-24      | 220 | RED       | UG050305 | Unknown  | 1FTEX14N0PKA45788 |
 | 2003 | TAURUS                | 02-05-24      | 417 | RED       | UG050299 | Unknown  | 1FAFP53263G255978 |
-| 2008 | LEXUS LS460           | 02-05-24      | 311 |           | UG050290 | Unknown  | JTHBL46F185079484 |
-| 2011 | LIBERTY               | 02-05-24      | 219 | RED       | UG050295 | Unknown  | 1J4PN2GK8BW518192 |
-| 2008 | FIT                   | 02-05-24      | 311 | BLACK     | UG050296 | Unknown  | JHMGD38648S026161 |
+| 1993 | FORD F150 PICKUP      | 02-05-24      | 220 | RED       | UG050305 | Unknown  | 1FTEX14N0PKA45788 |
 | 2004 | EXPLORER              | 02-05-24      | 219 | GRAY      | UG050297 | Unknown  | 1FMDU73K54ZA05994 |
+| 2008 | FIT                   | 02-05-24      | 311 | BLACK     | UG050296 | Unknown  | JHMGD38648S026161 |
+| 2011 | LIBERTY               | 02-05-24      | 219 | RED       | UG050295 | Unknown  | 1J4PN2GK8BW518192 |
+| 2008 | LEXUS LS460           | 02-05-24      | 311 |           | UG050290 | Unknown  | JTHBL46F185079484 |
 | 2011 | EQUINOX               | 02-05-24      | 416 | BLACK     | UG050293 | Unknown  | 2CNFLGE57B6286367 |
 | 2002 | LEXUS RX300           | 02-05-24      | 311 | BRONZE    | UG050288 | 204875   | JTJHF10UX20289351 |
 | 1997 | MUSTANG               | 02-05-24      | 416 | PURPLE    | UG050281 | Unknown  | 1FALP42X7VF104716 |
-| 2010 | GRAND CHEROKEE        | 02-05-24      | 220 | TAN       | UG050284 | Unknown  | 1J4PR4GK4AC103354 |
 | 2003 | IMPALA                | 02-05-24      | 416 | BLACK     | UG050278 | Unknown  | 2G1WH52K239386633 |
+| 2010 | GRAND CHEROKEE        | 02-05-24      | 220 | TAN       | UG050284 | Unknown  | 1J4PR4GK4AC103354 |
 | 2010 | ESCAPE                | 02-05-24      | 416 | SILVER    | UG050275 | Unknown  | 1FMCU9C77AKD34848 |
 | 2005 | MALIBU                | 02-05-24      | 417 | SILVER    | UG050270 | Unknown  | 1G1ND52F45M195442 |
 | 2006 | AVEO                  | 02-05-24      | 416 | RED       | UG050267 | Unknown  | KL1TG66626B565863 |
@@ -656,25 +656,25 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1995 | BLAZER S10/JIMMY S15  | 02-05-24      | 219 | RED       | UG048950 | Unknown  | 1GCDT19ZXS8158981 |
 | 2013 | ESCAPE                | 02-05-24      | 416 | GREEN     | UG047906 | Unknown  | 1FMCU9J91DUD54333 |
 | 2010 | MAZDA 3               | 02-02-24      | 311 | SILVER    | UG050308 | Unknown  | JM1BL1S50A1144769 |
-| 2003 | ALERO                 | 02-02-24      | 416 | SILVER    | UG050291 | Unknown  | 1G3NL52E33C239113 |
 | 2007 | EQUINOX               | 02-02-24      | 416 | BLACK     | UG050292 | Unknown  | 2CNDL23FX76097564 |
+| 2003 | ALERO                 | 02-02-24      | 416 | SILVER    | UG050291 | Unknown  | 1G3NL52E33C239113 |
 | 2011 | TRAVERSE              | 02-02-24      | 416 | BLACK     | UG050287 | Unknown  | 1GNKVGED8BJ173865 |
 | 2007 | MALIBU                | 02-02-24      | 416 | BLUE      | UG050286 | Unknown  | 1G1ZT58F27F246021 |
 | 2011 | MALIBU                | 02-02-24      | 413 | BROWN     | UG050285 | Unknown  | 1G1ZC5E13BF333542 |
 | 2002 | ELANTRA               | 02-02-24      | 311 | GOLD      | UG050282 | Unknown  | KMHDN45D92U365550 |
 | 2011 | IMPREZA               | 02-02-24      | 311 | SILVER    | UG050279 | Unknown  | JF1GH6D69BH811797 |
 | 2015 | FUSION                | 02-02-24      | 416 | SILVER    | UG050280 | Unknown  | 3FA6P0K92FR164172 |
-| 2004 | AVALANCHE 1500        | 02-02-24      | 219 | GRAY      | UG050277 | Unknown  | 3GNEK12TX4G213074 |
-| 2006 | ACCORD                | 02-02-24      | 311 | SILVER    | UG050271 | Unknown  | 1HGCM665X6A000745 |
 | 2004 | PASSAT                | 02-02-24      | 311 | BLACK     | UG050273 | Unknown  | WVWPD63B44P244959 |
+| 2004 | AVALANCHE 1500        | 02-02-24      | 219 | GRAY      | UG050277 | Unknown  | 3GNEK12TX4G213074 |
 | 1995 | BLAZER S10/JIMMY S15  | 02-02-24      | 219 | RED       | UG050274 | Unknown  | 1GCDT19W4S8180237 |
+| 2006 | ACCORD                | 02-02-24      | 311 | SILVER    | UG050271 | Unknown  | 1HGCM665X6A000745 |
 | 2004 | VOLVO 70 SERIES       | 02-02-24      | 311 | MAROON    | UG050269 | Unknown  | YV1SZ59H441138462 |
 | 2004 | TRAILBLAZER           | 02-02-24      | 219 |           | UG050268 | Unknown  | 1GNDT13S042322375 |
 | 2007 | FREESTYLE             | 02-02-24      | 416 | RED       | UG050265 | Unknown  | 1FMDK05127GA07543 |
-| 2010 | FUSION                | 02-02-24      | 416 | BLACK     | UG050261 | Unknown  | 3FAHP0JA2AR182250 |
 | 2001 | TAHOE                 | 02-02-24      | 219 | BLACK     | UG050258 | Unknown  | 1GNEK13T01R120901 |
 | 2011 | FORD F150 PICKUP      | 02-02-24      | 219 | WHITE     | UG050260 | Unknown  | 1FTFW1EF8BKE04232 |
 | 2002 | CAMRY                 | 02-02-24      | 311 | GOLD      | UG050262 | Unknown  | 4T1BE32K12U546159 |
+| 2010 | FUSION                | 02-02-24      | 416 | BLACK     | UG050261 | Unknown  | 3FAHP0JA2AR182250 |
 | 2013 | TRAVERSE              | 02-02-24      | 416 | WHITE     | UG050254 | Unknown  | 1GNKVGKD7DJ234727 |
 | 2013 | ESCAPE                | 02-02-24      | 416 | BLACK     | UG050252 | Unknown  | 1FMCU0GXXDUD60228 |
 | 2003 | GRAND CHEROKEE        | 02-02-24      | 219 | GRAY      | UG050246 | Unknown  | 1J4GW48N03C585616 |
@@ -682,31 +682,31 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2009 | BMW 535i              | 02-02-24      | 311 | BLACK     | UG049875 | Unknown  | WBANW13529C163629 |
 | 2003 | SAAB 9-5              | 02-02-24      | 311 | BLACK     | UG049442 | Unknown  | YS3EH49G833007926 |
 | 2002 | BMW X5                | 02-02-24      | 311 | SILVER    | UG049389 | Unknown  | 5UXFA53572LP30192 |
-| 2006 | VUE                   | 02-01-24      | 415 | RED       | UG050256 | Unknown  | 5GZCZ33D76S815312 |
 | 2007 | COBALT                | 02-01-24      | 415 | BLUE      | UG050257 | Unknown  | 1G1AL55F077341205 |
+| 2006 | VUE                   | 02-01-24      | 415 | RED       | UG050256 | Unknown  | 5GZCZ33D76S815312 |
 | 2007 | AURA                  | 02-01-24      | 415 | SILVER    | UG050245 | Unknown  | 1G8ZS57N77F206966 |
 | 2003 | YUKON XL 1500         | 02-01-24      | 219 | BLACK     | UG050238 | Unknown  | 1GKFK16Z83J286733 |
-| 2002 | SEQUOIA               | 02-01-24      | 219 | CHAMPAGNE | UG050229 | Unknown  | 5TDBT48A22S115381 |
 | 2009 | VUE                   | 02-01-24      | 415 | TAN       | UG050230 | Unknown  | 3GSDL43N59S580718 |
+| 2002 | SEQUOIA               | 02-01-24      | 219 | CHAMPAGNE | UG050229 | Unknown  | 5TDBT48A22S115381 |
 | 2002 | AURORA                | 02-01-24      | 415 | WHITE     | UG050228 | Unknown  | 1G3GS64C124168161 |
 | 1998 | DODGE 2500 PICKUP     | 02-01-24      | 219 | BLACK     | UG050214 | Unknown  | 3B7KF22ZXWG126658 |
+| 2005 | SAAB 9-7X             | 02-01-24      | 310 | BLACK     | UG050211 | Unknown  | 5S3ET13S652800548 |
 | 2011 | ESCAPE                | 02-01-24      | 415 | WHITE     | UG050212 | Unknown  | 1FMCU0C72BKC65726 |
 | 2002 | IMPREZA               | 02-01-24      | 310 | BLUE      | UG050220 | Unknown  | JF1GD29602G525713 |
-| 2005 | SAAB 9-7X             | 02-01-24      | 310 | BLACK     | UG050211 | Unknown  | 5S3ET13S652800548 |
 | 2000 | GRAND CHEROKEE        | 02-01-24      | 219 | RED       | UG050209 | Unknown  | 1J4GW58N9YC158805 |
 | 2007 | MERCEDES C-CLASS      | 02-01-24      | 310 | SILVER    | UG050208 | Unknown  | WDBRF87H17F886724 |
-| 2004 | TRAILBLAZER EXT       | 02-01-24      | 219 | BLUE      | UG050197 | Unknown  | 1GNET16S846220928 |
-| 2011 | FIESTA                | 02-01-24      | 415 | PURPLE    | UG050202 | Unknown  | 3FADP4FJ7BM170012 |
-| 2014 | TERRAIN               | 02-01-24      | 415 | TAN       | UG050203 | Unknown  | 2GKFLXEK4E6349878 |
-| 2009 | ESCAPE                | 02-01-24      | 415 | TAN       | UG050205 | Unknown  | 1FMCU03G89KB01181 |
 | 2007 | EDGE                  | 02-01-24      | 415 | WHITE     | UG050207 | Unknown  | 2FMDK36C07BB58213 |
+| 2009 | ESCAPE                | 02-01-24      | 415 | TAN       | UG050205 | Unknown  | 1FMCU03G89KB01181 |
+| 2014 | TERRAIN               | 02-01-24      | 415 | TAN       | UG050203 | Unknown  | 2GKFLXEK4E6349878 |
+| 2011 | FIESTA                | 02-01-24      | 415 | PURPLE    | UG050202 | Unknown  | 3FADP4FJ7BM170012 |
+| 2004 | TRAILBLAZER EXT       | 02-01-24      | 219 | BLUE      | UG050197 | Unknown  | 1GNET16S846220928 |
 | 2006 | MAGNUM                | 02-01-24      | 415 | SILVER    | UG050162 | Unknown  | 2D4FV47V06H426301 |
 | 1984 | RABBIT                | 02-01-24      | 310 | YELLOW    | UG049708 | Unknown  | 1VWAB0179EV030695 |
 | 2007 | BMW 530i              | 02-01-24      | 310 | BLACK     | UG049260 | Unknown  | WBANF73527CU25911 |
-| 2009 | MAZDA 5               | 01-31-24      | 310 | YELLOW    | UG050234 | Unknown  | JM1CR293X90351152 |
 | 2006 | 300                   | 01-31-24      | 415 | SILVER    | UG050235 | Unknown  | 2C3KA63H36H532328 |
-| 2012 | SOUL                  | 01-31-24      | 309 | RED       | UG050233 | Unknown  | KNDJT2A66C7468224 |
+| 2009 | MAZDA 5               | 01-31-24      | 310 | YELLOW    | UG050234 | Unknown  | JM1CR293X90351152 |
 | 2002 | CONCORDE              | 01-31-24      | 415 | SILVER    | UG050231 | Unknown  | 2C3HD46R32H261940 |
+| 2012 | SOUL                  | 01-31-24      | 309 | RED       | UG050233 | Unknown  | KNDJT2A66C7468224 |
 | 2000 | CIVIC                 | 01-31-24      | 310 | GREEN     | UG050227 | Unknown  | 1HGEJ8149YL126663 |
 | 1997 | RANGER                | 01-31-24      | 218 | GREEN     | UG050226 | Unknown  | 1FTCR10A0VPA15517 |
 | 2000 | RANGER                | 01-31-24      | 219 | BLUE      | UG050224 | Unknown  | 1FTZR15V8YPB96005 |
@@ -714,16 +714,16 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1997 | FORD F150 PICKUP      | 01-31-24      | 219 | RED       | UG050222 | Unknown  | 1FTDF0864VKB17939 |
 | 2014 | EQUINOX               | 01-31-24      | 415 | TAN       | UG050221 | Unknown  | 2GNALAEK0E1129449 |
 | 2009 | SPORTAGE              | 01-31-24      | 310 | GOLD      | UG050201 | Unknown  | KNDJF724197592315 |
+| 2005 | ALTIMA                | 01-31-24      | 309 | GRAY      | UG050198 | Unknown  | 1N4AL11E15N492842 |
 | 2007 | ION                   | 01-31-24      | 415 | SILVER    | UG050200 | Unknown  | 1G8AJ55F17Z204074 |
 | 1994 | ACCORD                | 01-31-24      | 310 | GREEN     | UG050196 | Unknown  | 1HGCD5650RA044476 |
-| 2005 | ALTIMA                | 01-31-24      | 309 | GRAY      | UG050198 | Unknown  | 1N4AL11E15N492842 |
 | 1995 | BLAZER S10/JIMMY S15  | 01-31-24      | 218 | RED       | UG050189 | Unknown  | 1GCCS19Z4S8191554 |
 | 2005 | FORESTER              | 01-31-24      | 309 | BLACK     | UG050182 | Unknown  | JF1SG69625G725084 |
 | 2006 | EQUINOX               | 01-31-24      | 414 | RED       | UG050173 | Unknown  | 2CNDL23F266100083 |
 | 2000 | CAMRY                 | 01-31-24      | 310 | SILVER    | UG050168 | Unknown  | JT2BG22K2Y0394068 |
 | 2009 | ESCAPE                | 01-31-24      | 415 | BLUE      | UG049842 | Unknown  | 1FMCU93G69KA07689 |
-| 2009 | LEXUS IS250           | 01-31-24      | 309 | RED       | UG049820 | Unknown  | JTHCK262595031772 |
 | 2008 | MKZ                   | 01-31-24      | 415 | BLACK     | UG049829 | Unknown  | 3LNHM26TX8R661675 |
+| 2009 | LEXUS IS250           | 01-31-24      | 309 | RED       | UG049820 | Unknown  | JTHCK262595031772 |
 | 2008 | BMW 528i              | 01-31-24      | 309 | BLUE      | UG049798 | Unknown  | WBANV13558CZ51760 |
 | 2003 | PASSAT                | 01-31-24      | 310 | SILVER    | UG049601 | Unknown  | WVWPD63B83P341080 |
 | 2007 | ODYSSEY               | 01-31-24      | 310 | SILVER    | UG049598 | Unknown  | 5FNRL38647B109842 |
@@ -738,14 +738,14 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2002 | CAMRY                 | 01-30-24      | 308 | GRAY      | UG050213 | Unknown  | 4T1BE32K12U033915 |
 | 2002 | MALIBU                | 01-30-24      | 414 | TAN       | UG050210 | Unknown  | 1G1NE52J42M546475 |
 | 2007 | LIBERTY               | 01-30-24      | 218 | SILVER    | UG050206 | Unknown  | 1J4GL58K87W510929 |
-| 2011 | MURANO                | 01-30-24      | 309 | GRAY      | UG050188 | Unknown  | JN8AZ1MW8BW176698 |
-| 2014 | EQUINOX               | 01-30-24      | 414 | SILVER    | UG050194 | Unknown  | 2GNFLEEK6E6303945 |
-| 2004 | ACCORD                | 01-30-24      | 309 | TAN       | UG050187 | Unknown  | 1HGCM56314A007802 |
 | 2009 | COBALT                | 01-30-24      | 414 | BLUE      | UG050190 | Unknown  | 1G1AT58HX97105144 |
 | 2001 | MALIBU                | 01-30-24      | 414 | SILVER    | UG050191 | Unknown  | 1G1NE52J316172637 |
+| 2014 | EQUINOX               | 01-30-24      | 414 | SILVER    | UG050194 | Unknown  | 2GNFLEEK6E6303945 |
+| 2011 | MURANO                | 01-30-24      | 309 | GRAY      | UG050188 | Unknown  | JN8AZ1MW8BW176698 |
 | 1999 | VILLAGER              | 01-30-24      | 414 | MAROON    | UG050177 | Unknown  | 4M2XV11T2XDJ08406 |
-| 2013 | EQUINOX               | 01-30-24      | 414 | BLACK     | UG050185 | Unknown  | 2GNFLEE38D6162481 |
+| 2004 | ACCORD                | 01-30-24      | 309 | TAN       | UG050187 | Unknown  | 1HGCM56314A007802 |
 | 2008 | VUE                   | 01-30-24      | 414 | SILVER    | UG050186 | Unknown  | 3GSCL33P28S541638 |
+| 2013 | EQUINOX               | 01-30-24      | 414 | BLACK     | UG050185 | Unknown  | 2GNFLEE38D6162481 |
 | 2006 | ALTIMA                | 01-30-24      | 309 | GRAY      | UG050169 | Unknown  | 1N4AL11D86C198021 |
 | 1998 | GRAND AM              | 01-30-24      | 414 | WHITE     | UG050161 | Unknown  | 1G2NE52M5WM513397 |
 | 2005 | MOUNTAINEER           | 01-30-24      | 218 | BLACK     | UG050159 | Unknown  | 4M2DU86W85ZJ04507 |
@@ -757,26 +757,26 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2006 | SONATA                | 01-30-24      | 309 | MAROON    | UG049610 | Unknown  | 5NPEU46FX6H086247 |
 | 2010 | CARAVAN               | 01-30-24      | 414 | TAN       | UG049597 | Unknown  | 2D4RN3D10AR499387 |
 | 2003 | BMW 330i              | 01-30-24      | 309 | BLACK     | UG049368 | Unknown  | WBAEW53423PN30236 |
-| 1990 | BMW 750i              | 01-30-24      | 309 | BLACK     | UG049265 | Unknown  | WBAGC8318LDC76089 |
 | 1995 | BMW 750i              | 01-30-24      | 309 | WHITE     | UG049276 | Unknown  | WBAGK2326SDH66361 |
+| 1990 | BMW 750i              | 01-30-24      | 309 | BLACK     | UG049265 | Unknown  | WBAGC8318LDC76089 |
 | 2008 | COMPASS               | 01-29-24      | 218 | SILVER    | UG050192 | Unknown  | 1J8FT47W88D745501 |
-| 2011 | MALIBU                | 01-29-24      | 414 | GRAY      | UG050175 | Unknown  | 1G1ZA5EUXBF239769 |
-| 2003 | ENVOY XL              | 01-29-24      | 218 | GOLD      | UG050176 | Unknown  | 1GKET16P436230010 |
-| 2001 | 4 RUNNER              | 01-29-24      | 218 | SILVER    | UG050178 | Unknown  | JT3HN86R110328395 |
 | 1994 | FORD F150 PICKUP      | 01-29-24      | 218 | BLACK     | UG050181 | Unknown  | 1FTEX15HXRKA99093 |
+| 2001 | 4 RUNNER              | 01-29-24      | 218 | SILVER    | UG050178 | Unknown  | JT3HN86R110328395 |
+| 2003 | ENVOY XL              | 01-29-24      | 218 | GOLD      | UG050176 | Unknown  | 1GKET16P436230010 |
+| 2011 | MALIBU                | 01-29-24      | 414 | GRAY      | UG050175 | Unknown  | 1G1ZA5EUXBF239769 |
 | 2007 | YUKON                 | 01-29-24      | 218 | SILVER    | UG050183 | Unknown  | 1GKFK13077J137578 |
 | 1999 | COROLLA               | 01-29-24      | 308 | GRAY      | UG050174 | Unknown  | 1NXBR12E9XZ178968 |
 | 2012 | FIESTA                | 01-29-24      | 413 | RED       | UG050171 | Unknown  | 3FADP4BJ8CM153842 |
 | 2011 | OPTIMA                | 01-29-24      | 308 | GRAY      | UG050170 | Unknown  | KNAGN4A73B5075409 |
 | 2010 | CHARGER               | 01-29-24      | 414 | SILVER    | UG050166 | Unknown  | 2B3AA4CT6AH145671 |
 | 2004 | VENTURE               | 01-29-24      | 413 | TAN       | UG050165 | Unknown  | 1GNDX03E04D108015 |
-| 2001 | CENTURY               | 01-29-24      | 414 | GOLD      | UG050163 | Unknown  | 2G4WS52J111305998 |
 | 2009 | RIO                   | 01-29-24      | 308 | GOLD      | UG050160 | Unknown  | KNADE223496499379 |
+| 2001 | CENTURY               | 01-29-24      | 414 | GOLD      | UG050163 | Unknown  | 2G4WS52J111305998 |
 | 2011 | CRUZE                 | 01-29-24      | 413 | SILVER    | UG050157 | Unknown  | 1G1PF5S93B7114003 |
-| 2012 | CAPTIVA SPORT         | 01-29-24      | 413 | GRAY      | UG050154 | Unknown  | 3GNAL2EK5CS565480 |
 | 1993 | LUMINA CAR            | 01-29-24      | 413 | WHITE     | UG050156 | Unknown  | 2G1WN14T9P9126050 |
-| 2011 | ACADIA                | 01-29-24      | 218 | WHITE     | UG050153 | Unknown  | 1GKKVREDXBJ139659 |
+| 2012 | CAPTIVA SPORT         | 01-29-24      | 413 | GRAY      | UG050154 | Unknown  | 3GNAL2EK5CS565480 |
 | 2014 | EQUINOX               | 01-29-24      | 413 | UNKNOWN   | UG050152 | Unknown  | 2GNALCEK5E6100432 |
+| 2011 | ACADIA                | 01-29-24      | 218 | WHITE     | UG050153 | Unknown  | 1GKKVREDXBJ139659 |
 | 2007 | TRAILBLAZER           | 01-29-24      | 218 | BLUE      | UG050141 | Unknown  | 1GNDT13S172164634 |
 | 2009 | SENTRA                | 01-29-24      | 308 | BLUE      | UG050140 | Unknown  | 3N1AB61E29L608018 |
 | 2012 | FOCUS                 | 01-29-24      | 414 | WHITE     | UG050138 | Unknown  | 1FAHP3K22CL279944 |
@@ -790,21 +790,21 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | VUE                   | 01-26-24      | 413 | RED       | UG050151 | Unknown  | 3GSCL33P98S710859 |
 | 1999 | CIVIC                 | 01-26-24      | 308 | WHITE     | UG050149 | Unknown  | 1HGEJ8649XL018941 |
 | 2005 | ION                   | 01-26-24      | 413 | SILVER    | UG050148 | Unknown  | 1G8AJ52F15Z111878 |
-| 1998 | BRAVADA               | 01-26-24      | 218 | BROWN     | UG050147 | Unknown  | 1GHDT13W2W2729770 |
-| 2003 | ECHO                  | 01-26-24      | 308 | GRAY      | UG050146 | Unknown  | JTDBT123635052849 |
-| 2003 | MAZDA PROTEGE         | 01-26-24      | 308 | SILVER    | UG050145 | Unknown  | JM1BJ226X31207352 |
 | 2013 | CARAVAN               | 01-26-24      | 413 | BLACK     | UG050143 | Unknown  | 2C4RDGCGXDR716249 |
+| 2003 | MAZDA PROTEGE         | 01-26-24      | 308 | SILVER    | UG050145 | Unknown  | JM1BJ226X31207352 |
+| 2003 | ECHO                  | 01-26-24      | 308 | GRAY      | UG050146 | Unknown  | JTDBT123635052849 |
+| 1998 | BRAVADA               | 01-26-24      | 218 | BROWN     | UG050147 | Unknown  | 1GHDT13W2W2729770 |
 | 2006 | ODYSSEY               | 01-26-24      | 308 | TAN       | UG050135 | Unknown  | 5FNRL38486B048962 |
 | 2008 | JETTA                 | 01-26-24      | 307 | WHITE     | UG050139 | Unknown  | 3VWRM71K38M119784 |
 | 2006 | EXPLORER              | 01-26-24      | 217 | GOLD      | UG050122 | Unknown  | 1FMEU63E26UA69595 |
 | 2002 | MDX                   | 01-26-24      | 308 | WHITE     | UG050118 | Unknown  | 2HNYD18642H505733 |
 | 2004 | JETTA                 | 01-26-24      | 308 | MAROON    | UG050116 | Unknown  | 3VWSE69M94M040452 |
-| 2006 | SEQUOIA               | 01-26-24      | 218 | GREEN     | UG050112 | Unknown  | 5TDBT48A56S261795 |
 | 2002 | ESCAPE                | 01-26-24      | 413 | GREEN     | UG050111 | Unknown  | 1FMCU04132KA49569 |
+| 2006 | SEQUOIA               | 01-26-24      | 218 | GREEN     | UG050112 | Unknown  | 5TDBT48A56S261795 |
 | 2013 | INFINITI G37          | 01-26-24      | 308 | BLACK     | UG050106 | Unknown  | JN1CV6AR4DM750615 |
 | 2003 | MAZDA 6               | 01-26-24      | 308 | GREEN     | UG050102 | Unknown  | 1YVFP80C935M24177 |
-| 2007 | IMPALA                | 01-26-24      | 413 | BLUE      | UG050091 | Unknown  | 2G1WS58R479342161 |
 | 2006 | PILOT                 | 01-26-24      | 218 | SILVER    | UG050092 | Unknown  | 5FNYF18536B007266 |
+| 2007 | IMPALA                | 01-26-24      | 413 | BLUE      | UG050091 | Unknown  | 2G1WS58R479342161 |
 | 2007 | EDGE                  | 01-26-24      | 413 | BLACK     | UG050074 | Unknown  | 2FMDK38C27BB44200 |
 | 2003 | VUE                   | 01-26-24      | 413 | BLACK     | UG050069 | Unknown  | 5GZCZ53B53S878656 |
 | 2012 | MAZDA 6               | 01-26-24      | 308 | BLACK     | UG050068 | Unknown  | 1YVHZ8DH1C5M32783 |
@@ -812,20 +812,20 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2004 | SAAB 9-5              | 01-26-24      | 308 | BLACK     | UG049968 | Unknown  | YS3ED59A443502767 |
 | 2003 | EXPRESS 2500 VAN      | 01-26-24      | 218 | WHITE     | UG049605 | Unknown  | 1GCGG25UX31139150 |
 | 2002 | SEBRING               | 01-26-24      | 413 | GOLD      | UG049128 | Unknown  | 1C3EL56R42N194591 |
-| 2011 | IMPALA                | 01-25-24      | 412 | BLACK     | UG050133 | Unknown  | 2G1WG5EK7B1304987 |
 | 2007 | CARAVAN               | 01-25-24      | 412 | SILVER    | UG050136 | Unknown  | 1D4GP24R87B212158 |
 | 2006 | TACOMA                | 01-25-24      | 217 | WHITE     | UG050134 | Unknown  | 5TETX22N86Z162920 |
-| 2003 | STRATUS               | 01-25-24      | 412 | WHITE     | UG050128 | Unknown  | 1B3EL36XX3N579462 |
-| 2008 | RANGE ROVER           | 01-25-24      | 217 | BLACK     | UG050129 | Unknown  | SALMF13488A271438 |
+| 2011 | IMPALA                | 01-25-24      | 412 | BLACK     | UG050133 | Unknown  | 2G1WG5EK7B1304987 |
 | 2011 | BMW 328i              | 01-25-24      | 307 | GOLD      | UG050132 | Unknown  | WBAPK7C59BA818149 |
-| 2007 | MAZDA 6               | 01-25-24      | 307 | SILVER    | UG050127 | Unknown  | 1YVHP80C875M29305 |
-| 2000 | JETTA                 | 01-25-24      | 307 | BLACK     | UG050123 | Unknown  | 3VWRA29M2YM003820 |
+| 2008 | RANGE ROVER           | 01-25-24      | 217 | BLACK     | UG050129 | Unknown  | SALMF13488A271438 |
 | 2001 | LESABRE               | 01-25-24      | 413 | TAN       | UG050124 | Unknown  | 1G4HR54K41U129687 |
 | 1997 | DODGE 1500 PICKUP     | 01-25-24      | 217 | GRAY      | UG050125 | Unknown  | 1B7HF16Y7VJ572575 |
+| 2007 | MAZDA 6               | 01-25-24      | 307 | SILVER    | UG050127 | Unknown  | 1YVHP80C875M29305 |
+| 2003 | STRATUS               | 01-25-24      | 412 | WHITE     | UG050128 | Unknown  | 1B3EL36XX3N579462 |
+| 2000 | JETTA                 | 01-25-24      | 307 | BLACK     | UG050123 | Unknown  | 3VWRA29M2YM003820 |
 | 2005 | FORD E150 VAN         | 01-25-24      | 217 | WHITE     | UG050114 | Unknown  | 1FTSS34L25HB02224 |
 | 2000 | SILVERADO 1500 PICKUP | 01-25-24      | 217 | MAROON    | UG050113 | Unknown  | 1GCEK19T3YE420157 |
-| 2011 | ROUTAN                | 01-25-24      | 307 | WHITE     | UG050100 | Unknown  | 2V4RW3DG4BR789671 |
 | 2004 | TRAILBLAZER           | 01-25-24      | 217 | GRAY      | UG050097 | Unknown  | 1GNDT13S042321114 |
+| 2011 | ROUTAN                | 01-25-24      | 307 | WHITE     | UG050100 | Unknown  | 2V4RW3DG4BR789671 |
 | 2007 | ENTOURAGE             | 01-25-24      | 307 | BLACK     | UG050088 | Unknown  | KNDMC233676020495 |
 | 1999 | CAMRY                 | 01-25-24      | 307 | TAN       | UG050037 | Unknown  | 4T1BF22K5XU080654 |
 | 2005 | EXPLORER              | 01-25-24      | 217 | RED       | UG050038 | Unknown  | 1FMZU73K25UB71894 |
@@ -841,16 +841,16 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2009 | MERCEDES S-CLASS      | 01-25-24      | 307 | BLACK     | UG049874 | Unknown  | WDDNG86X59A265997 |
 | 2008 | PRIUS                 | 01-25-24      | 307 | RED       | UG049546 | Unknown  | JTDKB20U187748275 |
 | 2008 | IMPALA                | 01-24-24      | 412 | GRAY      | UG050130 | Unknown  | 2G1WT58K881290551 |
-| 2009 | COBALT                | 01-24-24      | 412 | BLUE      | UG050121 | Unknown  | 1G1AT58H197139280 |
 | 2009 | FORESTER              | 01-24-24      | 306 | GREEN     | UG050120 | Unknown  | JF2SH64689H751012 |
+| 2009 | COBALT                | 01-24-24      | 412 | BLUE      | UG050121 | Unknown  | 1G1AT58H197139280 |
 | 2000 | AVALON                | 01-24-24      | 306 | BLACK     | UG050119 | Unknown  | 4T1BF28B1YU047482 |
-| 2007 | FOCUS                 | 01-24-24      | 412 | GRAY      | UG050105 | Unknown  | 1FAFP34NX7W270069 |
 | 2002 | CAMRY                 | 01-24-24      | 306 | SILVER    | UG050108 | Unknown  | JTDBE32K820101249 |
 | 2003 | DODGE 1500 PICKUP     | 01-24-24      | 217 | GREEN     | UG050110 | Unknown  | 1D7HU16D33J633801 |
+| 2007 | FOCUS                 | 01-24-24      | 412 | GRAY      | UG050105 | Unknown  | 1FAFP34NX7W270069 |
 | 2009 | CARAVAN               | 01-24-24      | 412 | WHITE     | UG050104 | Unknown  | 2D8HN44E29R603831 |
+| 1997 | DODGE 1500 PICKUP     | 01-24-24      | 217 | WHITE     | UG050101 | Unknown  | 3B7HF13Y5VG755091 |
 | 1997 | COROLLA               | 01-24-24      | 307 | BLACK     | UG050103 | Unknown  | 1NXBB02E2VZ553496 |
 | 2005 | IMPALA                | 01-24-24      | 412 | MAROON    | UG050099 | Unknown  | 2G1WF52EX59297542 |
-| 1997 | DODGE 1500 PICKUP     | 01-24-24      | 217 | WHITE     | UG050101 | Unknown  | 3B7HF13Y5VG755091 |
 | 2017 | FORTE                 | 01-24-24      | 307 | BLACK     | UG050094 | Unknown  | 3KPFK4A79HE122432 |
 | 2004 | BONNEVILLE            | 01-24-24      | 412 | GOLD      | UG050093 | Unknown  | 1G2HX54K34U153577 |
 | 2009 | MALIBU                | 01-24-24      | 412 | BLUE      | UG050090 | Unknown  | 1G1ZG57BX9F154290 |
@@ -859,8 +859,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | SIENNA                | 01-24-24      | 307 | SILVER    | UG050072 | Unknown  | 4T3ZF19C33U534294 |
 | 1999 | WINDSTAR              | 01-24-24      | 412 | GOLD      | UG050059 | Unknown  | 2FMZA5342XBA54016 |
 | 2006 | ACCORD                | 01-24-24      | 307 | SILVER    | UG050050 | Unknown  | 1HGCM66576A009449 |
-| 2004 | MDX                   | 01-24-24      | 307 | TAN       | UG050004 | Unknown  | 2HNYD18744H560145 |
 | 2007 | EDGE                  | 01-24-24      | 412 | WHITE     | UG050006 | Unknown  | 2FMDK36C97BB48196 |
+| 2004 | MDX                   | 01-24-24      | 307 | TAN       | UG050004 | Unknown  | 2HNYD18744H560145 |
 | 2008 | ODYSSEY               | 01-24-24      | 306 | SILVER    | UG049977 | Unknown  | 5FNRL38688B412009 |
 | 2007 | IMPALA                | 01-24-24      | 412 | GRAY      | UG049967 | Unknown  | 2G1WT58K579204483 |
 | 2006 | IMPALA                | 01-24-24      | 412 | TAN       | UG049965 | Unknown  | 2G1WC581569132948 |
@@ -893,18 +893,18 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | DODGE 1500 PICKUP     | 01-22-24      | 216 | WHITE     | UG050056 | Unknown  | 1D7HA16N08J180939 |
 | 2014 | COROLLA               | 01-22-24      | 305 | BLACK     | UG050048 | Unknown  | 2T1BURHE5EC134548 |
 | 2001 | BLAZER S10/JIMMY S15  | 01-22-24      | 216 | BLUE      | UG050046 | Unknown  | 1GNCS13W912121250 |
-| 2013 | EQUINOX               | 01-22-24      | 411 | BLUE      | UG050043 | Unknown  | 2GNALBEK2D6225588 |
-| 2001 | CENTURY               | 01-22-24      | 411 | TAN       | UG050044 | Unknown  | 2G4WS52J111308268 |
 | 2006 | VUE                   | 01-22-24      | 411 | WHITE     | UG050039 | Unknown  | 5GZCZ33D26S849870 |
 | 2005 | FORD F150 PICKUP      | 01-22-24      | 216 | BLACK     | UG050041 | Unknown  | 1FTPW12575KD31567 |
+| 2013 | EQUINOX               | 01-22-24      | 411 | BLUE      | UG050043 | Unknown  | 2GNALBEK2D6225588 |
+| 2001 | CENTURY               | 01-22-24      | 411 | TAN       | UG050044 | Unknown  | 2G4WS52J111308268 |
 | 2010 | FUSION                | 01-22-24      | 411 | TAN       | UG050030 | Unknown  | 3FAHP0HA2AR374211 |
 | 2003 | LESABRE               | 01-22-24      | 411 | SILVER    | UG050029 | Unknown  | 1G4HP52K534200441 |
 | 1995 | FORD F150 PICKUP      | 01-22-24      | 216 | PURPLE    | UG050028 | Unknown  | 1FTEX15N0SKA14127 |
 | 2007 | UPLANDER              | 01-22-24      | 411 | WHITE     | UG050020 | Unknown  | 1GBDV13157D179009 |
 | 2012 | FUSION                | 01-22-24      | 411 | GRAY      | UG050016 | Unknown  | 3FAHP0HA6CR434929 |
-| 1980 | FIESTA                | 01-22-24      | 411 | ORANGE    | UG049982 | Unknown  | GCFBAE690860      |
-| 1994 | TEMPO                 | 01-22-24      | 411 | SILVER    | UG049983 | Unknown  | 1FAPP36X9RK220017 |
 | 2013 | EXPRESS 2500 VAN      | 01-22-24      | 216 | ORANGE    | UG049979 | Unknown  | 1GCWGGCAXD1184348 |
+| 1994 | TEMPO                 | 01-22-24      | 411 | SILVER    | UG049983 | Unknown  | 1FAPP36X9RK220017 |
+| 1980 | FIESTA                | 01-22-24      | 411 | ORANGE    | UG049982 | Unknown  | GCFBAE690860      |
 | 2006 | CARAVAN               | 01-22-24      | 411 | RED       | UG049928 | Unknown  | 2D4GP44L26R804484 |
 | 2004 | CENTURY               | 01-22-24      | 411 | GOLD      | UG049823 | Unknown  | 2G4WS52J041179721 |
 | 2008 | AVEO                  | 01-19-24      | 410 | BLUE      | UG050061 | Unknown  | KL1TD56688B200545 |
@@ -915,12 +915,12 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | EXPRESS 1500 VAN      | 01-19-24      | 216 | RED       | UG050032 | Unknown  | 1GCFG15X381212561 |
 | 2007 | MONTEGO               | 01-19-24      | 410 | GRAY      | UG050022 | Unknown  | 1MEFM40107G605165 |
 | 2011 | TRAVERSE              | 01-19-24      | 410 | SILVER    | UG050019 | 250000   | 1GNKRFED2BJ238207 |
-| 1999 | DURANGO               | 01-19-24      | 216 | RED       | UG049991 | Unknown  | 1B4HS28ZXXF525258 |
-| 1998 | FORD F150 PICKUP      | 01-19-24      | 216 | TAN       | UG050002 | Unknown  | 1FTZF1769WKA36336 |
-| 2000 | FORD E150 VAN         | 01-19-24      | 216 | GOLD      | UG050009 | Unknown  | 1FDRE14L1YHB29456 |
 | 1995 | NEON                  | 01-19-24      | 410 | BLUE      | UG050011 | Unknown  | 1B3ES47C0SD367405 |
-| 2002 | SATURN S SERIES       | 01-19-24      | 410 | BLUE      | UG049993 | Unknown  | 1G8ZH52802Z288496 |
+| 2000 | FORD E150 VAN         | 01-19-24      | 216 | GOLD      | UG050009 | Unknown  | 1FDRE14L1YHB29456 |
+| 1998 | FORD F150 PICKUP      | 01-19-24      | 216 | TAN       | UG050002 | Unknown  | 1FTZF1769WKA36336 |
 | 1996 | GMC 1500 PICKUP       | 01-19-24      | 216 | GREEN     | UG049994 | Unknown  | 2GTEK19R5T1536717 |
+| 1999 | DURANGO               | 01-19-24      | 216 | RED       | UG049991 | Unknown  | 1B4HS28ZXXF525258 |
+| 2002 | SATURN S SERIES       | 01-19-24      | 410 | BLUE      | UG049993 | Unknown  | 1G8ZH52802Z288496 |
 | 2013 | MALIBU                | 01-19-24      | 411 | BLACK     | UG049962 | Unknown  | 1G11B5SA9DF257820 |
 | 2015 | COMPASS               | 01-19-24      | 216 | BLACK     | UG049937 | Unknown  | 1C4NJDEB2FD114376 |
 | 2004 | CROWN VICTORIA        | 01-19-24      | 410 | BLACK     | UG049914 | Unknown  | 2FAFP74W44X173966 |
@@ -931,45 +931,45 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2000 | FORD F250SD PICKUP    | 01-19-24      | 216 | WHITE     | UG049761 | Unknown  | 1FTNX21L8YEB52967 |
 | 2003 | SAAB 9-5              | 01-19-24      | 302 | BLACK     | UG049688 | Unknown  | YS3EH45G133004372 |
 | 1985 | TORONADO              | 01-19-24      | 410 |           | UG049545 | Unknown  | 1G3EZ57Y7FE334736 |
-| 1999 | SUBURBAN 1500         | 01-18-24      | 215 | GOLD      | UG049999 | Unknown  | 3GNFK16R9XG236997 |
-| 2009 | EQUINOX               | 01-18-24      | 409 | RED       | UG050003 | Unknown  | 2CNDL83FX96210080 |
-| 2003 | CENTURY               | 01-18-24      | 410 | BROWN     | UG050007 | Unknown  | 2G4WS52J531204921 |
-| 2001 | PT CRUISER            | 01-18-24      | 410 | RED       | UG050008 | Unknown  | 3C8FY4BB71T686274 |
-| 2004 | MERCEDES E-CLASS      | 01-18-24      | 305 | WHITE     | UG050010 | Unknown  | WDBUF82J24X161143 |
-| 2009 | AUDI A4               | 01-18-24      | 305 | BLACK     | UG050012 | Unknown  | WAULF78K39N038166 |
 | 1995 | GRAND PRIX            | 01-18-24      | 410 | MAROON    | UG050013 | Unknown  | 1G2WJ12M5SF335255 |
+| 2009 | AUDI A4               | 01-18-24      | 305 | BLACK     | UG050012 | Unknown  | WAULF78K39N038166 |
+| 2004 | MERCEDES E-CLASS      | 01-18-24      | 305 | WHITE     | UG050010 | Unknown  | WDBUF82J24X161143 |
+| 2001 | PT CRUISER            | 01-18-24      | 410 | RED       | UG050008 | Unknown  | 3C8FY4BB71T686274 |
+| 2003 | CENTURY               | 01-18-24      | 410 | BROWN     | UG050007 | Unknown  | 2G4WS52J531204921 |
+| 2009 | EQUINOX               | 01-18-24      | 409 | RED       | UG050003 | Unknown  | 2CNDL83FX96210080 |
+| 1999 | SUBURBAN 1500         | 01-18-24      | 215 | GOLD      | UG049999 | Unknown  | 3GNFK16R9XG236997 |
+| 2004 | SANTA FE              | 01-18-24      | 305 | BLUE      | UG049986 | Unknown  | KM8SB12B04U841110 |
 | 2004 | CARAVAN               | 01-18-24      | 410 | BLUE      | UG049987 | Unknown  | 1D4GP24R44B594376 |
 | 1988 | GMC 1500 PICKUP       | 01-18-24      | 215 | SILVER    | UG049985 | Unknown  | 2GTDC14Z8J1569126 |
-| 2004 | SANTA FE              | 01-18-24      | 305 | BLUE      | UG049986 | Unknown  | KM8SB12B04U841110 |
 | 1993 | LEGACY                | 01-18-24      | 305 | RED       | UG049969 | Unknown  | 4S3BJ6330P7953954 |
-| 2007 | GRAND CHEROKEE        | 01-18-24      | 215 | BLUE      | UG049963 | Unknown  | 1J8GR48KX7C596124 |
 | 1998 | SATURN S SERIES       | 01-18-24      | 410 | GREEN     | UG049959 | Unknown  | 1G8ZG5289WZ169113 |
+| 2007 | GRAND CHEROKEE        | 01-18-24      | 215 | BLUE      | UG049963 | Unknown  | 1J8GR48KX7C596124 |
 | 2004 | LESABRE               | 01-18-24      | 410 | TAN       | UG049954 | Unknown  | 1G4HP52K144145522 |
 | 2006 | ACCORD                | 01-18-24      | 305 | TAN       | UG049955 | Unknown  | 1HGCM56736A174684 |
-| 2006 | CR-V                  | 01-18-24      | 305 | TAN       | UG049947 | Unknown  | JHLRD68876C020362 |
 | 2008 | VUE                   | 01-18-24      | 410 | BLACK     | UG049936 | Unknown  | 3GSCL33PX8S708926 |
+| 2006 | CR-V                  | 01-18-24      | 305 | TAN       | UG049947 | Unknown  | JHLRD68876C020362 |
 | 2005 | IMPALA                | 01-18-24      | 410 | BLUE      | UG049922 | Unknown  | 2G1WH52K059346313 |
-| 1999 | FORD F150 PICKUP      | 01-18-24      | 215 | RED       | UG049918 | Unknown  | 1FTRX18LXXNB96405 |
-| 1999 | INTREPID              | 01-18-24      | 410 | GOLD      | UG049916 | Unknown  | 2B3HD46R6XH697783 |
-| 2004 | ENVOY                 | 01-18-24      | 215 | SILVER    | UG049915 | Unknown  | 1GKDT13S942222692 |
 | 2005 | TOWN & COUNTRY        | 01-18-24      | 410 | RED       | UG049912 | Unknown  | 2C4GP54L25R388910 |
+| 1999 | INTREPID              | 01-18-24      | 410 | GOLD      | UG049916 | Unknown  | 2B3HD46R6XH697783 |
+| 1999 | FORD F150 PICKUP      | 01-18-24      | 215 | RED       | UG049918 | Unknown  | 1FTRX18LXXNB96405 |
 | 1998 | VOLVO 70 SERIES       | 01-18-24      | 305 | GREEN     | UG049913 | Unknown  | YV1LS5540W1425005 |
+| 2004 | ENVOY                 | 01-18-24      | 215 | SILVER    | UG049915 | Unknown  | 1GKDT13S942222692 |
 | 2008 | GRAND CHEROKEE        | 01-18-24      | 215 | BLACK     | UG049867 | Unknown  | 1J8HR58238C243817 |
 | 2005 | SILVERADO 1500 PICKUP | 01-18-24      | 215 | BLACK     | UG049856 | Unknown  | 1GCEK19B25E253759 |
 | 2009 | SILVERADO 1500 PICKUP | 01-18-24      | 215 | BLACK     | UG049806 | Unknown  | 1GCEK29019Z158323 |
 | 2006 | CARAVAN               | 01-18-24      | 409 | BLUE      | UG049656 | Unknown  | 2D4GP44LX6R727413 |
-| 2003 | VOLVO 70 SERIES       | 01-17-24      | 304 | SILVER    | UG049988 | Unknown  | YV1SZ59H731099025 |
-| 2011 | CRUZE                 | 01-17-24      | 409 | SILVER    | UG049990 | Unknown  | 1G1PD5SH7B7269683 |
 | 2000 | RANGER                | 01-17-24      | 215 | GOLD      | UG049996 | Unknown  | 1FTZR15V8YPC20593 |
 | 2002 | CAVALIER              | 01-17-24      | 409 | BLUE      | UG049997 | Unknown  | 1G1JF524427158358 |
+| 2011 | CRUZE                 | 01-17-24      | 409 | SILVER    | UG049990 | Unknown  | 1G1PD5SH7B7269683 |
+| 2003 | VOLVO 70 SERIES       | 01-17-24      | 304 | SILVER    | UG049988 | Unknown  | YV1SZ59H731099025 |
+| 2003 | GRAND CHEROKEE        | 01-17-24      | 215 | BLACK     | UG049981 | Unknown  | 1J4GW58N53C588386 |
 | 2006 | JETTA                 | 01-17-24      | 305 | BLACK     | UG049984 | Unknown  | 3VWSG71K76M726020 |
 | 2009 | CARAVAN               | 01-17-24      | 409 | WHITE     | UG049976 | Unknown  | 1D8HN44E19B502682 |
-| 2003 | GRAND CHEROKEE        | 01-17-24      | 215 | BLACK     | UG049981 | Unknown  | 1J4GW58N53C588386 |
 | 2008 | EXPRESS 1500 VAN      | 01-17-24      | 215 | WHITE     | UG049975 | Unknown  | 1GCGG29K581128279 |
 | 2008 | ENCLAVE               | 01-17-24      | 409 | WHITE     | UG049973 | Unknown  | 5GAEV23708J111442 |
 | 2005 | CROWN VICTORIA        | 01-17-24      | 409 | BLACK     | UG049971 | Unknown  | 2FAHP71W65X153278 |
-| 2011 | ACADIA                | 01-17-24      | 215 | GRAY      | UG049964 | Unknown  | 1GKKVPED6BJ334176 |
 | 2003 | REGAL                 | 01-17-24      | 409 | GOLD      | UG049966 | Unknown  | 2G4WB52K031162618 |
+| 2011 | ACADIA                | 01-17-24      | 215 | GRAY      | UG049964 | Unknown  | 1GKKVPED6BJ334176 |
 | 1999 | ESCALADE              | 01-17-24      | 215 | TAN       | UG049956 | Unknown  | 1GYEK13R2XR403915 |
 | 2000 | SUBURBAN 1500         | 01-17-24      | 215 | BLACK     | UG049958 | Unknown  | 3GNFK16T8YG128075 |
 | 2007 | ELEMENT               | 01-17-24      | 305 | GREEN     | UG049945 | Unknown  | 5J6YH28777L013324 |
@@ -987,17 +987,17 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2000 | CIVIC                 | 01-16-24      | 304 | WHITE     | UG049972 | Unknown  | JHMEJ6674YS008143 |
 | 2008 | ELANTRA               | 01-16-24      | 304 | BLUE      | UG049970 | Unknown  | KMHDU46D78U330600 |
 | 2004 | VENTURE               | 01-16-24      | 409 | WHITE     | UG049953 | Unknown  | 1GNDX03E74D185013 |
-| 2011 | ACADIA                | 01-16-24      | 214 | BLACK     | UG049949 | 199999   | 1GKKVRED2BJ394029 |
-| 2005 | GRAND CHEROKEE        | 01-16-24      | 214 | BLACK     | UG049948 | 198745   | 1J4HR58225C587376 |
-| 2005 | FIVE HUNDRED          | 01-16-24      | 408 | BLUE      | UG049952 | Unknown  | 1FAFP24145G201506 |
 | 2003 | ACCORD                | 01-16-24      | 304 | GRAY      | UG049951 | Unknown  | 1HGCM72623A011237 |
+| 2005 | FIVE HUNDRED          | 01-16-24      | 408 | BLUE      | UG049952 | Unknown  | 1FAFP24145G201506 |
+| 2005 | GRAND CHEROKEE        | 01-16-24      | 214 | BLACK     | UG049948 | 198745   | 1J4HR58225C587376 |
+| 2011 | ACADIA                | 01-16-24      | 214 | BLACK     | UG049949 | 199999   | 1GKKVRED2BJ394029 |
 | 2011 | ACADIA                | 01-16-24      | 215 | BROWN     | UG049961 | Unknown  | 1GKKVSEDXBJ100884 |
+| 2012 | TOWN & COUNTRY        | 01-16-24      | 409 | BLUE      | UG049931 | Unknown  | 2C4RC1BG3CR200248 |
+| 2002 | MDX                   | 01-16-24      | 304 | BLACK     | UG049934 | Unknown  | 2HNYD18622H512700 |
+| 2011 | FUSION                | 01-16-24      | 408 | BLACK     | UG049938 | Unknown  | 3FAHP0HA8BR242068 |
+| 2007 | CALIBER               | 01-16-24      | 408 | ORANGE    | UG049940 | Unknown  | 1B3HB48B27D505150 |
 | 2008 | MALIBU                | 01-16-24      | 408 | BLACK     | UG049941 | Unknown  | 1G1ZH57B88F238586 |
 | 2008 | COBALT                | 01-16-24      | 409 | GRAY      | UG049942 | Unknown  | 1G1AK18F887104583 |
-| 2007 | CALIBER               | 01-16-24      | 408 | ORANGE    | UG049940 | Unknown  | 1B3HB48B27D505150 |
-| 2011 | FUSION                | 01-16-24      | 408 | BLACK     | UG049938 | Unknown  | 3FAHP0HA8BR242068 |
-| 2002 | MDX                   | 01-16-24      | 304 | BLACK     | UG049934 | Unknown  | 2HNYD18622H512700 |
-| 2012 | TOWN & COUNTRY        | 01-16-24      | 409 | BLUE      | UG049931 | Unknown  | 2C4RC1BG3CR200248 |
 | 2002 | RANGER                | 01-16-24      | 214 | RED       | UG049930 | Unknown  | 1FTZR45E72PA76849 |
 | 2008 | LUCERNE               | 01-16-24      | 408 | TAN       | UG049924 | Unknown  | 1G4HE57Y48U110093 |
 | 2007 | TOWN & COUNTRY        | 01-16-24      | 407 | RED       | UG049926 | Unknown  | 2A4GP54L57R296736 |
@@ -1014,23 +1014,23 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2006 | STS                   | 01-15-24      | 408 | WHITE     | UG049901 | Unknown  | 1G6DW677460101639 |
 | 2002 | PARK AVENUE           | 01-15-24      | 408 | BRONZE    | UG049886 | Unknown  | 1G4CW54K924237906 |
 | 1988 | DYNASTY               | 01-15-24      | 408 | GRAY      | UG049889 | Unknown  | 1B3BU5630JD219211 |
-| 2001 | EXPLORER              | 01-15-24      | 214 | GREEN     | UG049888 | Unknown  | 1FMZU77E41UA48970 |
 | 2012 | CRUZE                 | 01-15-24      | 408 | SILVER    | UG049894 | Unknown  | 1G1PK5SC7C7156442 |
+| 2001 | EXPLORER              | 01-15-24      | 214 | GREEN     | UG049888 | Unknown  | 1FMZU77E41UA48970 |
+| 2006 | PILOT                 | 01-15-24      | 214 | BLUE      | UG049877 | Unknown  | 5FNYF18536B009762 |
 | 2007 | VOLVO 80 SERIES       | 01-15-24      | 304 | GOLD      | UG049882 | Unknown  | YV1AS982071016187 |
 | 1999 | GRAND MARQUIS         | 01-15-24      | 408 | MAROON    | UG049883 | Unknown  | 2MEFM75W8XX613739 |
 | 1999 | LHS                   | 01-15-24      | 408 | GOLD      | UG049884 | Unknown  | 2C3HC56G2XH236199 |
-| 2006 | PILOT                 | 01-15-24      | 214 | BLUE      | UG049877 | Unknown  | 5FNYF18536B009762 |
 | 2006 | GRAND PRIX            | 01-15-24      | 408 | SILVER    | UG049871 | Unknown  | 2G2WP552561187931 |
 | 2007 | LIBERTY               | 01-15-24      | 214 | SILVER    | UG049870 | Unknown  | 1J4GL48K27W591534 |
 | 2008 | PATRIOT               | 01-15-24      | 214 | SILVER    | UG049868 | Unknown  | 1J8FF48W88D643377 |
 | 2006 | AVEO                  | 01-15-24      | 408 | RED       | UG049863 | Unknown  | KL1TD66626B622975 |
 | 2003 | TAURUS                | 01-15-24      | 408 | GRAY      | UG049860 | Unknown  | 1FAFP53U53G120153 |
-| 1999 | BLAZER S10/JIMMY S15  | 01-15-24      | 214 | MAROON    | UG049827 | Unknown  | 1GKDT13W7X2520259 |
 | 2009 | MINI COOPER           | 01-15-24      | 304 | GREEN     | UG049831 | Unknown  | WMWMF73559TW82432 |
-| 2009 | G6                    | 01-15-24      | 408 | SILVER    | UG049774 | Unknown  | 1G2ZG57B394140688 |
-| 2004 | XTERRA                | 01-15-24      | 214 | BROWN     | UG049737 | Unknown  | 5N1ED28T44C658070 |
+| 1999 | BLAZER S10/JIMMY S15  | 01-15-24      | 214 | MAROON    | UG049827 | Unknown  | 1GKDT13W7X2520259 |
 | 2006 | TOWN & COUNTRY        | 01-15-24      | 407 | RED       | UG049768 | Unknown  | 2A4GP54L76R608828 |
+| 2009 | G6                    | 01-15-24      | 408 | SILVER    | UG049774 | Unknown  | 1G2ZG57B394140688 |
 | 2012 | AVENGER               | 01-15-24      | 408 | SILVER    | UG049762 | Unknown  | 1C3CDZAB9CN128903 |
+| 2004 | XTERRA                | 01-15-24      | 214 | BROWN     | UG049737 | Unknown  | 5N1ED28T44C658070 |
 | 1979 | DODGE 100 VAN         | 01-15-24      | 214 | WHITE     | UG049557 | Unknown  | F34KT9V701220     |
 | 2008 | PILOT                 | 01-15-24      | 214 | GREEN     | UG049272 | Unknown  | 5FNYF18458B016755 |
 | 1997 | VOLVO 850             | 01-15-24      | 304 | RED       | UG049266 | Unknown  | YV1LS5549V2366884 |
@@ -1038,13 +1038,13 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | PRIUS                 | 01-15-24      | 304 | GRAY      | UG047438 | Unknown  | JTDKB20U983415278 |
 | 2009 | CR-V                  | 01-12-24      | 303 | MAROON    | UG049906 | Unknown  | 5J6RE48339L038195 |
 | 2008 | EQUINOX               | 01-12-24      | 407 | WHITE     | UG049898 | Unknown  | 2CNDL037686054189 |
-| 2008 | G6                    | 01-12-24      | 407 | RED       | UG049897 | Unknown  | 1G2ZH57N684121705 |
 | 2005 | CIVIC                 | 01-12-24      | 303 | BLUE      | UG049896 | Unknown  | 2HGES16685H537527 |
+| 2008 | G6                    | 01-12-24      | 407 | RED       | UG049897 | Unknown  | 1G2ZH57N684121705 |
 | 2003 | SUBURBAN 1500         | 01-12-24      | 213 | GRAY      | UG049895 | Unknown  | 3GNFK16Z43G278892 |
-| 2002 | CR-V                  | 01-12-24      | 303 | SILVER    | UG049891 | Unknown  | JHLRD78862C044958 |
 | 2000 | SILVERADO 1500 PICKUP | 01-12-24      | 213 | GRAY      | UG049892 | Unknown  | 1GCEK19T8YE261832 |
 | 2003 | EXPEDITION            | 01-12-24      | 213 | WHITE     | UG049893 | Unknown  | 1FMFU18L13LB61023 |
 | 2008 | ODYSSEY               | 01-12-24      | 303 | BLUE      | UG049879 | Unknown  | 5FNRL38918B017342 |
+| 2002 | CR-V                  | 01-12-24      | 303 | SILVER    | UG049891 | Unknown  | JHLRD78862C044958 |
 | 2008 | FUSION                | 01-12-24      | 407 | SILVER    | UG049876 | Unknown  | 3FAHP08118R168730 |
 | 2004 | DEVILLE               | 01-12-24      | 407 | BLACK     | UG049872 | Unknown  | 1G6KF57924U126564 |
 | 2002 | CIVIC                 | 01-12-24      | 303 | CHAMPAGNE | UG049869 | Unknown  | 1HGES26882L076612 |
@@ -1069,15 +1069,15 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | MAXIMA                | 01-11-24      | 303 | BLACK     | UG049858 | Unknown  | 1N4AA5AP3AC849748 |
 | 2005 | IMPALA                | 01-11-24      | 407 | GRAY      | UG049851 | Unknown  | 2G1WF52E859341277 |
 | 2007 | VUE                   | 01-11-24      | 407 | GRAY      | UG049845 | Unknown  | 5GZCZ53417S823161 |
-| 2008 | VUE                   | 01-11-24      | 407 | WHITE     | UG049839 | Unknown  | 3GSDL737X8S579890 |
-| 2006 | TAURUS                | 01-11-24      | 407 | GOLD      | UG049840 | Unknown  | 1FAHP53256A222552 |
 | 1997 | GMC 1500 PICKUP       | 01-11-24      | 213 | BLACK     | UG049837 | Unknown  | 1GTEK14RXVZ520840 |
-| 2000 | CARAVAN               | 01-11-24      | 407 | GREEN     | UG049817 | Unknown  | 2B4GP2531YR557099 |
-| 1995 | TAHOE                 | 01-11-24      | 213 | WHITE     | UG049821 | Unknown  | 1GNEK13KXSJ395831 |
-| 2009 | ALTIMA                | 01-11-24      | 303 | WHITE     | UG049834 | Unknown  | 1N4AL21E39N544192 |
-| 2007 | CARAVAN               | 01-11-24      | 407 | GOLD      | UG049835 | Unknown  | 2D4GP44L77R286681 |
-| 2008 | EQUINOX               | 01-11-24      | 407 | BLUE      | UG049836 | Unknown  | 2CNDL33F186036191 |
+| 2006 | TAURUS                | 01-11-24      | 407 | GOLD      | UG049840 | Unknown  | 1FAHP53256A222552 |
+| 2008 | VUE                   | 01-11-24      | 407 | WHITE     | UG049839 | Unknown  | 3GSDL737X8S579890 |
 | 2004 | FORD F150 PICKUP      | 01-11-24      | 213 | SILVER    | UG049847 | Unknown  | 1FTPW14574KD24663 |
+| 2008 | EQUINOX               | 01-11-24      | 407 | BLUE      | UG049836 | Unknown  | 2CNDL33F186036191 |
+| 2007 | CARAVAN               | 01-11-24      | 407 | GOLD      | UG049835 | Unknown  | 2D4GP44L77R286681 |
+| 2009 | ALTIMA                | 01-11-24      | 303 | WHITE     | UG049834 | Unknown  | 1N4AL21E39N544192 |
+| 1995 | TAHOE                 | 01-11-24      | 213 | WHITE     | UG049821 | Unknown  | 1GNEK13KXSJ395831 |
+| 2000 | CARAVAN               | 01-11-24      | 407 | GREEN     | UG049817 | Unknown  | 2B4GP2531YR557099 |
 | 2006 | MARINER               | 01-11-24      | 407 | WHITE     | UG049812 | Unknown  | 4M2YU57106KJ01811 |
 | 2011 | TOWN & COUNTRY        | 01-11-24      | 407 | WHITE     | UG049799 | Unknown  | 2A4RR6DG2BR776754 |
 | 2013 | CARAVAN               | 01-11-24      | 406 | WHITE     | UG049789 | Unknown  | 2C4RDGBG2DR579860 |
@@ -1087,20 +1087,20 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | TAURUS                | 01-11-24      | 406 | SILVER    | UG049386 | Unknown  | 1FAHP53U27A121164 |
 | 2005 | MERCEDES S-CLASS      | 01-11-24      | 303 | SILVER    | UG049313 | Unknown  | WDBNG83J55A455589 |
 | 2006 | FORD F150 PICKUP      | 01-11-24      | 213 | RED       | UG049292 | Unknown  | 1FTPW14V06KC31860 |
-| 2004 | VOLVO 60 SERIES       | 01-11-24      | 303 | WHITE     | UG049167 | Unknown  | YV1RS61T442411287 |
 | 2013 | EQUINOX               | 01-11-24      | 407 | RED       | UG049204 | Unknown  | 2GNFLEEK4D6406246 |
+| 2004 | VOLVO 60 SERIES       | 01-11-24      | 303 | WHITE     | UG049167 | Unknown  | YV1RS61T442411287 |
 | 1994 | FORD F150 PICKUP      | 01-11-24      | 213 | RED       | UG049014 | Unknown  | 1FTEX14N7RKB67003 |
 | 2008 | VOLVO XC90            | 01-11-24      | 303 | BLUE      | UG048393 | Unknown  | YV4CZ982181426599 |
 | 2006 | EXPLORER              | 01-10-24      | 213 | MAROON    | UG049854 | Unknown  | 1FMEU74E96UB01480 |
 | 2003 | CAMRY                 | 01-10-24      | 302 | WHITE     | UG049852 | Unknown  | 4T1BE32K63U167420 |
-| 2008 | MAZDA 6               | 01-10-24      | 302 | MAROON    | UG049819 | Unknown  | 1YVHP80CX85M40677 |
-| 2004 | LEXUS RX330           | 01-10-24      | 302 | SILVER    | UG049828 | Unknown  | JTJGA31UX40023478 |
 | 2010 | COBALT                | 01-10-24      | 406 | SILVER    | UG049850 | Unknown  | 1G1AD5F56A7126454 |
+| 2004 | LEXUS RX330           | 01-10-24      | 302 | SILVER    | UG049828 | Unknown  | JTJGA31UX40023478 |
+| 2008 | MAZDA 6               | 01-10-24      | 302 | MAROON    | UG049819 | Unknown  | 1YVHP80CX85M40677 |
 | 1998 | CENTURY               | 01-10-24      | 406 | BURGUNDY  | UG049810 | Unknown  | 2G4WS52M4W1610199 |
-| 2004 | YUKON XL 1500         | 01-10-24      | 213 | WHITE     | UG049785 | Unknown  | 1GKFK16Z14J107160 |
-| 2004 | RENDEZVOUS            | 01-10-24      | 406 | BLUE      | UG049793 | Unknown  | 3G5DA03E44S516146 |
-| 2006 | FORESTER              | 01-10-24      | 302 | GRAY      | UG049794 | Unknown  | JF1SG65636H724933 |
 | 1998 | CARAVAN               | 01-10-24      | 406 | WHITE     | UG049800 | Unknown  | 1B4GP44G8WB549416 |
+| 2006 | FORESTER              | 01-10-24      | 302 | GRAY      | UG049794 | Unknown  | JF1SG65636H724933 |
+| 2004 | RENDEZVOUS            | 01-10-24      | 406 | BLUE      | UG049793 | Unknown  | 3G5DA03E44S516146 |
+| 2004 | YUKON XL 1500         | 01-10-24      | 213 | WHITE     | UG049785 | Unknown  | 1GKFK16Z14J107160 |
 | 2004 | ENDEAVOR              | 01-10-24      | 302 | BLACK     | UG049743 | Unknown  | 4A4MM21S04E057074 |
 | 2004 | FORD F150 PICKUP      | 01-10-24      | 213 | BLUE      | UG049740 | Unknown  | 1FTPW14534KB97541 |
 | 2011 | SOUL                  | 01-10-24      | 302 | BLACK     | UG049615 | Unknown  | KNDJT2A10B7258544 |
@@ -1112,14 +1112,14 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2000 | BMW 323i              | 01-10-24      | 302 | SILVER    | UG049283 | Unknown  | WBAAM3337YFP65485 |
 | 2012 | ROUTAN                | 01-10-24      | 302 | BLACK     | UG049285 | Unknown  | 2C4RVACG6CR293808 |
 | 2001 | GRAND CHEROKEE        | 01-10-24      | 213 | SILVER    | UG049294 | 175000   | 1J4GW48S71C647712 |
-| 1976 | MG                    | 01-10-24      | 302 | GREEN     | UG049229 | Unknown  | GAN6UG178021      |
 | 2005 | CIVIC                 | 01-10-24      | 302 | BLUE      | UG049236 | Unknown  | JHMES96605S020596 |
+| 1976 | MG                    | 01-10-24      | 302 | GREEN     | UG049229 | Unknown  | GAN6UG178021      |
 | 2008 | MILAN                 | 01-10-24      | 406 | SILVER    | UG049079 | Unknown  | 3MEHM07Z98R625843 |
 | 2000 | AVALON                | 01-10-24      | 302 | BLUE      | UG049076 | Unknown  | 4T1BF28B6YU101438 |
 | 2010 | PRIUS                 | 01-10-24      | 302 | RED       | UG047952 | Unknown  | JTDKN3DU5A0096590 |
 | 2002 | PRIUS                 | 01-10-24      | 302 | BLUE      | UG047602 | Unknown  | JT2BK18U920069362 |
-| 1993 | ACCORD                | 01-09-24      | 301 | SILVER    | UG049815 | Unknown  | 1HGCB7659PA147720 |
 | 2013 | SOUL                  | 01-09-24      | 301 | BLACK     | UG049816 | Unknown  | KNDJT2A56D7604537 |
+| 1993 | ACCORD                | 01-09-24      | 301 | SILVER    | UG049815 | Unknown  | 1HGCB7659PA147720 |
 | 2007 | NAVIGATOR             | 01-09-24      | 213 | RED       | UG049809 | Unknown  | 5LMFU28557LJ01188 |
 | 2012 | SOUL                  | 01-09-24      | 301 | SILVER    | UG049824 | Unknown  | KNDJT2A68C7375401 |
 | 2006 | SPECTRA               | 01-09-24      | 301 | GOLD      | UG049808 | Unknown  | KNAFE121X65364989 |
@@ -1129,18 +1129,16 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1998 | ELDORADO              | 01-09-24      | 405 | RED       | UG049718 | Unknown  | 1G6EL12Y0WU604450 |
 | 2009 | ALTIMA                | 01-09-24      | 302 | SILVER    | UG049553 | Unknown  | 1N4BL21E09C197484 |
 | 2002 | GRAND CHEROKEE        | 01-09-24      | 213 | BLUE      | UG049406 | Unknown  | 1J4GW38N52C214699 |
-| 1997 | SUBURBAN 1500         | 01-09-24      | 213 | MAROON    | UG049142 | Unknown  | 1GNFK16R6VJ307410 |
 | 2003 | LEXUS ES300           | 01-09-24      | 302 | TAN       | UG049149 | Unknown  | JTHBF30G430145549 |
+| 1997 | SUBURBAN 1500         | 01-09-24      | 213 | MAROON    | UG049142 | Unknown  | 1GNFK16R6VJ307410 |
 | 2000 | EXPLORER              | 01-09-24      | 213 | BLACK     | UG049066 | Unknown  | 1FMYU70E7YUA55475 |
 | 2003 | EXPEDITION            | 01-08-24      | 212 | BLACK     | UG049786 | Unknown  | 1FMFU18L33LB69334 |
 | 1999 | RANGER                | 01-08-24      | 212 | BLACK     | UG049783 | Unknown  | 1FTYR10C8XPA43611 |
 | 1994 | CHEVROLET 1500 PICKUP | 01-08-24      | 212 | RED       | UG049780 | Unknown  | 2GCEK19K7R1164423 |
-| 2005 | DODGE 1500 PICKUP     | 01-08-24      | 212 | WHITE     | UG049776 | Unknown  | 1D7HU16NX5J591056 |
 | 2007 | COMPASS               | 01-08-24      | 212 | BLUE      | UG049775 | Unknown  | 1J8FF57W57D236963 |
-| 2004 | EXPLORER              | 01-08-24      | 212 | WHITE     | UG049732 | Unknown  | 1FMDU74W34UB39742 |
-| 2001 | CHEROKEE              | 01-08-24      | 212 | BLACK     | UG049726 | Unknown  | 1J4FF48S91L630888 |
-| 2000 | BEETLE                | 01-08-24      | 301 | GREEN     | UG049766 | Unknown  | 3VWCA21C3YM425149 |
+| 2005 | DODGE 1500 PICKUP     | 01-08-24      | 212 | WHITE     | UG049776 | Unknown  | 1D7HU16NX5J591056 |
 | 2000 | DURANGO               | 01-08-24      | 212 | BLACK     | UG049765 | Unknown  | 1B4HS28N9YF300246 |
+| 2000 | BEETLE                | 01-08-24      | 301 | GREEN     | UG049766 | Unknown  | 3VWCA21C3YM425149 |
 | 2008 | JETTA                 | 01-08-24      | 301 | BLUE      | UG049757 | Unknown  | 3VWRM71K08M187637 |
 | 2005 | SUBURBAN 1500         | 01-08-24      | 212 | MAROON    | UG049753 | Unknown  | 3GNFK16Z15G229040 |
 | 2011 | MAZDA CX-7            | 01-08-24      | 301 | SILVER    | UG049750 | Unknown  | JM3ER2B54B0405384 |
@@ -1149,6 +1147,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1999 | SILVERADO 1500 PICKUP | 01-08-24      | 212 | SILVER    | UG049734 | Unknown  | 2GCEC19V0X1218200 |
 | 2006 | SILVERADO 1500 PICKUP | 01-08-24      | 212 | BLUE      | UG049741 | Unknown  | 3GCEC14X66G179370 |
 | 2006 | TRAILBLAZER           | 01-08-24      | 212 | WHITE     | UG049738 | Unknown  | 1GNDT13S762104212 |
+| 2004 | EXPLORER              | 01-08-24      | 212 | WHITE     | UG049732 | Unknown  | 1FMDU74W34UB39742 |
+| 2001 | CHEROKEE              | 01-08-24      | 212 | BLACK     | UG049726 | Unknown  | 1J4FF48S91L630888 |
 | 2013 | ELANTRA               | 01-08-24      | 301 | WHITE     | UG049730 | 216000   | KMHD35LE8DU030130 |
 | 2015 | ALTIMA                | 01-08-24      | 301 | RED       | UG049619 | Unknown  | 1N4AL3AP5FN901858 |
 | 2006 | COMMANDER             | 01-08-24      | 212 | BURGUNDY  | UG049680 | Unknown  | 1J8HG48N26C200044 |
@@ -1174,8 +1174,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | PATRIOT               | 01-04-24      | 211 | ORANGE    | UG049703 | Unknown  | 1J8FF28W58D636746 |
 | 2000 | ESCALADE              | 01-04-24      | 211 | WHITE     | UG049697 | Unknown  | 1GYEK13R7YR108634 |
 | 2009 | SPORTAGE              | 01-04-24      | 323 | GRAY      | UG049578 | Unknown  | KNDJF724797635703 |
-| 2007 | ODYSSEY               | 01-04-24      | 323 | MAROON    | UG049566 | Unknown  | 5FNRL38437B083085 |
 | 2009 | SUBURBAN 1500         | 01-04-24      | 211 | MAROON    | UG049565 | Unknown  | 1GNFK36349R299189 |
+| 2007 | ODYSSEY               | 01-04-24      | 323 | MAROON    | UG049566 | Unknown  | 5FNRL38437B083085 |
 | 2005 | DAKOTA                | 01-04-24      | 211 | WHITE     | UG049518 | Unknown  | 1D7HW48N85S159388 |
 | 2012 | SOUL                  | 01-04-24      | 323 | BLACK     | UG049409 | Unknown  | KNDJT2A50C7743254 |
 | 1996 | COROLLA               | 01-04-24      | 323 | TAN       | UG049405 | Unknown  | 1NXBA02E0TZ451212 |
@@ -1201,9 +1201,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 
 | Year | Model                 | Date Received | Row | Color     | Stock#   | Odometer | VIN               |
 | ---- | --------------------- | ------------- | --- | --------- | -------- | -------- | ----------------- |
-| 1994 | CHEVROLET 1500 PICKUP | 12-29-23      | 203 | SILVER    | NG048022 | Unknown  | 1GCEK14Z9RZ162717 |
-| 2000 | ALTIMA                | 12-29-23      | 323 | SILVER    | NG048019 | 242000   | 1N4DL01D0YC246623 |
 | 2009 | ESCAPE                | 12-29-23      | 203 | WHITE     | NG048014 | Unknown  | 1FMCU03779KC13096 |
+| 2000 | ALTIMA                | 12-29-23      | 323 | SILVER    | NG048019 | 242000   | 1N4DL01D0YC246623 |
+| 1994 | CHEVROLET 1500 PICKUP | 12-29-23      | 203 | SILVER    | NG048022 | Unknown  | 1GCEK14Z9RZ162717 |
 | 2004 | TOUAREG               | 12-29-23      | 202 | SILVER    | NG048000 | Unknown  | WVGBC67L74D003586 |
 | 2006 | CR-V                  | 12-29-23      | 202 | SILVER    | NG048015 | Unknown  | SHSRD68566U404857 |
 | 2003 | SILVERADO 1500 PICKUP | 12-29-23      | 203 | WHITE     | NG048020 | Unknown  | 1GCEC14X43Z107241 |
@@ -1226,9 +1226,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2009 | SONATA                | 12-28-23      | 324 | GRAY      | NG047714 | Unknown  | 5NPEU46F69H437563 |
 | 1997 | BLAZER S10/JIMMY S15  | 12-28-23      | 202 | BROWN     | NG047668 | Unknown  | 1GCDT19X4V8131178 |
 | 2002 | LEXUS ES300           | 12-28-23      | 324 | WHITE     | NG047609 | Unknown  | JTHBF30G325006210 |
-| 2002 | SUBURBAN 1500         | 12-28-23      | 202 | RED       | NG047225 | Unknown  | 1GNFK16Z72J235760 |
 | 2004 | EXPLORER              | 12-28-23      | 202 | GOLD      | NG047400 | Unknown  | 1FMDU73W74ZB18669 |
 | 1999 | ISUZU AMIGO           | 12-28-23      | 202 | WHITE     | NG047324 | Unknown  | 4S2CM57W1X4354397 |
+| 2002 | SUBURBAN 1500         | 12-28-23      | 202 | RED       | NG047225 | Unknown  | 1GNFK16Z72J235760 |
 | 2004 | ENDEAVOR              | 12-28-23      | 202 | RED       | NG045258 | Unknown  | 4A4MN21S04E068217 |
 | 2008 | OUTLOOK               | 12-27-23      | 202 | BLACK     | NG047958 | Unknown  | 5GZEV13718J262782 |
 | 2011 | ACADIA                | 12-27-23      | 202 | MAROON    | NG047952 | 200000   | 1GKKRPED9BJ241981 |
@@ -1239,27 +1239,27 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2000 | SAVANA 1500 VAN       | 12-27-23      | 202 | GRAY      | NG047916 | Unknown  | 1GDFG15R7Y1167167 |
 | 2007 | ALTIMA                | 12-27-23      | 324 | RED       | NG047910 | Unknown  | 1N4AL21E07C114967 |
 | 2007 | TAHOE                 | 12-26-23      | 201 | BLUE      | NG047925 | Unknown  | 1GNFC13027J148259 |
-| 2013 | SONATA                | 12-26-23      | 325 | BLUE      | NG047922 | Unknown  | 5NPEB4ACXDH608259 |
 | 2007 | ELANTRA               | 12-26-23      | 324 | BLACK     | NG047923 | Unknown  | KMHDU46D87U099396 |
-| 2008 | SONATA                | 12-26-23      | 325 | BLACK     | NG047917 | Unknown  | 5NPET46C78H361374 |
+| 2013 | SONATA                | 12-26-23      | 325 | BLUE      | NG047922 | Unknown  | 5NPEB4ACXDH608259 |
 | 2009 | IMPREZA               | 12-26-23      | 324 | GRAY      | NG047913 | Unknown  | JF1GH61699H821311 |
+| 2008 | SONATA                | 12-26-23      | 325 | BLACK     | NG047917 | Unknown  | 5NPET46C78H361374 |
 | 2006 | TRAILBLAZER           | 12-26-23      | 201 | RED       | NG047883 | Unknown  | 1GNDT13S462285415 |
 | 2001 | TAHOE                 | 12-26-23      | 201 | MAROON    | NG047866 | Unknown  | 1GNEK13T41J181053 |
 | 2009 | CC                    | 12-26-23      | 325 | SILVER    | NG047877 | Unknown  | WVWHL73C69E553034 |
 | 2009 | MURANO                | 12-26-23      | 201 | TAN       | NG047768 | Unknown  | JN8AZ18W49W160292 |
 | 2001 | EXPLORER              | 12-22-23      | 201 | WHITE     | NG047926 | Unknown  | 1FMYU70E21UA18923 |
+| 2008 | ODYSSEY               | 12-22-23      | 325 | BLACK     | NG047889 | Unknown  | 5FNRL38788B010855 |
+| 2015 | EQUINOX               | 12-22-23      | 201 | BLUE      | NG047888 | Unknown  | 2GNALBEKXF6408983 |
+| 2010 | ELANTRA               | 12-22-23      | 325 | BLUE      | NG047887 | Unknown  | KMHDU4AD0AU860114 |
 | 2004 | MAXIMA                | 12-22-23      | 325 | GRAY      | NG047886 | Unknown  | 1N4BA41E04C917716 |
 | 2006 | TRAILBLAZER           | 12-22-23      | 201 | GOLD      | NG047897 | Unknown  | 1GNDT13S662173263 |
-| 2010 | ELANTRA               | 12-22-23      | 325 | BLUE      | NG047887 | Unknown  | KMHDU4AD0AU860114 |
-| 2015 | EQUINOX               | 12-22-23      | 201 | BLUE      | NG047888 | Unknown  | 2GNALBEKXF6408983 |
-| 2008 | ODYSSEY               | 12-22-23      | 325 | BLACK     | NG047889 | Unknown  | 5FNRL38788B010855 |
 | 2008 | COROLLA               | 12-22-23      | 325 | GRAY      | NG047881 | Unknown  | 1NXBR32EX8Z980409 |
 | 2005 | PILOT                 | 12-22-23      | 201 | TAN       | NG047868 | Unknown  | 2HKYF18545H503032 |
 | 2006 | AVALANCHE 1500        | 12-22-23      | 201 | BLUE      | NG047853 | Unknown  | 3GNEK12Z86G243570 |
-| 2009 | SONATA                | 12-22-23      | 325 | MAROON    | NG047839 | Unknown  | 5NPEU46C59H496884 |
-| 2006 | HIGHLANDER            | 12-22-23      | 201 | BLACK     | NG047840 | Unknown  | JTEEW21A360002627 |
-| 2000 | YUKON XL 1500         | 12-22-23      | 201 | BLACK     | NG047834 | Unknown  | 3GKFK16T9YG167397 |
 | 1979 | MAZDA RX7             | 12-22-23      | 325 | ORANGE    | NG047830 | Unknown  | SA22C561788       |
+| 2000 | YUKON XL 1500         | 12-22-23      | 201 | BLACK     | NG047834 | Unknown  | 3GKFK16T9YG167397 |
+| 2006 | HIGHLANDER            | 12-22-23      | 201 | BLACK     | NG047840 | Unknown  | JTEEW21A360002627 |
+| 2009 | SONATA                | 12-22-23      | 325 | MAROON    | NG047839 | Unknown  | 5NPEU46C59H496884 |
 | 2007 | ALTIMA                | 12-22-23      | 325 | BLUE      | NG047751 | Unknown  | 1N4AL21E67C182917 |
 | 2006 | SEDONA                | 12-22-23      | 325 | WHITE     | NG047703 | Unknown  | KNDMB233966048289 |
 | 2008 | PASSAT                | 12-22-23      | 325 | GRAY      | NG047621 | Unknown  | WVWLK73C08E155720 |
@@ -1267,9 +1267,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | MERCEDES E-CLASS      | 12-22-23      | 325 | BLACK     | NG047036 | Unknown  | WDBUF22X48B284043 |
 | 2005 | CIVIC                 | 12-21-23      | 326 | GRAY      | NG047872 | Unknown  | 2HGES16515H507972 |
 | 1998 | AUDI A4               | 12-21-23      | 326 | GREEN     | NG047864 | Unknown  | WAUFD68D1WA072950 |
-| 1997 | CIVIC                 | 12-21-23      | 326 | SILVER    | NG047859 | Unknown  | 1HGEJ8647VL022368 |
 | 1995 | FORD F150 PICKUP      | 12-21-23      | 234 | BLACK     | NG047860 | Unknown  | 1FTEX14N2SKB97788 |
-| 2005 | INFINITI QX56         | 12-21-23      | 234 | BLACK     | NG047846 | Unknown  | 5N3AA08A55N806167 |
+| 1997 | CIVIC                 | 12-21-23      | 326 | SILVER    | NG047859 | Unknown  | 1HGEJ8647VL022368 |
 | 2004 | ACCORD                | 12-21-23      | 326 | BLACK     | NG047826 | Unknown  | 1HGCM56704A052829 |
 | 2006 | SONATA                | 12-21-23      | 326 | WHITE     | NG047794 | Unknown  | 5NPEU46F66H142863 |
 | 2001 | JETTA                 | 12-21-23      | 326 | BLUE      | NG047791 | Unknown  | 3VWSK69M21M112919 |
@@ -1281,7 +1280,6 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | CAMRY                 | 12-20-23      | 327 | GRAY      | NG047805 | Unknown  | 4T1BB46K77U014494 |
 | 2008 | ELANTRA               | 12-20-23      | 326 | GOLD      | NG047778 | Unknown  | KMHDU46D78U363693 |
 | 2004 | EXPLORER              | 12-20-23      | 234 | RED       | NG047652 | Unknown  | 1FMZU77K64UA89482 |
-| 2008 | ESCAPE                | 12-20-23      | 234 | BLUE      | NG047595 | 160097   | 1FMCU59H38KB24945 |
 | 2008 | PASSAT                | 12-20-23      | 326 | BLACK     | NG047571 | Unknown  | WVWAK73C38P123727 |
 | 2007 | BMW 328i              | 12-20-23      | 326 | BLACK     | NG046094 | Unknown  | WBAVC935X7KX61624 |
 | 2014 | FORD E350 VAN         | 12-20-23      | 233 | WHITE     | NG045887 | Unknown  | 1FBSS3BLXEDA77264 |
@@ -1295,8 +1293,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | MAZDA MPV             | 12-19-23      | 327 | GRAY      | NG047232 | Unknown  | JM3LW28J950551434 |
 | 2009 | MATRIX                | 12-18-23      | 301 | GRAY      | NG047775 | Unknown  | 2T1KU40E49C109323 |
 | 2002 | CAMRY                 | 12-18-23      | 301 | SILVER    | NG047757 | Unknown  | 4T1BF30K02U535394 |
-| 1997 | CIVIC                 | 12-18-23      | 301 | GREEN     | NG047754 | Unknown  | 1HGEJ6123VL066359 |
 | 2003 | ODYSSEY               | 12-18-23      | 301 | GOLD      | NG047744 | Unknown  | 5FNRL18013B048105 |
+| 1997 | CIVIC                 | 12-18-23      | 301 | GREEN     | NG047754 | Unknown  | 1HGEJ6123VL066359 |
 | 2002 | CAMRY                 | 12-18-23      | 301 | SILVER    | NG047736 | Unknown  | 2T1CF22P62C592031 |
 | 2014 | LEXUS IS250           | 12-18-23      | 301 | GRAY      | NG047700 | Unknown  | JTHBF1D28E5037833 |
 | 2002 | FORESTER              | 12-18-23      | 327 | RED       | NG047598 | Unknown  | JF1SF63582H753867 |
@@ -1313,15 +1311,15 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | MAZDA 6               | 12-14-23      | 303 | RED       | NG047677 | Unknown  | 1YVHZ8CHXA5M07279 |
 | 1996 | CAMRY                 | 12-14-23      | 303 | SILVER    | NG047663 | Unknown  | 4T1BG12K0TU805353 |
 | 2011 | ENCLAVE               | 12-14-23      | 230 | SILVER    | NG047576 | Unknown  | 5GAKVCED5BJ109396 |
-| 1998 | RL                    | 12-14-23      | 303 | WHITE     | NG047560 | Unknown  | JH4KA9680WC009729 |
 | 2007 | INFINITI G35          | 12-14-23      | 302 | WHITE     | NG047564 | Unknown  | JNKBV61F47M819725 |
+| 1998 | RL                    | 12-14-23      | 303 | WHITE     | NG047560 | Unknown  | JH4KA9680WC009729 |
 | 2006 | CAMRY                 | 12-14-23      | 303 | GRAY      | NG047553 | Unknown  | 4T1BE32KX6U731106 |
 | 2002 | ECLIPSE               | 12-14-23      | 302 | SILVER    | NG047546 | Unknown  | 4A3AE45G32E023813 |
 | 2001 | ECLIPSE               | 12-14-23      | 302 | RED       | NG047484 | Unknown  | 4A3AE45G31E018691 |
 | 2010 | SONATA                | 12-13-23      | 303 | BLACK     | NG047692 | Unknown  | 5NPET4AC2AH578778 |
 | 2005 | CAMRY                 | 12-13-23      | 303 | RED       | NG047698 | Unknown  | 4T1BE30K25U097906 |
-| 2013 | SONATA                | 12-13-23      | 304 | BLUE      | NG047674 | Unknown  | 5NPEC4AC5DH806390 |
 | 1999 | PRIZM                 | 12-13-23      | 303 | GREEN     | NG047671 | Unknown  | 1Y1SK5284XZ439190 |
+| 2013 | SONATA                | 12-13-23      | 304 | BLUE      | NG047674 | Unknown  | 5NPEC4AC5DH806390 |
 | 2011 | ALTIMA                | 12-13-23      | 304 | BURGUNDY  | NG047667 | Unknown  | 1N4AL2APXBN490185 |
 | 2006 | JETTA                 | 12-13-23      | 303 | WHITE     | NG047662 | Unknown  | 3VWCT81K76M053283 |
 | 1993 | CAMRY                 | 12-13-23      | 303 | TAN       | NG047635 | Unknown  | JT2SK12E4P0178031 |
@@ -1333,14 +1331,14 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2004 | SIENNA                | 12-11-23      | 304 | GRAY      | NG047599 | Unknown  | 5TDZA23C44S136950 |
 | 2008 | YARIS                 | 12-11-23      | 304 | WHITE     | NG047588 | Unknown  | JTDBT923881204062 |
 | 2004 | FORESTER              | 12-11-23      | 304 | BLUE      | NG047578 | Unknown  | JF1SG63674H713272 |
-| 2007 | HHR                   | 03-01-24      | 415 | SILVER    | NG049089 | Unknown  | 3GCDA15D07S634962 |
-| 1999 | SUBURBAN 1500         | 03-01-24      | 230 | WHITE     | NG049101 | Unknown  | 3GNFK16R8XG145252 |
-| 1964 | FALCON                | 03-01-24      | 416 | WHITE     | NG049102 | Unknown  | 4H16U149730       |
+| 2006 | PACIFICA              | 03-01-24      | 415 | SILVER    | NG049084 | Unknown  | 2A4GF68466R894599 |
 | 1986 | FORD F150 PICKUP      | 03-01-24      | 230 | RED       | NG049107 | Unknown  | 1FTEF15Y2GP863307 |
 | 2006 | MATRIX                | 03-01-24      | 306 | SILVER    | NG049114 | Unknown  | 2T1KR32E86C600630 |
 | 2007 | CALIBER               | 03-01-24      | 415 | WHITE     | NG049115 | Unknown  | 1B3HB48B67D384946 |
+| 1999 | SUBURBAN 1500         | 03-01-24      | 230 | WHITE     | NG049101 | Unknown  | 3GNFK16R8XG145252 |
+| 1964 | FALCON                | 03-01-24      | 416 | WHITE     | NG049102 | Unknown  | 4H16U149730       |
+| 2007 | HHR                   | 03-01-24      | 415 | SILVER    | NG049089 | Unknown  | 3GCDA15D07S634962 |
 | 2010 | TOWN & COUNTRY        | 03-01-24      | 415 | BLUE      | NG049079 | Unknown  | 2A4RR5D13AR336921 |
-| 2006 | PACIFICA              | 03-01-24      | 415 | SILVER    | NG049084 | Unknown  | 2A4GF68466R894599 |
 | 2002 | GRAND CHEROKEE        | 03-01-24      | 230 | RED       | NG049080 | Unknown  | 1J4GW48S32C105461 |
 | 1997 | TAURUS                | 03-01-24      | 416 | BLUE      | NG049075 | Unknown  | 1FALP51U3VG287281 |
 | 2005 | SIERRA 1500 PICKUP    | 03-01-24      | 231 | WHITE     | NG049069 | Unknown  | 2GTEK13T351187922 |
@@ -1350,27 +1348,27 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | SENTRA                | 03-01-24      | 306 | BLACK     | NG049045 | Unknown  | 3N1AB61E07L665279 |
 | 2005 | DURANGO               | 03-01-24      | 230 | MAROON    | NG049042 | Unknown  | 1D4HB48N45F578520 |
 | 2006 | ENVOY XL              | 03-01-24      | 230 | MAROON    | NG049037 | Unknown  | 1GKET66MX66110607 |
+| 2011 | CRUZE                 | 03-01-24      | 415 | GRAY      | NG049028 | Unknown  | 1G1PE5S98B7260156 |
 | 2013 | JOURNEY               | 03-01-24      | 415 | WHITE     | NG049030 | Unknown  | 3C4PDDEG9DT500103 |
 | 1981 | LESABRE               | 03-01-24      | 415 | BROWN     | NG049036 | Unknown  | 1G4AN37Y8BX112893 |
 | 2012 | MALIBU                | 03-01-24      | 415 |           | NG049027 | Unknown  | 1G1ZC5EU3CF253511 |
-| 2011 | CRUZE                 | 03-01-24      | 415 | GRAY      | NG049028 | Unknown  | 1G1PE5S98B7260156 |
+| 2008 | IMPALA                | 03-01-24      | 416 | GRAY      | NG049023 | Unknown  | 2G1WT55N881214326 |
 | 2005 | COLORADO              | 03-01-24      | 231 | BLACK     | NG049021 | Unknown  | 1GCDT196058278668 |
 | 2000 | DURANGO               | 03-01-24      | 230 | BLACK     | NG049022 | Unknown  | 1B4H5Z8Z9YF223087 |
-| 2008 | IMPALA                | 03-01-24      | 416 | GRAY      | NG049023 | Unknown  | 2G1WT55N881214326 |
 | 2005 | PILOT                 | 03-01-24      | 230 | SILVER    | NG048962 | Unknown  | 5FNYF18585B009142 |
 | 2006 | EXPRESS 1500 VAN      | 03-01-24      | 231 | GRAY      | NG048617 | Unknown  | 1GCHG39V561218744 |
-| 2006 | G6                    | 02-29-24      | 416 | WHITE     | NG049085 | Unknown  | 1G2ZG558464117438 |
-| 2003 | MAZDA PROTEGE         | 02-29-24      | 306 | BLUE      | NG049091 | Unknown  | JM1BJ245231112997 |
+| 2005 | SEBRING               | 02-29-24      | 416 | TEAL      | NG049105 | Unknown  | 1C3EL66RX5N554537 |
+| 2004 | CAMRY                 | 02-29-24      | 306 | WHITE     | NG049104 | Unknown  | JTDBE32K040274847 |
 | 1987 | MUSTANG               | 02-29-24      | 416 | BLACK     | NG049097 | Unknown  | 1FABP42E5HF247856 |
 | 2010 | MAZDA 3               | 02-29-24      | 306 | SILVER    | NG049099 | Unknown  | JM1BL1S52A1177577 |
-| 2004 | CAMRY                 | 02-29-24      | 306 | WHITE     | NG049104 | Unknown  | JTDBE32K040274847 |
-| 2005 | SEBRING               | 02-29-24      | 416 | TEAL      | NG049105 | Unknown  | 1C3EL66RX5N554537 |
-| 2011 | EXPLORER              | 02-29-24      | 230 | GOLD      | NG049074 | Unknown  | 1FMHK8D85BGA39880 |
+| 2003 | MAZDA PROTEGE         | 02-29-24      | 306 | BLUE      | NG049091 | Unknown  | JM1BJ245231112997 |
+| 2006 | G6                    | 02-29-24      | 416 | WHITE     | NG049085 | Unknown  | 1G2ZG558464117438 |
 | 2002 | 300M                  | 02-29-24      | 416 | SILVER    | NG049076 | Unknown  | 2C3HE66G52H278939 |
 | 2008 | TAHOE                 | 02-29-24      | 229 | WHITE     | NG049073 | Unknown  | 1GNFK13068R225365 |
-| 1998 | GRAND CHEROKEE        | 02-29-24      | 229 | BLACK     | NG049051 | Unknown  | 1J4GZ48S1WC250415 |
+| 2011 | EXPLORER              | 02-29-24      | 230 | GOLD      | NG049074 | Unknown  | 1FMHK8D85BGA39880 |
 | 2003 | AUDI A4               | 02-29-24      | 307 | BLUE      | NG049063 | Unknown  | WAUJT68E33A280734 |
 | 2014 | EQUINOX               | 02-29-24      | 229 | BLUE      | NG049054 | Unknown  | 2GNFLFEK5E6120090 |
+| 1998 | GRAND CHEROKEE        | 02-29-24      | 229 | BLACK     | NG049051 | Unknown  | 1J4GZ48S1WC250415 |
 | 2005 | TOWN & COUNTRY        | 02-29-24      | 416 | SILVER    | NG049038 | Unknown  | 1C4GP45RX5B326280 |
 | 2006 | HIGHLANDER            | 02-29-24      | 229 | BLUE      | NG049034 | Unknown  | JTEDP21A960125454 |
 | 2010 | ESCAPE                | 02-29-24      | 229 | BLUE      | NG049016 | Unknown  | 1FMCU9EG5AKC95898 |
@@ -1385,14 +1383,14 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | XTERRA                | 02-29-24      | 229 | GRAY      | NG048634 | Unknown  | 5N1MD28Y13C634461 |
 | 1992 | FORD F150 PICKUP      | 02-29-24      | 229 |           | NG048563 | Unknown  | 1FTEF14Y3NPA70276 |
 | 2008 | TOWN & COUNTRY        | 02-29-24      | 416 | RED       | NG047301 | Unknown  | 2A8HR54P18R777181 |
-| 2001 | ESCORT                | 02-28-24      | 417 | RED       | NG049071 | Unknown  | 3FAFP13P41R185570 |
 | 1999 | SILVERADO 1500 PICKUP | 02-28-24      | 227 | WHITE     | NG049070 | Unknown  | 2GCEK19T7X1145456 |
+| 2001 | ESCORT                | 02-28-24      | 417 | RED       | NG049071 | Unknown  | 3FAFP13P41R185570 |
 | 2002 | TL                    | 02-28-24      | 307 | WHITE     | NG049068 | Unknown  | 19UUA56702A032042 |
 | 2006 | FORD F150 PICKUP      | 02-28-24      | 227 | GRAY      | NG049058 | Unknown  | 1FTRF14W46NA15249 |
 | 1997 | CHEVROLET 1500 PICKUP | 02-28-24      | 228 | TEAL      | NG049056 | Unknown  | 1GCEC14W3VZ149605 |
 | 2010 | IMPALA                | 02-28-24      | 417 | RED       | NG049050 | Unknown  | 2G1WB5EN3A1131394 |
-| 2015 | ALTIMA                | 02-28-24      | 307 | GRAY      | NG049047 | Unknown  | 1N4AL3AP9FC432365 |
 | 2007 | DURANGO               | 02-28-24      | 227 | BLUE      | NG049048 | Unknown  | 1D8HB48N17F515151 |
+| 2015 | ALTIMA                | 02-28-24      | 307 | GRAY      | NG049047 | Unknown  | 1N4AL3AP9FC432365 |
 | 2003 | IMPALA                | 02-28-24      | 417 | TAN       | NG049039 | Unknown  | 2G1WF52E739125157 |
 | 2008 | ASPEN                 | 02-28-24      | 228 | RED       | NG049029 | Unknown  | 1A8HW582X8F143883 |
 | 2006 | DODGE 1500 PICKUP     | 02-28-24      | 227 | BLACK     | NG049026 | Unknown  | 1D7HU182X6S559741 |
@@ -1411,16 +1409,16 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | EXPEDITION            | 02-28-24      | 227 | BLACK     | NG048872 | Unknown  | 1FMJU1J57AEB73068 |
 | 2008 | MAZDA CX-9            | 02-28-24      | 228 | BLUE      | NG048833 | Unknown  | JM3TB38A680135282 |
 | 2003 | LESABRE               | 02-27-24      | 418 | SILVER    | NG049043 | Unknown  | 1G4HP52K434201211 |
-| 2009 | HHR                   | 02-27-24      | 418 | BLUE      | NG049040 | Unknown  | 3GNCA23B79S550392 |
 | 1993 | FESTIVA               | 02-27-24      | 418 | WHITE     | NG049041 | Unknown  | KNJPT05H5P6138772 |
+| 2009 | HHR                   | 02-27-24      | 418 | BLUE      | NG049040 | Unknown  | 3GNCA23B79S550392 |
 | 2006 | COBALT                | 02-27-24      | 418 | BLACK     | NG049031 | Unknown  | 1G1AP14P367802046 |
 | 2004 | MAZDA 3               | 02-27-24      | 307 | BLUE      | NG049033 | Unknown  | JM1BK343741142497 |
 | 2001 | RAV4                  | 02-27-24      | 226 | TAN       | NG049032 | Unknown  | JTEHH20V910086781 |
 | 2003 | FOCUS                 | 02-27-24      | 418 | GOLD      | NG049035 | Unknown  | 1FAFP34P83W273192 |
 | 2007 | GRAND PRIX            | 02-27-24      | 418 | GRAY      | NG049025 | Unknown  | 2G2WP552471153657 |
 | 2000 | LESABRE               | 02-27-24      | 417 | GREEN     | NG049020 | Unknown  | 1G4HR54K5YU128039 |
-| 2008 | TOWN & COUNTRY        | 02-27-24      | 418 | WHITE     | NG049019 | Unknown  | 2A8HR54P68R782831 |
 | 2005 | ELANTRA               | 02-27-24      | 307 | GRAY      | NG049018 | Unknown  | KMHDN46DX5U136443 |
+| 2008 | TOWN & COUNTRY        | 02-27-24      | 418 | WHITE     | NG049019 | Unknown  | 2A8HR54P68R782831 |
 | 2012 | ACCORD                | 02-27-24      | 307 | WHITE     | NG049015 | Unknown  | 1HGCP2F61CA194909 |
 | 2003 | TAURUS                | 02-27-24      | 418 | GREEN     | NG049012 | Unknown  | 1FAFP55S83A180538 |
 | 2004 | PT CRUISER            | 02-27-24      | 417 | TAN       | NG049010 | Unknown  | 3C4FY48B14T316869 |
@@ -1448,8 +1446,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2012 | MAZDA 3               | 02-23-24      | 307 | BLUE      | NG048977 | Unknown  | JM1BL1V70C1619935 |
 | 1988 | CHEVROLET 1500 PICKUP | 02-23-24      | 226 | BLUE      | NG048970 | Unknown  | 2GCEK19K7J1227573 |
 | 2009 | MALIBU                | 02-23-24      | 419 | BLACK     | NG048968 | Unknown  | 1G1ZK57B39F116401 |
-| 2005 | VIBE                  | 02-23-24      | 418 |           | NG048974 | Unknown  | 5Y2SL668X5Z472791 |
 | 2010 | ACCORD                | 02-23-24      | 308 | BLACK     | NG048975 | Unknown  | 1HGCP2F34AA164211 |
+| 2005 | VIBE                  | 02-23-24      | 418 |           | NG048974 | Unknown  | 5Y2SL668X5Z472791 |
 | 2001 | ACCORD                | 02-23-24      | 308 | GREEN     | NG048982 | Unknown  | JHMCG66821C001920 |
 | 2008 | MAZDA 3               | 02-23-24      | 307 | GRAY      | NG048956 | Unknown  | JM1BK32F281161896 |
 | 2002 | TAHOE                 | 02-23-24      | 226 | TAN       | NG048900 | Unknown  | 1GNEK13Z32J191983 |
@@ -1460,8 +1458,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2009 | LUCERNE               | 02-22-24      | 419 | WHITE     | NG048981 | Unknown  | 1G4HD57149U144185 |
 | 2003 | IMPALA                | 02-22-24      | 419 | GOLD      | NG048969 | Unknown  | 2G1WF55E639129776 |
 | 2005 | GRAND PRIX            | 02-22-24      | 419 | GRAY      | NG048976 | Unknown  | 2G2WP522451242968 |
-| 2005 | CARAVAN               | 02-22-24      | 419 | BLUE      | NG048964 | Unknown  | 2D4GP44L45R414842 |
 | 2008 | AURA                  | 02-22-24      | 419 | BLACK     | NG048965 | Unknown  | 1G8ZS57B08F232624 |
+| 2005 | CARAVAN               | 02-22-24      | 419 | BLUE      | NG048964 | Unknown  | 2D4GP44L45R414842 |
 | 2005 | SIENNA                | 02-22-24      | 308 | GREEN     | NG048959 | Unknown  | 5TDBA22C75S052190 |
 | 2011 | ALTIMA                | 02-22-24      | 308 | WHITE     | NG048957 | Unknown  | 1N4AL2EPXBC168314 |
 | 2000 | BLAZER S10/JIMMY S15  | 02-22-24      | 225 | RED       | NG048955 | Unknown  | 1GKDT13W8Y2144625 |
@@ -1483,11 +1481,11 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1996 | SATURN S SERIES       | 02-22-24      | 419 | BLACK     | NG048635 | Unknown  | 1G8ZE128XTZ245318 |
 | 2011 | TERRAIN               | 02-21-24      | 224 | TAN       | NG048954 | Unknown  | 2CTFLVEC4B6331356 |
 | 2008 | ASTRA                 | 02-21-24      | 420 | SILVER    | NG048953 | Unknown  | W08AT671085070246 |
-| 2003 | CIVIC                 | 02-21-24      | 308 | SILVER    | NG048952 | Unknown  | 1HGEM21943L045482 |
-| 1988 | CHEVROLET 1500 PICKUP | 02-21-24      | 224 | BLACK     | NG048948 | Unknown  | 2GCDK14H1J1129338 |
 | 2000 | CHEROKEE              | 02-21-24      | 223 | WHITE     | NG048947 | Unknown  | 1J4FF48S6YL181793 |
-| 2014 | FOCUS                 | 02-21-24      | 420 | GRAY      | NG048939 | Unknown  | 1FADP3K26EL296585 |
+| 1988 | CHEVROLET 1500 PICKUP | 02-21-24      | 224 | BLACK     | NG048948 | Unknown  | 2GCDK14H1J1129338 |
+| 2003 | CIVIC                 | 02-21-24      | 308 | SILVER    | NG048952 | Unknown  | 1HGEM21943L045482 |
 | 2005 | SILVERADO 1500 PICKUP | 02-21-24      | 225 | BLACK     | NG048940 | Unknown  | 2GCEK13T151318961 |
+| 2014 | FOCUS                 | 02-21-24      | 420 | GRAY      | NG048939 | Unknown  | 1FADP3K26EL296585 |
 | 2005 | TUCSON                | 02-21-24      | 224 | SILVER    | NG048935 | Unknown  | KM8JN12D95U133332 |
 | 2001 | PT CRUISER            | 02-21-24      | 420 | BLACK     | NG048928 | Unknown  | 3C4FY4BB71T513369 |
 | 2003 | CTS                   | 02-21-24      | 420 | BLACK     | NG048919 | Unknown  | 1G6DM57NX30150709 |
@@ -1518,27 +1516,27 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | AVENGER               | 02-20-24      | 420 | SILVER    | NG048899 | Unknown  | 1B3CC4FBXAN186222 |
 | 2007 | CR-V                  | 02-20-24      | 223 | SILVER    | NG048894 | Unknown  | JHLRE48757C033783 |
 | 2007 | CIVIC                 | 02-20-24      | 309 | SILVER    | NG048881 | Unknown  | 2HGFG12867H501268 |
-| 2000 | SATURN S SERIES       | 02-20-24      | 421 | GRAY      | NG048908 | Unknown  | 1G8ZJ827XYZ143634 |
 | 2005 | MALIBU                | 02-20-24      | 421 | BLACK     | NG048907 | Unknown  | 1G1ZU54895F321458 |
+| 2000 | SATURN S SERIES       | 02-20-24      | 421 | GRAY      | NG048908 | Unknown  | 1G8ZJ827XYZ143634 |
 | 2005 | DURANGO               | 02-20-24      | 223 | SILVER    | NG048828 | Unknown  | 1D8HB58D75F574392 |
 | 2003 | TAHOE                 | 02-20-24      | 223 | TAN       | NG048825 | Unknown  | 1GNEK13Z53J297871 |
 | 2004 | LIBERTY               | 02-20-24      | 223 | BLUE      | NG048801 | Unknown  | 1J4FK48184W277159 |
-| 2002 | TAHOE                 | 02-20-24      | 223 | TAN       | NG048558 | Unknown  | 1GNEK13Z12J271444 |
 | 2007 | BMW X3                | 02-20-24      | 223 | WHITE     | NG048519 | Unknown  | WBXPC93447WF21759 |
+| 2002 | TAHOE                 | 02-20-24      | 223 | TAN       | NG048558 | Unknown  | 1GNEK13Z12J271444 |
 | 2006 | MALIBU                | 02-20-24      | 421 | WHITE     | NG048398 | Unknown  | 1G1ZT51F06F273159 |
-| 2006 | EXPEDITION            | 02-20-24      | 223 | WHITE     | NG047342 | Unknown  | 1FMFU20566LA10251 |
 | 2013 | VOLT                  | 02-20-24      | 421 | BLUE      | NG043074 | Unknown  | 1G1RA6E43DU118330 |
-| 2013 | ALTIMA                | 02-16-24      | 309 | BLACK     | NG048897 | Unknown  | 1N4AL3AP7DN438294 |
+| 2006 | EXPEDITION            | 02-20-24      | 223 | WHITE     | NG047342 | Unknown  | 1FMFU20566LA10251 |
 | 2011 | MAZDA 3               | 02-16-24      | 309 | WHITE     | NG048893 | Unknown  | JM1BL1UF5B1437462 |
+| 2013 | ALTIMA                | 02-16-24      | 309 | BLACK     | NG048897 | Unknown  | 1N4AL3AP7DN438294 |
 | 2012 | SX4                   | 02-16-24      | 309 | RED       | NG048890 | Unknown  | JS2YB5A32C6303503 |
 | 2004 | VIBE                  | 02-16-24      | 422 | RED       | NG048889 | Unknown  | 5Y2SL62844Z410775 |
 | 2012 | FUSION                | 02-16-24      | 421 | BLACK     | NG048887 | Unknown  | 3FAHP0HG9CR200725 |
-| 2006 | ION                   | 02-16-24      | 421 | TAN       | NG048886 | Unknown  | 1G8AL55F06Z112673 |
 | 2006 | EXPEDITION            | 02-16-24      | 222 | BLUE      | NG048883 | Unknown  | 1FMPU16506LA53912 |
 | 2010 | MAZDA 3               | 02-16-24      | 309 | BLACK     | NG048884 | Unknown  | JM1BL1SFXA1253460 |
 | 2002 | RANGER                | 02-16-24      | 222 | GOLD      | NG048885 | Unknown  | 1FTZR45E62PA24130 |
-| 2004 | MUSTANG               | 02-16-24      | 422 | YELLOW    | NG048878 | Unknown  | 1FAFP44604F144104 |
+| 2006 | ION                   | 02-16-24      | 421 | TAN       | NG048886 | Unknown  | 1G8AL55F06Z112673 |
 | 2011 | MINI COOPER           | 02-16-24      | 309 | MAROON    | NG048876 | Unknown  | WMWZC5C54BWL53745 |
+| 2004 | MUSTANG               | 02-16-24      | 422 | YELLOW    | NG048878 | Unknown  | 1FAFP44604F144104 |
 | 2000 | TL                    | 02-16-24      | 309 | WHITE     | NG048880 | Unknown  | 19UUA5664YA034313 |
 | 2009 | BORREGO               | 02-16-24      | 222 | BLACK     | NG048874 | Unknown  | KNDJH741395035396 |
 | 2008 | VITARA                | 02-16-24      | 222 | WHITE     | NG048867 | Unknown  | 2S3DB217186110353 |
@@ -1560,8 +1558,8 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2006 | ACCORD                | 02-15-24      | 309 | BLACK     | NG048873 | Unknown  | 1HGCM56866A129831 |
 | 1999 | ACCORD                | 02-15-24      | 309 | SILVER    | NG048871 | Unknown  | 1HGCF8649XA061356 |
 | 1999 | BLAZER S10/JIMMY S15  | 02-15-24      | 222 | MAROON    | NG048870 | Unknown  | 1GNDT13W9X2199134 |
-| 2008 | CHARGER               | 02-15-24      | 422 | BLACK     | NG048865 | Unknown  | 2B3KA43H18H170777 |
 | 2006 | SPECTRA               | 02-15-24      | 310 | BLUE      | NG048869 | Unknown  | KNAFE121465358587 |
+| 2008 | CHARGER               | 02-15-24      | 422 | BLACK     | NG048865 | Unknown  | 2B3KA43H18H170777 |
 | 2011 | IMPALA                | 02-15-24      | 422 | SILVER    | NG048862 | Unknown  | 2G1WG5EK8B1322589 |
 | 2009 | LEXUS ES350           | 02-15-24      | 309 | WHITE     | NG048854 | Unknown  | JTHBJ46G892306638 |
 | 2006 | MAXIMA                | 02-15-24      | 310 | GRAY      | NG048855 | Unknown  | 1N4BA41E86C803501 |
@@ -1569,11 +1567,11 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1998 | SIENNA                | 02-15-24      | 310 | BLUE      | NG048851 | Unknown  | 4T3ZF13C6WU043604 |
 | 2007 | FUSION                | 02-15-24      | 422 | SILVER    | NG048845 | Unknown  | 3FAHP07Z17R217009 |
 | 2006 | PACIFICA              | 02-15-24      | 422 | GREEN     | NG048843 | Unknown  | 2A8GF78476R890680 |
-| 2007 | AVEO                  | 02-15-24      | 422 | WHITE     | NG048853 | Unknown  | KL1TD66617B786297 |
 | 2008 | ACADIA                | 02-15-24      | 222 | BLACK     | NG048826 | Unknown  | 1GKEV33758J119710 |
+| 2007 | AVEO                  | 02-15-24      | 422 | WHITE     | NG048853 | Unknown  | KL1TD66617B786297 |
 | 1994 | CHEVROLET 1500 PICKUP | 02-15-24      | 222 | GREEN     | NG048823 | Unknown  | 2GCEK19K3R1220843 |
-| 2002 | LIBERTY               | 02-15-24      | 222 | SILVER    | NG048816 | Unknown  | 1J4GL48K02W326071 |
 | 2004 | BMW X3                | 02-15-24      | 222 | BLACK     | NG048815 | Unknown  | WBXPA93434WC34592 |
+| 2002 | LIBERTY               | 02-15-24      | 222 | SILVER    | NG048816 | Unknown  | 1J4GL48K02W326071 |
 | 2004 | GRAND CHEROKEE        | 02-15-24      | 222 | BLUE      | NG048520 | Unknown  | 1J4GW48S34C194595 |
 | 2013 | ESCAPE                | 02-15-24      | 222 | RED       | NG048496 | Unknown  | 1FMCU9J96DUB44682 |
 | 2005 | ODYSSEY               | 02-15-24      | 309 | SILVER    | NG047706 | Unknown  | 5FNRL38605B051841 |
@@ -1582,42 +1580,42 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1999 | TAHOE                 | 02-14-24      | 220 | GOLD      | NG048864 | Unknown  | 1GNEC13R6XJ431435 |
 | 2012 | CAMRY                 | 02-14-24      | 310 | GRAY      | NG048861 | Unknown  | 4T4BF1FK1CR262923 |
 | 1998 | TRACER                | 02-14-24      | 423 | RED       | NG048852 | Unknown  | 3MEFM15P6WR601785 |
-| 1999 | EXPLORER              | 02-14-24      | 220 | RED       | NG048847 | Unknown  | 1FMZU34E1XZA13084 |
 | 2007 | MONTEGO               | 02-14-24      | 423 | BLUE      | NG048850 | Unknown  | 1MEHM43177G605748 |
-| 2001 | CROWN VICTORIA        | 02-14-24      | 423 | SILVER    | NG048849 | Unknown  | 2FAFP73W11X131526 |
 | 2007 | CIVIC                 | 02-14-24      | 310 | SILVER    | NG048848 | Unknown  | JHMFA36287S019636 |
+| 2001 | CROWN VICTORIA        | 02-14-24      | 423 | SILVER    | NG048849 | Unknown  | 2FAFP73W11X131526 |
+| 1999 | EXPLORER              | 02-14-24      | 220 | RED       | NG048847 | Unknown  | 1FMZU34E1XZA13084 |
 | 2006 | GRAND PRIX            | 02-14-24      | 424 | BLUE      | NG048844 | Unknown  | 2G2WP552461125971 |
 | 2016 | EQUINOX               | 02-14-24      | 220 | WHITE     | NG048839 | Unknown  | 2GNFLFEK2G6342072 |
 | 2002 | MONTE CARLO           | 02-14-24      | 423 | RED       | NG048834 | Unknown  | 2G1WX15K529198923 |
-| 2007 | AUDI A4               | 02-14-24      | 310 | BLUE      | NG048827 | Unknown  | WAUDF78E37A038607 |
 | 2002 | CIVIC                 | 02-14-24      | 310 | CHAMPAGNE | NG048831 | Unknown  | 1HGES16572L020791 |
+| 2007 | AUDI A4               | 02-14-24      | 310 | BLUE      | NG048827 | Unknown  | WAUDF78E37A038607 |
 | 2007 | DODGE 1500 PICKUP     | 02-14-24      | 220 | RED       | NG048824 | Unknown  | 1D7HU18P87J501078 |
-| 2009 | MKS                   | 02-14-24      | 423 | BLACK     | NG048818 | Unknown  | 1LNHM93R19G605201 |
-| 1999 | AUDI A6               | 02-14-24      | 310 | SILVER    | NG048814 | Unknown  | WAUDA34B9XN002027 |
 | 1998 | CAMRY                 | 02-14-24      | 310 | GREEN     | NG048817 | Unknown  | 4T1BG22KXWU264306 |
+| 2009 | MKS                   | 02-14-24      | 423 | BLACK     | NG048818 | Unknown  | 1LNHM93R19G605201 |
 | 1997 | GRAND CHEROKEE        | 02-14-24      | 220 | MAROON    | NG048811 | Unknown  | 1J4GZ58S2VC590211 |
+| 1999 | AUDI A6               | 02-14-24      | 310 | SILVER    | NG048814 | Unknown  | WAUDA34B9XN002027 |
 | 2002 | COROLLA               | 02-14-24      | 310 | BLACK     | NG048809 | Unknown  | 1NXBR12E22Z621969 |
 | 2006 | PRIUS                 | 02-14-24      | 310 | RED       | NG048778 | Unknown  | JTDKB20U167510522 |
 | 2002 | FORD F150 PICKUP      | 02-14-24      | 220 | RED       | NG048772 | Unknown  | 1FTRX17212KC53657 |
 | 2007 | ION                   | 02-14-24      | 423 | WHITE     | NG048673 | Unknown  | 1G8AN15F17Z125999 |
-| 2007 | SUBURBAN 1500         | 02-14-24      | 220 | BLACK     | NG048574 | Unknown  | 1GNFK16377J380039 |
 | 2008 | TOWN & COUNTRY        | 02-14-24      | 404 | MAROON    | NG048571 | Unknown  | 2A8HR64X98R718319 |
+| 2007 | SUBURBAN 1500         | 02-14-24      | 220 | BLACK     | NG048574 | Unknown  | 1GNFK16377J380039 |
 | 2010 | ODYSSEY               | 02-14-24      | 310 | UNKNOWN   | NG048497 | Unknown  | 5FNRL3H27AB099652 |
 | 2001 | TAURUS                | 02-14-24      | 423 | BURGUNDY  | NG048423 | Unknown  | 1FAFP53U31G175973 |
 | 2011 | TUCSON                | 02-14-24      | 220 | BLACK     | NG048392 | Unknown  | KM8JUCAC0BU169123 |
 | 2006 | FORD E150 VAN         | 02-14-24      | 221 | WHITE     | NG048211 | Unknown  | DPSMN130029       |
 | 2011 | IMPALA                | 02-13-24      | 424 | WHITE     | NG048840 | Unknown  | 2G1WG5EK4B1171010 |
 | 2001 | COROLLA               | 02-13-24      | 311 | RED       | NG048832 | Unknown  | 1NXBR12E41Z506904 |
+| 2001 | CAVALIER              | 02-13-24      | 424 | SILVER    | NG048822 | Unknown  | 1G1JC524017131097 |
 | 2006 | MALIBU                | 02-13-24      | 425 | BLACK     | NG048819 | Unknown  | 1G1ZT61826F100606 |
 | 2002 | LEGACY                | 02-13-24      | 311 | BLUE      | NG048820 | Unknown  | 4S3BH675827646936 |
-| 2001 | CAVALIER              | 02-13-24      | 424 | SILVER    | NG048822 | Unknown  | 1G1JC524017131097 |
-| 2005 | SUBURBAN 1500         | 02-13-24      | 219 | WHITE     | NG048810 | Unknown  | 3GNFK16ZX5G240764 |
 | 2007 | SIENNA                | 02-13-24      | 310 | WHITE     | NG048808 | Unknown  | 5TDZK23C47S087184 |
+| 2005 | SUBURBAN 1500         | 02-13-24      | 219 | WHITE     | NG048810 | Unknown  | 3GNFK16ZX5G240764 |
 | 2002 | DODGE 1500 PICKUP     | 02-13-24      | 219 | WHITE     | NG048802 | Unknown  | 1D7HU18N22J162292 |
+| 2008 | PRIUS                 | 02-13-24      | 310 | BLACK     | NG048773 | Unknown  | JTDKB20UX87728140 |
 | 2008 | COBALT                | 02-13-24      | 424 | YELLOW    | NG048777 | Unknown  | 1G1AM18B887319467 |
 | 2008 | TAURUS                | 02-13-24      | 424 | SILVER    | NG048776 | Unknown  | 1FAHP24W78G145456 |
 | 2014 | IMPREZA               | 02-13-24      | 311 | WHITE     | NG048775 | Unknown  | JF1GJAA67EH017493 |
-| 2008 | PRIUS                 | 02-13-24      | 310 | BLACK     | NG048773 | Unknown  | JTDKB20UX87728140 |
 | 2004 | ODYSSEY               | 02-13-24      | 311 | GRAY      | NG048771 | Unknown  | 5FNRL18074B069333 |
 | 2005 | EXPEDITION            | 02-13-24      | 219 | BROWN     | NG048764 | Unknown  | 1FMPU16535LA96994 |
 | 2008 | LIBERTY               | 02-13-24      | 220 | SILVER    | NG048744 | Unknown  | 1J8GN28K78W261192 |
@@ -1625,45 +1623,45 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | IMPALA                | 02-13-24      | 424 | SILVER    | NG048723 | Unknown  | 2G1WT58K479341950 |
 | 1998 | XJ8                   | 02-13-24      | 311 | SILVER    | NG048682 | Unknown  | SAJHX6241WC834739 |
 | 2004 | ENVOY                 | 02-13-24      | 219 | BLACK     | NG048632 | Unknown  | 1GKDT13S542414210 |
-| 2006 | TL                    | 02-13-24      | 311 | GRAY      | NG048527 | Unknown  | 19UUA66236A000153 |
-| 2004 | TOUAREG               | 02-13-24      | 225 | GREEN     | NG048523 | Unknown  | WVGBC77L24D084969 |
-| 2011 | JOURNEY               | 02-13-24      | 424 | WHITE     | NG048521 | Unknown  | 3D4PH1FG8BT561167 |
-| 2010 | SONATA                | 02-13-24      | 311 | WHITE     | NG048518 | Unknown  | 5NPET4AC3AH652046 |
 | 1999 | CAMRY                 | 02-13-24      | 311 | TAN       | NG048517 | Unknown  | 4T1BG22K3XU894802 |
+| 2010 | SONATA                | 02-13-24      | 311 | WHITE     | NG048518 | Unknown  | 5NPET4AC3AH652046 |
+| 2011 | JOURNEY               | 02-13-24      | 424 | WHITE     | NG048521 | Unknown  | 3D4PH1FG8BT561167 |
+| 2004 | TOUAREG               | 02-13-24      | 225 | GREEN     | NG048523 | Unknown  | WVGBC77L24D084969 |
+| 2006 | TL                    | 02-13-24      | 311 | GRAY      | NG048527 | Unknown  | 19UUA66236A000153 |
 | 2003 | ODYSSEY               | 02-13-24      | 310 | SILVER    | NG048511 | Unknown  | 5FNRL18083B152929 |
 | 2001 | CHEROKEE              | 02-13-24      | 220 | BLACK     | NG048402 | Unknown  | 1J4FF48S61L541277 |
-| 2002 | SABLE                 | 02-12-24      | 426 | BURGUNDY  | NG048813 | Unknown  | 1MEFM55S32G636359 |
 | 2008 | FUSION                | 02-12-24      | 425 | BLACK     | NG048812 | Unknown  | 3FAHP07Z58R233683 |
+| 2002 | SABLE                 | 02-12-24      | 426 | BURGUNDY  | NG048813 | Unknown  | 1MEFM55S32G636359 |
 | 2006 | COBALT                | 02-12-24      | 426 | SILVER    | NG048806 | Unknown  | 1G1AK55F567847985 |
 | 2002 | ENVOY XL              | 02-12-24      | 219 | RED       | NG048799 | Unknown  | 1GKET16S226117272 |
 | 2006 | AUDI A4               | 02-12-24      | 311 | WHITE     | NG048796 | Unknown  | WAUDF78E96A287301 |
-| 2013 | EQUINOX               | 02-12-24      | 219 | BLACK     | NG048784 | Unknown  | 2GNALPEK0D6235307 |
 | 2010 | CHARGER               | 02-12-24      | 425 | WHITE     | NG048788 | Unknown  | 2B3CA3CVXAH299031 |
 | 2001 | LESABRE               | 02-12-24      | 426 | SILVER    | NG048785 | Unknown  | 1G4HP54K014192193 |
+| 2013 | EQUINOX               | 02-12-24      | 219 | BLACK     | NG048784 | Unknown  | 2GNALPEK0D6235307 |
 | 2009 | IMPALA                | 02-12-24      | 425 | BRONZE    | NG048779 | Unknown  | 2G1WT57K191222045 |
 | 2012 | ESCAPE                | 02-12-24      | 219 | GRAY      | NG048749 | Unknown  | 1FMCU9DGXCKA84197 |
 | 2014 | PATHFINDER            | 02-12-24      | 219 | SILVER    | NG048721 | Unknown  | 5N1CR2MN0EC639873 |
 | 2005 | MAZDA 6               | 02-12-24      | 311 | BLACK     | NG048694 | Unknown  | 1YVHP80C955M72869 |
 | 2014 | ACCENT                | 02-12-24      | 311 | WHITE     | NG048693 | Unknown  | KMHCT4AE7EU672347 |
-| 2009 | SONATA                | 02-12-24      | 311 | SILVER    | NG048568 | Unknown  | 5NPET46C59H526131 |
-| 2005 | ALTIMA                | 02-12-24      | 311 | WHITE     | NG048557 | Unknown  | 1N4AL11D55C344549 |
-| 2012 | FOCUS                 | 02-12-24      | 425 | SILVER    | NG048551 | Unknown  | 1FAHP3N29CL167623 |
-| 2013 | SIENNA                | 02-12-24      | 311 | TAN       | NG048544 | Unknown  | 5TDYK3DC1DS289184 |
-| 2009 | ALTIMA                | 02-12-24      | 311 | BLACK     | NG048543 | Unknown  | 1N4AL21E29C114634 |
-| 2007 | COROLLA               | 02-12-24      | 311 | GRAY      | NG048541 | Unknown  | 1NXBR32E17Z867687 |
-| 2004 | COROLLA               | 02-12-24      | 311 | SILVER    | NG048540 | Unknown  | 2T1BR32EX4C273192 |
-| 2009 | JOURNEY               | 02-12-24      | 425 | GRAY      | NG048533 | Unknown  | 3D4GG47B99T515512 |
-| 2004 | MALIBU                | 02-12-24      | 426 | RED       | NG048532 | Unknown  | 1G1ND52F94M611712 |
-| 2003 | EXPEDITION            | 02-12-24      | 219 | RED       | NG048525 | Unknown  | 1FMRU15W53LC30579 |
 | 2009 | MALIBU                | 02-12-24      | 425 | WHITE     | NG048522 | Unknown  | 1G1ZH57B29F226726 |
+| 2003 | EXPEDITION            | 02-12-24      | 219 | RED       | NG048525 | Unknown  | 1FMRU15W53LC30579 |
+| 2004 | MALIBU                | 02-12-24      | 426 | RED       | NG048532 | Unknown  | 1G1ND52F94M611712 |
+| 2009 | JOURNEY               | 02-12-24      | 425 | GRAY      | NG048533 | Unknown  | 3D4GG47B99T515512 |
+| 2004 | COROLLA               | 02-12-24      | 311 | SILVER    | NG048540 | Unknown  | 2T1BR32EX4C273192 |
+| 2007 | COROLLA               | 02-12-24      | 311 | GRAY      | NG048541 | Unknown  | 1NXBR32E17Z867687 |
+| 2009 | ALTIMA                | 02-12-24      | 311 | BLACK     | NG048543 | Unknown  | 1N4AL21E29C114634 |
+| 2013 | SIENNA                | 02-12-24      | 311 | TAN       | NG048544 | Unknown  | 5TDYK3DC1DS289184 |
+| 2012 | FOCUS                 | 02-12-24      | 425 | SILVER    | NG048551 | Unknown  | 1FAHP3N29CL167623 |
+| 2005 | ALTIMA                | 02-12-24      | 311 | WHITE     | NG048557 | Unknown  | 1N4AL11D55C344549 |
+| 2009 | SONATA                | 02-12-24      | 311 | SILVER    | NG048568 | Unknown  | 5NPET46C59H526131 |
 | 2004 | SANTA FE              | 02-12-24      | 219 | BLUE      | NG048234 | Unknown  | KM8SC13DX4U680908 |
 | 2010 | COBALT                | 02-09-24      | 426 | BLACK     | NG048803 | Unknown  | 1G1AF1F5XA7223501 |
 | 2003 | COROLLA               | 02-09-24      | 312 | SILVER    | NG048804 | Unknown  | JTDBR32E530010116 |
 | 2003 | CAMRY                 | 02-09-24      | 312 | BLUE      | NG048800 | Unknown  | 4T1BE32K23U774284 |
 | 2011 | FOCUS                 | 02-09-24      | 427 | RED       | NG048797 | Unknown  | 1FAHP3FN0BW179309 |
 | 2002 | LIBERTY               | 02-09-24      | 218 | BLUE      | NG048795 | Unknown  | 1J4GL48K42W325828 |
-| 2000 | JETTA                 | 02-09-24      | 312 | BLUE      | NG048786 | Unknown  | 3VWSF29M8YM171612 |
 | 2006 | TAURUS                | 02-09-24      | 426 | BURGUNDY  | NG048789 | Unknown  | 1FAFP56U76A132517 |
+| 2000 | JETTA                 | 02-09-24      | 312 | BLUE      | NG048786 | Unknown  | 3VWSF29M8YM171612 |
 | 2010 | MALIBU                | 02-09-24      | 426 | WHITE     | NG048783 | Unknown  | 1G1ZC5EB9A4148317 |
 | 2002 | CAMRY                 | 02-09-24      | 312 | BLACK     | NG048781 | Unknown  | 4T1BE32K32U007977 |
 | 2012 | JUKE                  | 02-09-24      | 312 | BLACK     | NG048782 | Unknown  | JN8AF5MV1CT108558 |
@@ -1674,10 +1672,10 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | VUE                   | 02-09-24      | 427 | RED       | NG048696 | Unknown  | 5GZCZ63457S813867 |
 | 2005 | SUBURBAN 1500         | 02-09-24      | 218 | BLACK     | NG048685 | Unknown  | 3GNFK16Z55G125800 |
 | 2006 | FORD E350 VAN         | 02-09-24      | 218 | RED       | NG048636 | Unknown  | 1FTSS34P46DA22046 |
-| 2002 | TAHOE                 | 02-09-24      | 218 | WHITE     | NG048593 | Unknown  | 1GNEK13Z62R301068 |
 | 2006 | RENDEZVOUS            | 02-09-24      | 427 | GOLD      | NG048561 | Unknown  | 3G5DA03L06S614401 |
-| 1997 | FORD F150 PICKUP      | 02-09-24      | 218 | BLACK     | NG048507 | Unknown  | 1FTDX1767VND10606 |
+| 2002 | TAHOE                 | 02-09-24      | 218 | WHITE     | NG048593 | Unknown  | 1GNEK13Z62R301068 |
 | 2004 | SATURN L SERIES       | 02-09-24      | 427 | BLUE      | NG048500 | Unknown  | 1G8JD54R54Y511252 |
+| 1997 | FORD F150 PICKUP      | 02-09-24      | 218 | BLACK     | NG048507 | Unknown  | 1FTDX1767VND10606 |
 | 2005 | PRIUS                 | 02-09-24      | 312 | GRAY      | NG048426 | Unknown  | JTDKB20U250125980 |
 | 1999 | VITARA                | 02-09-24      | 215 | BLACK     | NG047544 | Unknown  | JS3TD62V8X4101403 |
 | 2007 | SPORTAGE              | 02-09-24      | 218 | BLACK     | NG047257 | Unknown  | KNDJE723177366282 |
@@ -1688,11 +1686,11 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | LESABRE               | 02-08-24      | 400 | MAROON    | NG048745 | Unknown  | 1G4HP54KX1U182996 |
 | 2000 | EXPRESS 1500 VAN      | 02-08-24      | 217 | WHITE     | NG048742 | Unknown  | 1GCFG15W0Y1255892 |
 | 1994 | MAZDA B-4000          | 02-08-24      | 216 | BROWN     | NG048640 | Unknown  | 4F4CR12X0RTM26230 |
-| 2008 | MALIBU                | 02-08-24      | 400 | GRAY      | NG048599 | Unknown  | 1G1ZJ57BX8F222524 |
-| 2011 | ESCAPE                | 02-08-24      | 217 | SILVER    | NG048598 | Unknown  | 1FMCU0C71BKC10989 |
-| 2005 | SUBURBAN 1500         | 02-08-24      | 217 | TAN       | NG048596 | Unknown  | 3GNFK16Z55G105255 |
-| 2007 | SPECTRA               | 02-08-24      | 312 | WHITE     | NG048592 | Unknown  | KNAFE121X75437361 |
 | 2002 | ACCORD                | 02-08-24      | 312 | BLACK     | NG048538 | Unknown  | 1HGCG56602A094039 |
+| 2007 | SPECTRA               | 02-08-24      | 312 | WHITE     | NG048592 | Unknown  | KNAFE121X75437361 |
+| 2005 | SUBURBAN 1500         | 02-08-24      | 217 | TAN       | NG048596 | Unknown  | 3GNFK16Z55G105255 |
+| 2011 | ESCAPE                | 02-08-24      | 217 | SILVER    | NG048598 | Unknown  | 1FMCU0C71BKC10989 |
+| 2008 | MALIBU                | 02-08-24      | 400 | GRAY      | NG048599 | Unknown  | 1G1ZJ57BX8F222524 |
 | 1997 | CIVIC                 | 02-08-24      | 312 | MAROON    | NG048514 | Unknown  | 1HGEJ6670VL016605 |
 | 1997 | 4 RUNNER              | 02-08-24      | 217 | BLACK     | NG048394 | Unknown  | JT3HN86R7V0115733 |
 | 2004 | EXPEDITION            | 02-08-24      | 217 | BLUE      | NG048332 | Unknown  | 1FMFU18L54LB3625  |
@@ -1700,18 +1698,18 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | EXPEDITION            | 02-08-24      | 218 | TAN       | NG048181 | Unknown  | 1FMFK16527LA29503 |
 | 2008 | FOCUS                 | 02-08-24      | 400 | SILVER    | NG047762 | Unknown  | 1FAHP35N18W293698 |
 | 2007 | SAAB 9-7X             | 02-08-24      | 217 | BLACK     | NG047735 | Unknown  | 5S3ET13S172800136 |
-| 2004 | MOUNTAINEER           | 02-08-24      | 217 | BLACK     | NG047261 | Unknown  | 4M2ZU86K74UJ12399 |
-| 2008 | CARAVAN               | 02-08-24      | 400 | WHITE     | NG047278 | Unknown  | 2D8HN54P78R105338 |
-| 2007 | VUE                   | 02-08-24      | 400 | BLUE      | NG047215 | Unknown  | 5GZCZ534X7S825698 |
 | 2000 | FORD F350SD PICKUP    | 02-08-24      | 217 | MAROON    | NG047481 | Unknown  | 1FTSX31S7YEE19421 |
 | 2002 | ESCAPE                | 02-08-24      | 217 | BLUE      | NG047418 | Unknown  | 1FMYU04122KB54951 |
 | 2002 | TAHOE                 | 02-08-24      | 217 | BLUE      | NG047286 | Unknown  | 1GNEK13Z72R192796 |
+| 2008 | CARAVAN               | 02-08-24      | 400 | WHITE     | NG047278 | Unknown  | 2D8HN54P78R105338 |
+| 2004 | MOUNTAINEER           | 02-08-24      | 217 | BLACK     | NG047261 | Unknown  | 4M2ZU86K74UJ12399 |
 | 2004 | SIENNA                | 02-08-24      | 312 | TAN       | NG047242 | Unknown  | 5TDZA23C74S041282 |
+| 2007 | VUE                   | 02-08-24      | 400 | BLUE      | NG047215 | Unknown  | 5GZCZ534X7S825698 |
 | 2011 | YARIS                 | 02-08-24      | 312 | RED       | NG047096 | Unknown  | JTDBT4K33B1408228 |
 | 2008 | FOCUS                 | 02-07-24      | 400 | SILVER    | NG048758 | Unknown  | 1FAHP35N48W280945 |
 | 2014 | SILVERADO 1500 PICKUP | 02-07-24      | 216 | BLACK     | NG048763 | Unknown  | 1GCVKREC2EZ204955 |
-| 2006 | IMPALA                | 02-07-24      | 400 | SILVER    | NG048761 | Unknown  | 2G1WC581369155211 |
 | 2006 | LIBERTY               | 02-07-24      | 216 | WHITE     | NG048760 | Unknown  | 1J4GL58KX6W182816 |
+| 2006 | IMPALA                | 02-07-24      | 400 | SILVER    | NG048761 | Unknown  | 2G1WC581369155211 |
 | 2000 | BEETLE                | 02-07-24      | 313 | GREEN     | NG048756 | Unknown  | 3VWCA21C1YM438272 |
 | 2004 | SIENNA                | 02-07-24      | 313 | GOLD      | NG048753 | Unknown  | 5TDBA22C64S009832 |
 | 2013 | FIT                   | 02-07-24      | 313 | WHITE     | NG048751 | Unknown  | JHMGE8H37DC051754 |
@@ -1729,9 +1727,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1998 | FORD F150 PICKUP      | 02-07-24      | 216 | SILVER    | NG048645 | Unknown  | 1FTZX18W1WNB10374 |
 | 1999 | GRAND CHEROKEE        | 02-07-24      | 216 | BLACK     | NG048639 | Unknown  | 1J4GW58S1XC701875 |
 | 2002 | TAURUS                | 02-07-24      | 401 | RED       | NG048633 | Unknown  | 1FAFP53U32G269076 |
-| 2000 | CAVALIER              | 02-07-24      | 400 | SILVER    | NG048530 | Unknown  | 1G1JC1245Y7160114 |
-| 2010 | COROLLA               | 02-07-24      | 313 | BLUE      | NG048526 | Unknown  | 2T1BU4EE6AC379568 |
 | 2002 | MUSTANG               | 02-07-24      | 400 | RED       | NG048516 | Unknown  | 1FAFP40462F240370 |
+| 2010 | COROLLA               | 02-07-24      | 313 | BLUE      | NG048526 | Unknown  | 2T1BU4EE6AC379568 |
+| 2000 | CAVALIER              | 02-07-24      | 400 | SILVER    | NG048530 | Unknown  | 1G1JC1245Y7160114 |
 | 1998 | SATURN S SERIES       | 02-07-24      | 400 | WHITE     | NG048515 | Unknown  | 1G8ZK5275WZ186237 |
 | 2001 | YUKON                 | 02-07-24      | 217 | TAN       | NG047359 | Unknown  | 1GKEK13T71J280298 |
 | 2006 | SCION TC              | 02-06-24      | 313 | BLUE      | NG048739 | Unknown  | JTKDE177860087725 |
@@ -1746,24 +1744,24 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | WINDSTAR              | 02-06-24      | 401 | WHITE     | NG048733 | Unknown  | 2FMZA56443BB73319 |
 | 2006 | HHR                   | 02-06-24      | 401 | RED       | NG048734 | Unknown  | 3GNDA23P96S625377 |
 | 2007 | VERSA                 | 02-06-24      | 313 | WHITE     | NG048720 | Unknown  | 3N1BC13EX7L354511 |
-| 2000 | DODGE 2500 PICKUP     | 02-06-24      | 215 | BURGUNDY  | NG048716 | Unknown  | 2B5WB25Y0YK137294 |
 | 2007 | COMMANDER             | 02-06-24      | 215 | BLACK     | NG048718 | Unknown  | 1J8HG58P97C520602 |
-| 2001 | IMPALA                | 02-06-24      | 313 | GOLD      | NG048715 | Unknown  | 2G1WH55K719353183 |
+| 2000 | DODGE 2500 PICKUP     | 02-06-24      | 215 | BURGUNDY  | NG048716 | Unknown  | 2B5WB25Y0YK137294 |
 | 2007 | PRIUS                 | 02-06-24      | 313 | SILVER    | NG048714 | Unknown  | JTDKB20U077660879 |
+| 2001 | IMPALA                | 02-06-24      | 313 | GOLD      | NG048715 | Unknown  | 2G1WH55K719353183 |
 | 2003 | SABLE                 | 02-06-24      | 401 | GOLD      | NG048711 | Unknown  | 1MEFM55S03G615048 |
 | 2009 | SONATA                | 02-06-24      | 313 | GRAY      | NG048697 | Unknown  | 5NPET46C09H553494 |
 | 2005 | SANTA FE              | 02-06-24      | 215 | BLUE      | NG048670 | Unknown  | KM8SC73DX5U910645 |
 | 2007 | NITRO                 | 02-06-24      | 215 | WHITE     | NG048691 | Unknown  | 1D8GT586X7W729482 |
-| 2004 | EXPLORER              | 02-06-24      | 215 | WHITE     | NG048602 | Unknown  | 1FMDU85WX4ZA47339 |
 | 2001 | FORD F150 PICKUP      | 02-06-24      | 215 | RED       | NG048564 | Unknown  | 1FTRX17WX1NB15955 |
+| 2004 | EXPLORER              | 02-06-24      | 215 | WHITE     | NG048602 | Unknown  | 1FMDU85WX4ZA47339 |
 | 2005 | PILOT                 | 02-06-24      | 215 | BLUE      | NG048252 | Unknown  | 5FNYF18405B017792 |
 | 2013 | PATRIOT               | 02-06-24      | 215 | GRAY      | NG047394 | Unknown  | 1C4NJPBA1DD265493 |
 | 2005 | ODYSSEY               | 02-06-24      | 313 | BLUE      | NG045546 | Unknown  | 5FNRL38775B130223 |
 | 2002 | XTERRA                | 02-06-24      | 215 | SILVER    | NG045122 | 200000   | 5N1ED28Y02C583036 |
 | 1999 | CUTLASS               | 02-05-24      | 402 | TEAL      | NG048713 | Unknown  | 1G3NB52J7X6311239 |
-| 2012 | ENCLAVE               | 02-05-24      | 214 | WHITE     | NG048708 | Unknown  | 5GAKRDED5CJ225788 |
 | 2005 | IMPALA                | 02-05-24      | 402 | SILVER    | NG048706 | Unknown  | 2G1WF52E559348946 |
 | 2014 | MALIBU                | 02-05-24      | 402 | BLACK     | NG048707 | Unknown  | 1G11C5SL6EF240568 |
+| 2012 | ENCLAVE               | 02-05-24      | 214 | WHITE     | NG048708 | Unknown  | 5GAKRDED5CJ225788 |
 | 2012 | TRAVERSE              | 02-05-24      | 214 | RED       | NG048704 | Unknown  | 1GNLRFED3AS135584 |
 | 2009 | JOURNEY               | 02-05-24      | 402 | RED       | NG048703 | Unknown  | 3D4GH57V99T247686 |
 | 2006 | PASSAT                | 02-05-24      | 313 | SILVER    | NG048700 | Unknown  | WVWEK73C36P054939 |
@@ -1798,13 +1796,13 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 1998 | COROLLA               | 02-02-24      | 314 | GREEN     | NG048649 | Unknown  | 1NXBR18E3WZ089175 |
 | 2005 | MALIBU                | 02-02-24      | 403 | MAROON    | NG048647 | Unknown  | 1G1ZT54835F129245 |
 | 2000 | VOLVO 70 SERIES       | 02-02-24      | 314 | BLACK     | NG048644 | Unknown  | YV1LZ56D7Y2670472 |
-| 2008 | G6                    | 02-02-24      | 403 | BLUE      | NG048643 | Unknown  | 1G2ZH57N184164414 |
 | 1999 | 4 RUNNER              | 02-02-24      | 214 | SILVER    | NG048642 | Unknown  | JT3HN87R6X9023252 |
+| 2008 | G6                    | 02-02-24      | 403 | BLUE      | NG048643 | Unknown  | 1G2ZH57N184164414 |
 | 2002 | MAZDA 626             | 02-02-24      | 314 | SILVER    | NG048625 | Unknown  | 1YVGF22DX25270572 |
 | 2003 | JETTA                 | 02-02-24      | 314 | BLUE      | NG048620 | Unknown  | 3VWTH69M93M109800 |
-| 2012 | IMPALA                | 02-02-24      | 403 | TAN       | NG048555 | Unknown  | 2G1WG5E32C1222921 |
-| 1997 | GRAND CHEROKEE        | 02-02-24      | 214 | SILVER    | NG048548 | Unknown  | 1J4GZ78Y0VC663141 |
 | 2008 | TAHOE                 | 02-02-24      | 214 | WHITE     | NG048546 | Unknown  | 1GNFK13038J203371 |
+| 1997 | GRAND CHEROKEE        | 02-02-24      | 214 | SILVER    | NG048548 | Unknown  | 1J4GZ78Y0VC663141 |
+| 2012 | IMPALA                | 02-02-24      | 403 | TAN       | NG048555 | Unknown  | 2G1WG5E32C1222921 |
 | 2000 | INTEGRA               | 02-02-24      | 314 | SILVER    | NG048487 | Unknown  | JH4DB7664YS001652 |
 | 2004 | GRAND CHEROKEE        | 02-02-24      | 213 | GOLD      | NG048486 | Unknown  | 1J4GW58N24C324303 |
 | 2004 | MERCEDES S-CLASS      | 02-02-24      | 314 | SILVER    | NG048478 | Unknown  | WDBNG75J94A395595 |
@@ -1817,61 +1815,61 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | IMPALA                | 02-01-24      | 404 | GOLD      | NG048628 | Unknown  | 2G1WH52K239159362 |
 | 2007 | FUSION                | 02-01-24      | 403 | BLACK     | NG048626 | Unknown  | 3FAHP08107R280482 |
 | 2001 | SUBURBAN 1500         | 02-01-24      | 214 | GOLD      | NG048623 | Unknown  | 3GNGK26U11G159368 |
-| 2012 | JOURNEY               | 02-01-24      | 403 | GRAY      | NG048631 | Unknown  | 3C4PDCAB9CT336192 |
-| 2001 | GRAND AM              | 02-01-24      | 403 | SILVER    | NG048614 | Unknown  | 1G2NW52E81C143731 |
-| 2004 | MAXIMA                | 02-01-24      | 314 | BLUE      | NG048610 | Unknown  | 1N4BA41E84C821249 |
-| 2009 | IMPREZA               | 02-01-24      | 314 | GRAY      | NG048609 | Unknown  | JF1GE61629H522235 |
-| 2017 | FORESTER              | 02-01-24      | 315 | SILVER    | NG048605 | Unknown  | JF2SJAAC8HG487926 |
-| 1997 | ALTIMA                | 02-01-24      | 314 | BLUE      | NG048601 | Unknown  | 1N4BU31DXVC144148 |
-| 2005 | MAXIMA                | 02-01-24      | 415 | SILVER    | NG048582 | Unknown  | 1N4BA41E55C846093 |
-| 2003 | ODYSSEY               | 02-01-24      | 314 | BLACK     | NG048594 | Unknown  | 5FNRL18623B060526 |
-| 2001 | VOLVO 40 SERIES       | 02-01-24      | 315 |           | NG048575 | Unknown  | YV1RS58D712036063 |
 | 1993 | FORD F150 PICKUP      | 02-01-24      | 214 | BLUE      | NG048566 | Unknown  | 2FTEF14Y7PCB43301 |
-| 2005 | MAZDA 6               | 02-01-24      | 314 | GREEN     | NG048508 | Unknown  | 1YVHP80C355M64380 |
+| 2001 | VOLVO 40 SERIES       | 02-01-24      | 315 |           | NG048575 | Unknown  | YV1RS58D712036063 |
+| 2003 | ODYSSEY               | 02-01-24      | 314 | BLACK     | NG048594 | Unknown  | 5FNRL18623B060526 |
+| 2005 | MAXIMA                | 02-01-24      | 415 | SILVER    | NG048582 | Unknown  | 1N4BA41E55C846093 |
+| 1997 | ALTIMA                | 02-01-24      | 314 | BLUE      | NG048601 | Unknown  | 1N4BU31DXVC144148 |
+| 2017 | FORESTER              | 02-01-24      | 315 | SILVER    | NG048605 | Unknown  | JF2SJAAC8HG487926 |
+| 2009 | IMPREZA               | 02-01-24      | 314 | GRAY      | NG048609 | Unknown  | JF1GE61629H522235 |
+| 2004 | MAXIMA                | 02-01-24      | 314 | BLUE      | NG048610 | Unknown  | 1N4BA41E84C821249 |
+| 2001 | GRAND AM              | 02-01-24      | 403 | SILVER    | NG048614 | Unknown  | 1G2NW52E81C143731 |
+| 2012 | JOURNEY               | 02-01-24      | 403 | GRAY      | NG048631 | Unknown  | 3C4PDCAB9CT336192 |
 | 2004 | RAINIER               | 02-01-24      | 213 | RED       | NG048501 | Unknown  | 5GADT13S442356832 |
+| 2005 | MAZDA 6               | 02-01-24      | 314 | GREEN     | NG048508 | Unknown  | 1YVHP80C355M64380 |
 | 2000 | DAKOTA                | 02-01-24      | 214 | BLACK     | NG048430 | Unknown  | 1B7HG2AZ1YS777567 |
-| 2004 | VOLVO XC90            | 02-01-24      | 213 | BLACK     | NG048379 | Unknown  | YV1CN59H641126488 |
 | 2006 | PRIUS                 | 02-01-24      | 315 | SILVER    | NG048373 | Unknown  | JTDKB20U263188755 |
+| 2004 | VOLVO XC90            | 02-01-24      | 213 | BLACK     | NG048379 | Unknown  | YV1CN59H641126488 |
 | 1998 | GRAND CHEROKEE        | 02-01-24      | 213 | GRAY      | NG048282 | Unknown  | 1J4GZ58S5WC282628 |
 | 2006 | MILAN                 | 02-01-24      | 404 | BLUE      | NG045532 | Unknown  | 3MEHM07116R651621 |
 | 2008 | IMPALA                | 01-31-24      | 404 | GRAY      | NG048629 | Unknown  | 2G1WT58N389235436 |
-| 1992 | FORD F250 PICKUP      | 01-31-24      | 213 | BLUE      | NG048619 | Unknown  | 1FTHX25H6NKA36232 |
-| 2009 | FORD E150 VAN         | 01-31-24      | 213 | WHITE     | NG048618 | Unknown  | 1FTNE24W89DA36493 |
-| 2009 | AVENGER               | 01-31-24      | 404 | WHITE     | NG048616 | Unknown  | 1B3LC56D79N506681 |
-| 2004 | GRAND AM              | 01-31-24      | 404 | GOLD      | NG048613 | Unknown  | 1G2NF52E24C137508 |
-| 2001 | BLAZER S10/JIMMY S15  | 01-31-24      | 213 | BLACK     | NG048612 | Unknown  | 1GNDT13W212106168 |
-| 2008 | ACADIA                | 01-31-24      | 213 | BLACK     | NG048611 | Unknown  | 1GKEV33728J277308 |
-| 1996 | DODGE 1500 PICKUP     | 01-31-24      | 213 | MAROON    | NG048615 | Unknown  | 3B7HF13Y3TG166330 |
-| 2005 | TRAILBLAZER           | 01-31-24      | 213 | WHITE     | NG048608 | Unknown  | 1GNDT13S652202310 |
-| 2007 | CAMRY                 | 01-31-24      | 315 | BLACK     | NG048604 | Unknown  | JTNBE46K173060576 |
-| 1998 | MAXIMA                | 01-31-24      | 315 | GOLD      | NG048597 | Unknown  | JN1CA21A7WM802952 |
-| 2014 | JOURNEY               | 01-31-24      | 404 | WHITE     | NG048585 | Unknown  | 3C4PDCBG7ET126686 |
-| 2007 | ALTIMA                | 01-31-24      | 315 | SILVER    | NG048573 | Unknown  | 1N4AL21E77C161283 |
-| 2001 | CENTURY               | 01-31-24      | 404 | SILVER    | NG048562 | Unknown  | 2G4WS52JX11199194 |
-| 2013 | ALTIMA                | 01-31-24      | 315 | WHITE     | NG048554 | Unknown  | 1N4AL3AP9DN452584 |
-| 2008 | GRAND PRIX            | 01-31-24      | 404 | GRAY      | NG048547 | Unknown  | 2G2WP552381101566 |
 | 2014 | CRUZE                 | 01-31-24      | 404 | RED       | NG048534 | Unknown  | 1G1PC5SB8E7110724 |
+| 2008 | GRAND PRIX            | 01-31-24      | 404 | GRAY      | NG048547 | Unknown  | 2G2WP552381101566 |
+| 2013 | ALTIMA                | 01-31-24      | 315 | WHITE     | NG048554 | Unknown  | 1N4AL3AP9DN452584 |
+| 2001 | CENTURY               | 01-31-24      | 404 | SILVER    | NG048562 | Unknown  | 2G4WS52JX11199194 |
+| 2007 | ALTIMA                | 01-31-24      | 315 | SILVER    | NG048573 | Unknown  | 1N4AL21E77C161283 |
+| 2014 | JOURNEY               | 01-31-24      | 404 | WHITE     | NG048585 | Unknown  | 3C4PDCBG7ET126686 |
+| 1998 | MAXIMA                | 01-31-24      | 315 | GOLD      | NG048597 | Unknown  | JN1CA21A7WM802952 |
+| 2007 | CAMRY                 | 01-31-24      | 315 | BLACK     | NG048604 | Unknown  | JTNBE46K173060576 |
+| 2005 | TRAILBLAZER           | 01-31-24      | 213 | WHITE     | NG048608 | Unknown  | 1GNDT13S652202310 |
+| 1996 | DODGE 1500 PICKUP     | 01-31-24      | 213 | MAROON    | NG048615 | Unknown  | 3B7HF13Y3TG166330 |
+| 2008 | ACADIA                | 01-31-24      | 213 | BLACK     | NG048611 | Unknown  | 1GKEV33728J277308 |
+| 2001 | BLAZER S10/JIMMY S15  | 01-31-24      | 213 | BLACK     | NG048612 | Unknown  | 1GNDT13W212106168 |
+| 2004 | GRAND AM              | 01-31-24      | 404 | GOLD      | NG048613 | Unknown  | 1G2NF52E24C137508 |
+| 2009 | AVENGER               | 01-31-24      | 404 | WHITE     | NG048616 | Unknown  | 1B3LC56D79N506681 |
+| 2009 | FORD E150 VAN         | 01-31-24      | 213 | WHITE     | NG048618 | Unknown  | 1FTNE24W89DA36493 |
+| 1992 | FORD F250 PICKUP      | 01-31-24      | 213 | BLUE      | NG048619 | Unknown  | 1FTHX25H6NKA36232 |
 | 2004 | ION                   | 01-31-24      | 404 | BLACK     | NG048502 | Unknown  | 1G8AJ52F44Z170261 |
 | 2007 | FUSION                | 01-31-24      | 404 | WHITE     | NG048485 | Unknown  | 3FAHP07Z57R249008 |
 | 2010 | TSX                   | 01-31-24      | 315 | WHITE     | NG048439 | Unknown  | JH4CU2F67AC009303 |
 | 2004 | TAURUS                | 01-31-24      | 404 | SILVER    | NG048420 | Unknown  | 1FAFP55S44A175970 |
 | 2000 | 4 RUNNER              | 01-31-24      | 213 | GREEN     | NG047071 | Unknown  | JT3HN86R5Y0269345 |
 | 2003 | XTERRA                | 01-31-24      | 213 | TAN       | NG045409 | Unknown  | 5N1ED28Y63C653091 |
-| 2008 | MAZDA 6               | 01-30-24      | 315 | SILVER    | NG048595 | Unknown  | 1YVHP80CX85M14225 |
-| 2007 | CR-V                  | 01-30-24      | 212 | GREEN     | NG048589 | Unknown  | JHLRE485X7C066776 |
-| 2004 | YUKON                 | 01-30-24      | 212 | BLACK     | NG048588 | Unknown  | 1GKEK63U74J155456 |
-| 2007 | SONATA                | 01-30-24      | 316 | SILVER    | NG048587 | Unknown  | 5NPET46CX7H295725 |
-| 2003 | CR-V                  | 01-30-24      | 212 | SILVER    | NG048584 | Unknown  | JHLRD78823C048880 |
-| 2004 | SUBURBAN 1500         | 01-30-24      | 212 | GREEN     | NG048583 | Unknown  | 1GNFK16Z94J162748 |
-| 2000 | VOLVO 80 SERIES       | 01-30-24      | 315 | TAN       | NG048577 | Unknown  | YV1TS90D7Y1091749 |
-| 2006 | COBALT                | 01-30-24      | 405 | PURPLE    | NG048576 | Unknown  | 1G1AL55F367674433 |
-| 2008 | ACCENT                | 01-30-24      | 315 | GRAY      | NG048570 | Unknown  | KMHCM36C88U086159 |
-| 2009 | CAMRY                 | 01-30-24      | 315 | GRAY      | NG048567 | Unknown  | 4T4BE46K49R097320 |
-| 2004 | DURANGO               | 01-30-24      | 212 | BLACK     | NG048559 | Unknown  | 1D4HB48N44F188094 |
 | 2007 | AURA                  | 01-30-24      | 405 | BLUE      | NG048529 | Unknown  | 1G8ZV57787F190169 |
+| 2004 | DURANGO               | 01-30-24      | 212 | BLACK     | NG048559 | Unknown  | 1D4HB48N44F188094 |
+| 2009 | CAMRY                 | 01-30-24      | 315 | GRAY      | NG048567 | Unknown  | 4T4BE46K49R097320 |
+| 2008 | ACCENT                | 01-30-24      | 315 | GRAY      | NG048570 | Unknown  | KMHCM36C88U086159 |
+| 2006 | COBALT                | 01-30-24      | 405 | PURPLE    | NG048576 | Unknown  | 1G1AL55F367674433 |
+| 2000 | VOLVO 80 SERIES       | 01-30-24      | 315 | TAN       | NG048577 | Unknown  | YV1TS90D7Y1091749 |
+| 2004 | SUBURBAN 1500         | 01-30-24      | 212 | GREEN     | NG048583 | Unknown  | 1GNFK16Z94J162748 |
+| 2003 | CR-V                  | 01-30-24      | 212 | SILVER    | NG048584 | Unknown  | JHLRD78823C048880 |
+| 2007 | SONATA                | 01-30-24      | 316 | SILVER    | NG048587 | Unknown  | 5NPET46CX7H295725 |
+| 2004 | YUKON                 | 01-30-24      | 212 | BLACK     | NG048588 | Unknown  | 1GKEK63U74J155456 |
+| 2007 | CR-V                  | 01-30-24      | 212 | GREEN     | NG048589 | Unknown  | JHLRE485X7C066776 |
+| 2008 | MAZDA 6               | 01-30-24      | 315 | SILVER    | NG048595 | Unknown  | 1YVHP80CX85M14225 |
 | 2001 | TAHOE                 | 01-30-24      | 212 | GOLD      | NG048491 | Unknown  | 1GNEK13TX1J285322 |
-| 2011 | FORTE                 | 01-30-24      | 315 | RED       | NG048464 | Unknown  | KNAFU4A25B5401567 |
 | 2001 | SABLE                 | 01-30-24      | 405 | GRAY      | NG048465 | Unknown  | 1MEHM55S21G636179 |
+| 2011 | FORTE                 | 01-30-24      | 315 | RED       | NG048464 | Unknown  | KNAFU4A25B5401567 |
 | 2005 | FIVE HUNDRED          | 01-30-24      | 405 | BLACK     | NG048463 | Unknown  | 1FAFP28105G147342 |
 | 2013 | AVENGER               | 01-30-24      | 405 | GRAY      | NG048453 | Unknown  | 1C3CDZAB8DN590158 |
 | 2002 | LEXUS RX300           | 01-30-24      | 213 | BLACK     | NG048454 | Unknown  | JTJHF10U020247688 |
@@ -1882,10 +1880,10 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2008 | VOLVO XC90            | 01-30-24      | 212 | BLACK     | NG047734 | Unknown  | YV4CZ982881454416 |
 | 2003 | VUE                   | 01-30-24      | 405 | ORANGE    | NG045961 | Unknown  | 5GZCZ23D13S821399 |
 | 2009 | ESCAPE                | 01-30-24      | 212 | GRAY      | NG045427 | Unknown  | 1FMCU94G89KC31139 |
-| 2004 | LESABRE               | 01-29-24      | 405 | MAROON    | NG048553 | Unknown  | 1G4HR54K244176642 |
-| 2001 | VOLVO 80 SERIES       | 01-29-24      | 316 | SILVER    | NG048549 | Unknown  | YV1TS90D411183391 |
-| 2001 | MUSTANG               | 01-29-24      | 405 | GREEN     | NG048550 | Unknown  | 1FAFP40431F154917 |
 | 2001 | COROLLA               | 01-29-24      | 316 | RED       | NG048545 | Unknown  | 2T1BR12E61C457366 |
+| 2001 | MUSTANG               | 01-29-24      | 405 | GREEN     | NG048550 | Unknown  | 1FAFP40431F154917 |
+| 2001 | VOLVO 80 SERIES       | 01-29-24      | 316 | SILVER    | NG048549 | Unknown  | YV1TS90D411183391 |
+| 2004 | LESABRE               | 01-29-24      | 405 | MAROON    | NG048553 | Unknown  | 1G4HR54K244176642 |
 | 2008 | EXPEDITION            | 01-29-24      | 212 | BLUE      | NG048490 | Unknown  | 1FMFK18568LA59456 |
 | 2013 | ELANTRA               | 01-29-24      | 316 | RED       | NG048493 | Unknown  | KMHDH6AE7DU000692 |
 | 2008 | CARAVAN               | 01-29-24      | 405 | TAN       | NG048481 | Unknown  | 2D8HN44H28R669286 |
@@ -1898,73 +1896,73 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2010 | ESCAPE                | 01-29-24      | 212 | BLACK     | NG048401 | Unknown  | 1FMCU0E75AKC08089 |
 | 2006 | CAMRY                 | 01-29-24      | 316 | GRAY      | NG048387 | Unknown  | 4T1BE32K26U736428 |
 | 2010 | FOCUS                 | 01-29-24      | 405 | UNKNOWN   | NG048360 | Unknown  | 1FAHP3GN3AW232629 |
+| 2005 | EXPLORER              | 01-29-24      | 212 | GOLD      | NG045097 | Unknown  | 1FMZU72K95ZA63146 |
 | 2013 | EXPLORER              | 01-29-24      | 211 | BLACK     | NG047867 | Unknown  | 1FM5K8F80DGC24826 |
 | 1998 | EXPLORER              | 01-29-24      | 212 | WHITE     | NG047025 | Unknown  | 1FMZU34E4WZB96592 |
 | 1999 | TAURUS                | 01-29-24      | 406 | BLACK     | NG047024 | Unknown  | 1FAFP53U0XA159659 |
 | 2006 | X TYPE                | 01-29-24      | 316 | BLACK     | NG046219 | Unknown  | SAJWA51A16WE88963 |
 | 2008 | EDGE                  | 01-29-24      | 212 | RED       | NG045591 | Unknown  | 2FMDK48C78BB02774 |
+| 2001 | MAZDA MPV             | 01-29-24      | 316 | TAN       | NG045590 | Unknown  | JM3LW28G910206192 |
 | 1985 | CAMARO                | 01-29-24      | 405 | RED       | NG045517 | Unknown  | 1G1FP87H2FL439748 |
 | 2003 | MDX                   | 01-29-24      | 212 | BLACK     | NG045575 | Unknown  | 2HNYD18913H521903 |
-| 2001 | MAZDA MPV             | 01-29-24      | 316 | TAN       | NG045590 | Unknown  | JM3LW28G910206192 |
-| 2005 | EXPLORER              | 01-29-24      | 212 | GOLD      | NG045097 | Unknown  | 1FMZU72K95ZA63146 |
 | 2005 | BONNEVILLE            | 01-26-24      | 406 | BLACK     | NG048528 | Unknown  | 1G2HY54K45U157393 |
 | 2011 | HHR                   | 01-26-24      | 406 | WHITE     | NG048512 | Unknown  | 3GNBABFW1BS634319 |
 | 2011 | CARAVAN               | 01-26-24      | 406 | BLACK     | NG048509 | Unknown  | 2D4RN3DG3BR663866 |
-| 2010 | ELANTRA               | 01-26-24      | 316 | SILVER    | NG048469 | Unknown  | KMHDU4AD5AU973783 |
 | 2006 | COMMANDER             | 01-26-24      | 211 | TAN       | NG048467 | Unknown  | 1J8HG58N06C246932 |
+| 2010 | ELANTRA               | 01-26-24      | 316 | SILVER    | NG048469 | Unknown  | KMHDU4AD5AU973783 |
 | 2005 | VUE                   | 01-26-24      | 406 | SILVER    | NG048381 | Unknown  | 5GZCZ53455S851042 |
 | 2003 | SANTA FE              | 01-26-24      | 211 | SILVER    | NG048327 | Unknown  | KM8SC73D33U488392 |
 | 2003 | PATHFINDER            | 01-26-24      | 211 | SILVER    | NG048134 | Unknown  | JN8DR09Y43W830339 |
+| 2008 | MKZ                   | 01-26-24      | 406 | BLUE      | NG044591 | Unknown  | 3LNHM26TX8R660820 |
+| 2003 | FORD F250SD PICKUP    | 01-26-24      | 211 | ORANGE    | NG044592 | Unknown  | 1FTNX21L53EA49353 |
+| 2007 | CAMRY                 | 01-26-24      | 316 | SILVER    | NG044598 | Unknown  | 4T1BE46K87U642961 |
+| 2001 | MDX                   | 01-26-24      | 211 | GOLD      | NG045089 | Unknown  | 2HNYD18861H535655 |
 | 2002 | LIBERTY               | 01-26-24      | 211 | WHITE     | NG047873 | Unknown  | 1J4GL48K12W279763 |
 | 2004 | ELEMENT               | 01-26-24      | 211 | GRAY      | NG047756 | Unknown  | 5J6YH18384L004277 |
 | 2005 | TSX                   | 01-26-24      | 316 | SILVER    | NG047337 | Unknown  | JH4CL96865C021400 |
 | 2002 | COROLLA               | 01-26-24      | 316 | GRAY      | NG047336 | Unknown  | 1NXBR12E92Z568543 |
-| 2004 | GOLF                  | 01-26-24      | 316 | BLUE      | NG046719 | Unknown  | 9BWFL61J744013991 |
-| 2009 | COBALT                | 01-26-24      | 406 | SILVER    | NG046811 | Unknown  | 1G1AK18H297118319 |
-| 2004 | GALANT                | 01-26-24      | 316 | SILVER    | NG047009 | Unknown  | 4A3AB36F74E089647 |
-| 2004 | GALANT                | 01-26-24      | 316 | BLUE      | NG047018 | Unknown  | 4A3AB36F94E082148 |
 | 2000 | ACCORD                | 01-26-24      | 316 | SILVER    | NG047030 | Unknown  | 1HGCG566XYA137908 |
+| 2004 | GALANT                | 01-26-24      | 316 | BLUE      | NG047018 | Unknown  | 4A3AB36F94E082148 |
+| 2004 | GALANT                | 01-26-24      | 316 | SILVER    | NG047009 | Unknown  | 4A3AB36F74E089647 |
+| 2009 | COBALT                | 01-26-24      | 406 | SILVER    | NG046811 | Unknown  | 1G1AK18H297118319 |
+| 2004 | GOLF                  | 01-26-24      | 316 | BLUE      | NG046719 | Unknown  | 9BWFL61J744013991 |
 | 2005 | GRAND CHEROKEE        | 01-26-24      | 211 | BLACK     | NG045585 | Unknown  | 1J8HR582X5C669046 |
 | 2007 | DODGE 1500 PICKUP     | 01-26-24      | 211 | BURGUNDY  | NG045461 | Unknown  | 1D7HU18217S239998 |
-| 2001 | MDX                   | 01-26-24      | 211 | GOLD      | NG045089 | Unknown  | 2HNYD18861H535655 |
-| 2007 | CAMRY                 | 01-26-24      | 316 | SILVER    | NG044598 | Unknown  | 4T1BE46K87U642961 |
-| 2003 | FORD F250SD PICKUP    | 01-26-24      | 211 | ORANGE    | NG044592 | Unknown  | 1FTNX21L53EA49353 |
-| 2008 | MKZ                   | 01-26-24      | 406 | BLUE      | NG044591 | Unknown  | 3LNHM26TX8R660820 |
+| 2003 | DURANGO               | 01-25-24      | 210 | BLACK     | NG048007 | Unknown  | 1D4HS58N43F518062 |
+| 2002 | TAURUS                | 01-25-24      | 406 | TAN       | NG048012 | Unknown  | 1FAFP55212G224164 |
 | 2014 | AVENGER               | 01-25-24      | 406 | BLUE      | NG048504 | Unknown  | 1C3CDZAB5EN147757 |
 | 2002 | FORD F150 PICKUP      | 01-25-24      | 211 | RED       | NG048492 | Unknown  | 1FTRX18LX2NB24127 |
 | 2000 | CAMRY                 | 01-25-24      | 317 | BLACK     | NG048494 | Unknown  | JT2BG22K5Y0514137 |
-| 2007 | CAMRY                 | 01-25-24      | 317 | BLACK     | NG048482 | Unknown  | JTNBB46K773037246 |
 | 2011 | CRUZE                 | 01-25-24      | 406 | SILVER    | NG048484 | Unknown  | 1G1PF5S94B7206771 |
+| 2007 | CAMRY                 | 01-25-24      | 317 | BLACK     | NG048482 | Unknown  | JTNBB46K773037246 |
 | 2013 | LEGACY                | 01-25-24      | 317 | BLUE      | NG048475 | Unknown  | 4S3BMCC6XD3020386 |
 | 2006 | CTS                   | 01-25-24      | 406 | WHITE     | NG048466 | Unknown  | 1G6DM57T560152130 |
-| 2010 | MOUNTAINEER           | 01-25-24      | 211 | GRAY      | NG048468 | Unknown  | 4M2EN4JE0AUJ03853 |
 | 2001 | ECHO                  | 01-25-24      | 317 | GREEN     | NG048473 | Unknown  | JTDBT123510173477 |
 | 2007 | EDGE                  | 01-25-24      | 210 | GRAY      | NG048474 | Unknown  | 2FMDK49C57BB33020 |
+| 2010 | MOUNTAINEER           | 01-25-24      | 211 | GRAY      | NG048468 | Unknown  | 4M2EN4JE0AUJ03853 |
 | 2003 | GRAND CHEROKEE        | 01-25-24      | 210 | TAN       | NG048442 | Unknown  | 1J4GW58S63C537579 |
 | 2012 | FIT                   | 01-25-24      | 317 | SILVER    | NG048440 | Unknown  | JHMGE8H35CC028827 |
 | 2000 | SATURN S SERIES       | 01-25-24      | 406 | MAROON    | NG048382 | Unknown  | 1G8ZK5275YZ175807 |
 | 2008 | SONATA                | 01-25-24      | 317 | GRAY      | NG048238 | Unknown  | 5NPET46C68H340015 |
 | 2002 | ESCAPE                | 01-25-24      | 210 | BLUE      | NG048230 | Unknown  | 1FMYU04132KD02296 |
 | 2002 | ESCAPE                | 01-25-24      | 211 | RED       | NG048135 | Unknown  | 1FMYU04122KA39721 |
-| 2002 | TAURUS                | 01-25-24      | 406 | TAN       | NG048012 | Unknown  | 1FAFP55212G224164 |
-| 2003 | DURANGO               | 01-25-24      | 210 | BLACK     | NG048007 | Unknown  | 1D4HS58N43F518062 |
 | 1999 | FORD F250 PICKUP      | 01-25-24      | 210 | RED       | NG047998 | Unknown  | 1FTPF28L7XNA60314 |
 | 2012 | FOCUS                 | 01-25-24      | 407 | WHITE     | NG047760 | Unknown  | 1FAHP3F27CL217336 |
 | 2006 | MDX                   | 01-25-24      | 211 | SILVER    | NG047353 | Unknown  | 2HNYD18906H541175 |
-| 1991 | FORD F150 PICKUP      | 01-25-24      | 210 | BROWN     | NG046758 | Unknown  | 1FTEX14N6MKB23129 |
 | 2014 | FOCUS                 | 01-25-24      | 407 | BLACK     | NG046807 | Unknown  | 1FADP3F28EL355288 |
+| 1991 | FORD F150 PICKUP      | 01-25-24      | 210 | BROWN     | NG046758 | Unknown  | 1FTEX14N6MKB23129 |
 | 2005 | IMPALA                | 01-24-24      | 407 | WHITE     | NG048461 | Unknown  | 2G1WH52K759310358 |
-| 2002 | CAMRY                 | 01-24-24      | 317 | BLACK     | NG048456 | Unknown  | 2T1CF28P12C601855 |
-| 1995 | S10/S15/SONOMA        | 01-24-24      | 210 | RED       | NG048458 | Unknown  | 1GTCS1440S8512923 |
 | 2000 | SIENNA                | 01-24-24      | 317 | TEAL      | NG048459 | Unknown  | 4T3ZF13C4YU283401 |
-| 2004 | TL                    | 01-24-24      | 317 | SILVER    | NG048460 | Unknown  | 19UUA65574A058906 |
+| 1995 | S10/S15/SONOMA        | 01-24-24      | 210 | RED       | NG048458 | Unknown  | 1GTCS1440S8512923 |
+| 2002 | CAMRY                 | 01-24-24      | 317 | BLACK     | NG048456 | Unknown  | 2T1CF28P12C601855 |
 | 2005 | CAMRY                 | 01-24-24      | 317 | RED       | NG048457 | Unknown  | 4T1BE32K55U040175 |
+| 2004 | TL                    | 01-24-24      | 317 | SILVER    | NG048460 | Unknown  | 19UUA65574A058906 |
 | 1996 | EXPLORER              | 01-24-24      | 210 | GREEN     | NG048449 | Unknown  | 1FMDU34X6TZA80768 |
 | 2004 | TAHOE                 | 01-24-24      | 210 | WHITE     | NG048447 | Unknown  | 1GNEK13Z04R269611 |
 | 2005 | ACCORD                | 01-24-24      | 317 | BLUE      | NG048441 | Unknown  | 1HGCM66565A062223 |
 | 2008 | MKZ                   | 01-24-24      | 407 |           | NG048438 | Unknown  | 3LNHM26T98R647895 |
-| 2004 | TAURUS                | 01-24-24      | 407 | TAN       | NG048411 | Unknown  | 1FAFP58S04A108245 |
 | 2001 | EXPLORER              | 01-24-24      | 210 | RED       | NG048405 | Unknown  | 1FMZU77E61UB95923 |
+| 2004 | TAURUS                | 01-24-24      | 407 | TAN       | NG048411 | Unknown  | 1FAFP58S04A108245 |
 | 2006 | 300                   | 01-24-24      | 407 | SILVER    | NG048399 | Unknown  | 2C3KA53G16H202480 |
 | 2000 | DEVILLE               | 01-24-24      | 407 | WHITE     | NG048388 | Unknown  | 1G6KD54Y9YU271849 |
 | 2014 | ESCAPE                | 01-24-24      | 210 | BLACK     | NG048375 | Unknown  | 1FMCU9GX8EUB65847 |
@@ -1974,23 +1972,23 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | GRAND CHEROKEE        | 01-24-24      | 210 | SILVER    | NG047997 | Unknown  | 1J4HR48NX5C698715 |
 | 1992 | CHEVROLET 1500 PICKUP | 01-24-24      | 210 | BLUE      | NG047772 | Unknown  | 1GCEK14K4NZ136300 |
 | 2007 | LEXUS IS250           | 01-24-24      | 317 | SILVER    | NG047617 | Unknown  | JTHCK262275009399 |
-| 2007 | SANTA FE              | 01-24-24      | 210 | BLUE      | NG047203 | Unknown  | 5NMSH73E97H017018 |
 | 2013 | 200                   | 01-24-24      | 407 | SILVER    | NG047366 | Unknown  | 1C3CCBBG0DN556588 |
 | 2010 | ALTIMA                | 01-24-24      | 317 | GRAY      | NG047358 | Unknown  | 1N4AL2AP4AC165249 |
 | 2000 | QUEST                 | 01-24-24      | 317 | SILVER    | NG047355 | Unknown  | 4N2XN11T4YD828164 |
+| 2007 | SANTA FE              | 01-24-24      | 210 | BLUE      | NG047203 | Unknown  | 5NMSH73E97H017018 |
 | 2002 | ENVOY                 | 01-23-24      | 209 | WHITE     | NG048451 | Unknown  | 1GKDT13S622448251 |
 | 2007 | CHARGER               | 01-23-24      | 408 | RED       | NG048450 | Unknown  | 2B3KA43G37H674706 |
 | 2005 | SONATA                | 01-23-24      | 317 | GOLD      | NG048448 | Unknown  | KMHWF25S55A172598 |
-| 2013 | EQUINOX               | 01-23-24      | 209 | BLACK     | NG048444 | Unknown  | 1GNFLNEK5DZ105182 |
-| 2007 | LEGACY                | 01-23-24      | 317 | TAN       | NG048445 | Unknown  | 4S4BP86C674300127 |
 | 2013 | SCION XB              | 01-23-24      | 317 | SILVER    | NG048446 | Unknown  | JTLZE4FE4DJ043599 |
-| 2005 | ELANTRA               | 01-23-24      | 318 | SILVER    | NG048434 | Unknown  | KMHDN46D15U173834 |
+| 2007 | LEGACY                | 01-23-24      | 317 | TAN       | NG048445 | Unknown  | 4S4BP86C674300127 |
+| 2013 | EQUINOX               | 01-23-24      | 209 | BLACK     | NG048444 | Unknown  | 1GNFLNEK5DZ105182 |
 | 2008 | TAHOE                 | 01-23-24      | 209 | TAN       | NG048435 | Unknown  | 1GNFK13048J138420 |
+| 2005 | ELANTRA               | 01-23-24      | 318 | SILVER    | NG048434 | Unknown  | KMHDN46D15U173834 |
 | 2009 | G6                    | 01-23-24      | 408 | BLACK     | NG048428 | Unknown  | 1G2ZG57B594126145 |
 | 2002 | GRAND CHEROKEE        | 01-23-24      | 209 | BLACK     | NG048427 | Unknown  | 1J8GW68J92C303835 |
 | 2009 | ALTIMA                | 01-23-24      | 318 | WHITE     | NG048422 | Unknown  | 1N4AL21E59N440173 |
-| 2012 | TRAVERSE              | 01-23-24      | 209 | BLUE      | NG048412 | Unknown  | 1GNKVLED7CJ344129 |
 | 2008 | AVENGER               | 01-23-24      | 408 | RED       | NG048400 | Unknown  | 1B3LC76M38N222569 |
+| 2012 | TRAVERSE              | 01-23-24      | 209 | BLUE      | NG048412 | Unknown  | 1GNKVLED7CJ344129 |
 | 2007 | CARAVAN               | 01-23-24      | 408 | BLUE      | NG048391 | Unknown  | 1D4GP25R37B238763 |
 | 2003 | LESABRE               | 01-23-24      | 408 | GOLD      | NG048362 | Unknown  | 1G4HP52K934148568 |
 | 1996 | CONCORDE              | 01-23-24      | 407 | GREEN     | NG048352 | Unknown  | 1C3HD56T7TF101581 |
@@ -2003,22 +2001,22 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2012 | LIBERTY               | 01-23-24      | 209 | SILVER    | NG048235 | Unknown  | 1C4PJMAK4CW130125 |
 | 2008 | FORD F150 PICKUP      | 01-23-24      | 210 | WHITE     | NG048205 | Unknown  | 1FTRF12248KD09657 |
 | 2007 | MAZDA 6               | 01-22-24      | 318 | SILVER    | NG048443 | Unknown  | 1YVHP80C775M59248 |
-| 1998 | MUSTANG               | 01-22-24      | 408 | SILVER    | NG048433 | Unknown  | 1FAFP4045WF264049 |
 | 2002 | SIERRA 1500 PICKUP    | 01-22-24      | 209 | WHITE     | NG048437 | Unknown  | 1GTEC14V02Z900629 |
+| 1998 | MUSTANG               | 01-22-24      | 408 | SILVER    | NG048433 | Unknown  | 1FAFP4045WF264049 |
 | 2006 | TSX                   | 01-22-24      | 318 | BLUE      | NG048429 | Unknown  | JH4CL96896C000655 |
 | 2009 | FOCUS                 | 01-22-24      | 408 | BLACK     | NG048425 | Unknown  | 1FAHP36N69W204952 |
 | 2016 | IMPREZA               | 01-22-24      | 318 | BLUE      | NG048424 | Unknown  | JF1GJAB65GH008440 |
 | 2001 | MALIBU                | 01-22-24      | 408 | WHITE     | NG048419 | Unknown  | 1G1ND52J316117513 |
-| 2011 | MALIBU                | 01-22-24      | 408 | WHITE     | NG048415 | Unknown  | 1G1ZB5E15BF351057 |
-| 1997 | CENTURY               | 01-22-24      | 408 | GREEN     | NG048410 | Unknown  | 2G4WS52M9V1418551 |
 | 2010 | ROUTAN                | 01-22-24      | 318 | BLUE      | NG048408 | Unknown  | 2V4RW3D11AR202305 |
+| 1997 | CENTURY               | 01-22-24      | 408 | GREEN     | NG048410 | Unknown  | 2G4WS52M9V1418551 |
+| 2011 | MALIBU                | 01-22-24      | 408 | WHITE     | NG048415 | Unknown  | 1G1ZB5E15BF351057 |
 | 2003 | LESABRE               | 01-22-24      | 408 | WHITE     | NG048395 | Unknown  | 1G4HP52K534197959 |
-| 2003 | YUKON                 | 01-22-24      | 209 | GOLD      | NG048386 | Unknown  | 1GKEK13Z33J136190 |
-| 2005 | FORD F150 PICKUP      | 01-22-24      | 209 | RED       | NG048384 | Unknown  | 1FTPX14535NA58538 |
 | 2002 | DAKOTA                | 01-22-24      | 209 | RED       | NG048383 | Unknown  | 1B7GG32N22S722033 |
+| 2005 | FORD F150 PICKUP      | 01-22-24      | 209 | RED       | NG048384 | Unknown  | 1FTPX14535NA58538 |
+| 2003 | YUKON                 | 01-22-24      | 209 | GOLD      | NG048386 | Unknown  | 1GKEK13Z33J136190 |
 | 2006 | SONATA                | 01-22-24      | 318 | WHITE     | NG048357 | Unknown  | 5NPEU46F36H145719 |
-| 1997 | SKYLARK               | 01-22-24      | 408 | TAN       | NG048335 | Unknown  | 1G4NJ52M6VC451337 |
 | 1998 | EXPEDITION            | 01-22-24      | 209 | GREEN     | NG048339 | Unknown  | 1FMRU1765WLA91510 |
+| 1997 | SKYLARK               | 01-22-24      | 408 | TAN       | NG048335 | Unknown  | 1G4NJ52M6VC451337 |
 | 2008 | G6                    | 01-22-24      | 408 | BLUE      | NG048321 | Unknown  | 1G2ZH17N684151070 |
 | 2003 | X TYPE                | 01-22-24      | 318 | SILVER    | NG048284 | Unknown  | SAJEA51C33WD04910 |
 | 2004 | MAZDA 6               | 01-22-24      | 318 | RED       | NG048278 | Unknown  | 1YVHP82D345N58392 |
@@ -2026,9 +2024,9 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2001 | MAZDA TRIBUTE         | 01-22-24      | 209 | SILVER    | NG048151 | Unknown  | 4F2YU06101KM22590 |
 | 2001 | RAV4                  | 01-22-24      | 209 | WHITE     | NG047976 | Unknown  | JTEHH20V210065836 |
 | 2005 | DURANGO               | 01-22-24      | 209 | BLACK     | NG047195 | Unknown  | 1D4HB48N55F505902 |
-| 2010 | CALIBER               | 01-19-24      | 409 | BLACK     | NG048407 | Unknown  | 1B3CB4HA9AD532287 |
-| 2008 | ALTIMA                | 01-19-24      | 318 | BLACK     | NG048404 | Unknown  | 1N4AL21E28C245898 |
 | 2004 | COROLLA               | 01-19-24      | 318 | BROWN     | NG048403 | Unknown  | 2T1BR32E64C317219 |
+| 2008 | ALTIMA                | 01-19-24      | 318 | BLACK     | NG048404 | Unknown  | 1N4AL21E28C245898 |
+| 2010 | CALIBER               | 01-19-24      | 409 | BLACK     | NG048407 | Unknown  | 1B3CB4HA9AD532287 |
 | 2008 | DODGE 1500 PICKUP     | 01-19-24      | 208 | BLUE      | NG048397 | Unknown  | 1D7HU18268S543894 |
 | 2010 | MAZDA 3               | 01-19-24      | 318 | BLACK     | NG048393 | Unknown  | JM1BL1SF0A1213372 |
 | 2000 | BONNEVILLE            | 01-19-24      | 409 | BRONZE    | NG048385 | Unknown  | 1G2HX54K0Y4149265 |
@@ -2038,34 +2036,34 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | SEBRING               | 01-19-24      | 409 | SILVER    | NG048293 | Unknown  | 4C3AG52H73E073618 |
 | 2007 | GRAND PRIX            | 01-19-24      | 409 | WHITE     | NG048274 | Unknown  | 2G2WP552371188528 |
 | 1998 | CAMRY                 | 01-19-24      | 318 | SILVER    | NG048270 | Unknown  | 4T1BG28K0WU373249 |
-| 2000 | EXPLORER              | 01-19-24      | 208 | GOLD      | NG048264 | Unknown  | 1FMZU73EXYUB55201 |
 | 2015 | PATRIOT               | 01-19-24      | 208 | BLUE      | NG048207 | Unknown  | 1C4NJRBB8FD270150 |
 | 2012 | MKZ                   | 01-19-24      | 409 | GRAY      | NG048177 | Unknown  | 3LNDL2L32CR821031 |
+| 2000 | EXPLORER              | 01-19-24      | 208 | GOLD      | NG048264 | Unknown  | 1FMZU73EXYUB55201 |
 | 2002 | AVALANCHE 1500        | 01-19-24      | 208 | SILVER    | NG047685 | Unknown  | 3GNEK13TX2G256843 |
 | 2002 | VOLVO 60 SERIES       | 01-19-24      | 318 | GRAY      | NG047528 | Unknown  | YV1RS53D522107155 |
-| 1999 | SIENNA                | 01-19-24      | 318 | TAN       | NG047198 | Unknown  | 4T3ZF13C0XU144302 |
-| 2007 | LUCERNE               | 01-19-24      | 409 | BLACK     | NG047181 | Unknown  | 1G4HD57217U103339 |
 | 2001 | MAZDA TRIBUTE         | 01-19-24      | 208 | SILVER    | NG047158 | Unknown  | 4F2CU08131KM42064 |
+| 2007 | LUCERNE               | 01-19-24      | 409 | BLACK     | NG047181 | Unknown  | 1G4HD57217U103339 |
+| 1999 | SIENNA                | 01-19-24      | 318 | TAN       | NG047198 | Unknown  | 4T3ZF13C0XU144302 |
 | 2011 | MAZDA CX-7            | 01-19-24      | 209 | BLACK     | NG046060 | Unknown  | JM3ER4C33B0357045 |
+| 2000 | FORD F250SD PICKUP    | 01-18-24      | 208 | ORANGE    | NG048054 | Unknown  | 1FTNX21L4YEE38248 |
+| 1999 | SUBURBAN 1500         | 01-18-24      | 208 | GOLD      | NG048095 | Unknown  | 3GKFK16R0XG549580 |
 | 2005 | PACIFICA              | 01-18-24      | 410 | GREEN     | NG048380 | Unknown  | 2C4GF68415R572487 |
-| 2005 | EQUINOX               | 01-18-24      | 208 | SILVER    | NG048370 | Unknown  | 2CNDL73F456089745 |
 | 2007 | GRAND PRIX            | 01-18-24      | 409 | RED       | NG048372 | Unknown  | 2G2WP552X71175484 |
 | 2012 | FOCUS                 | 01-18-24      | 409 | BLACK     | NG048376 | Unknown  | 1FAHP3J22CL418956 |
-| 2003 | IMPALA                | 01-18-24      | 410 | MAROON    | NG048378 | Unknown  | 2G1WF52E139355308 |
 | 2007 | YUKON XL 1500         | 01-18-24      | 208 | WHITE     | NG048377 | Unknown  | 1GKFK16327J300272 |
+| 2003 | IMPALA                | 01-18-24      | 410 | MAROON    | NG048378 | Unknown  | 2G1WF52E139355308 |
+| 2005 | EQUINOX               | 01-18-24      | 208 | SILVER    | NG048370 | Unknown  | 2CNDL73F456089745 |
 | 2007 | FOCUS                 | 01-18-24      | 409 | RED       | NG048364 | Unknown  | 1FAHP34N57W147577 |
-| 2007 | IMPALA                | 01-18-24      | 409 | SILVER    | NG048359 | Unknown  | 2G1WT58K679357230 |
 | 1994 | FORD E350 VAN         | 01-18-24      | 208 | BLUE      | NG048361 | Unknown  | 1FTJS34H6RHA99843 |
-| 2009 | FORD F150 PICKUP      | 01-18-24      | 208 | GRAY      | NG048356 | Unknown  | 1FTPW14V09FA06643 |
+| 2007 | IMPALA                | 01-18-24      | 409 | SILVER    | NG048359 | Unknown  | 2G1WT58K679357230 |
 | 2010 | GRAND CHEROKEE        | 01-18-24      | 208 | BLACK     | NG048354 | Unknown  | 1J4PR4GK7AC124599 |
+| 2009 | FORD F150 PICKUP      | 01-18-24      | 208 | GRAY      | NG048356 | Unknown  | 1FTPW14V09FA06643 |
 | 2004 | IMPALA                | 01-18-24      | 409 | BLACK     | NG048318 | Unknown  | 2G1WH52K649463490 |
 | 2001 | COROLLA               | 01-18-24      | 319 | BRONZE    | NG048311 | Unknown  | 1NXBR18E31Z534278 |
 | 2009 | GRAND MARQUIS         | 01-18-24      | 410 | MAROON    | NG048288 | Unknown  | 2MEHM75V49X626605 |
 | 2008 | IMPALA                | 01-18-24      | 409 | BLACK     | NG048269 | Unknown  | 2G1WB58K589198771 |
 | 2014 | FIAT 500              | 01-18-24      | 318 | GREEN     | NG048240 | Unknown  | ZFBCFADH9EZ009240 |
 | 2014 | CAPTIVA SPORT         | 01-18-24      | 208 | WHITE     | NG048071 | Unknown  | 3GNAL3EK3ES625426 |
-| 1999 | SUBURBAN 1500         | 01-18-24      | 208 | GOLD      | NG048095 | Unknown  | 3GKFK16R0XG549580 |
-| 2000 | FORD F250SD PICKUP    | 01-18-24      | 208 | ORANGE    | NG048054 | Unknown  | 1FTNX21L4YEE38248 |
 | 2008 | FORD E250 VAN         | 01-18-24      | 208 | WHITE     | NG048021 | Unknown  | 1FTNS24L88DA66218 |
 | 2003 | BMW 530i              | 01-18-24      | 319 | ORANGE    | NG047928 | Unknown  | WBADT63493CK42232 |
 | 2011 | COMPASS               | 01-18-24      | 208 | BLUE      | NG047823 | Unknown  | 1J4NF1FB8BD216588 |
@@ -2075,50 +2073,50 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2004 | CIVIC                 | 01-17-24      | 319 | BLUE      | NG048369 | Unknown  | JHMES95654S006516 |
 | 2006 | EXPEDITION            | 01-17-24      | 208 | WHITE     | NG048371 | Unknown  | 1FMFU18596LA95620 |
 | 2005 | COROLLA               | 01-17-24      | 319 | BLUE      | NG048374 | Unknown  | 1NXBR32E65Z385777 |
-| 2007 | CAMRY                 | 01-17-24      | 319 | RED       | NG048365 | Unknown  | 4T1BB46K17U025622 |
-| 2013 | FOCUS                 | 01-17-24      | 410 | GRAY      | NG048367 | Unknown  | 1FADP3F2XDL313557 |
 | 2013 | TOWN & COUNTRY        | 01-17-24      | 410 | TAN       | NG048368 | Unknown  | 2C4RC1BG1DR715153 |
+| 2013 | FOCUS                 | 01-17-24      | 410 | GRAY      | NG048367 | Unknown  | 1FADP3F2XDL313557 |
+| 2007 | CAMRY                 | 01-17-24      | 319 | RED       | NG048365 | Unknown  | 4T1BB46K17U025622 |
 | 2005 | FOCUS                 | 01-17-24      | 410 | TAN       | NG048358 | Unknown  | 1FAFP34N95W145318 |
 | 2008 | IMPALA                | 01-17-24      | 410 | BLACK     | NG048342 | Unknown  | 2G1WT58K089191742 |
-| 2008 | 300                   | 01-17-24      | 410 | BLACK     | NG048319 | Unknown  | 2C3LA53G68H329765 |
-| 2010 | CHARGER               | 01-17-24      | 410 | BLACK     | NG048324 | Unknown  | 2B3AA4CT1AH183874 |
 | 2005 | PACIFICA              | 01-17-24      | 410 | BLACK     | NG048326 | Unknown  | 2C4GM68435R378534 |
-| 2009 | SONATA                | 01-17-24      | 319 | SILVER    | NG048315 | Unknown  | 5NPET46F09H501289 |
+| 2010 | CHARGER               | 01-17-24      | 410 | BLACK     | NG048324 | Unknown  | 2B3AA4CT1AH183874 |
+| 2008 | 300                   | 01-17-24      | 410 | BLACK     | NG048319 | Unknown  | 2C3LA53G68H329765 |
 | 2005 | DURANGO               | 01-17-24      | 208 | SILVER    | NG048316 | Unknown  | 1D4HB58D35F551371 |
+| 2009 | SONATA                | 01-17-24      | 319 | SILVER    | NG048315 | Unknown  | 5NPET46F09H501289 |
 | 2016 | MALIBU                | 01-17-24      | 410 | RED       | NG048309 | Unknown  | 1G1ZE5ST0GF271377 |
 | 2005 | SPECTRA               | 01-17-24      | 319 | SILVER    | NG048260 | Unknown  | KNAFE161355093962 |
 | 2013 | ESCAPE                | 01-17-24      | 208 | TEAL      | NG048299 | Unknown  | 1FMCU9H99DUC45978 |
 | 2008 | VITARA                | 01-17-24      | 208 | SILVER    | NG047731 | Unknown  | 2S3DA417986123687 |
+| 2008 | VUE                   | 01-16-24      | 410 | BLACK     | NG048046 | Unknown  | 3GSDL63728S666726 |
+| 2006 | COBALT                | 01-16-24      | 410 | RED       | NG048023 | Unknown  | 1G1AL15F467685157 |
 | 1998 | DODGE 1500 PICKUP     | 01-16-24      | 207 | BLUE      | NG048363 | Unknown  | 1B7HF13Y0WJ168622 |
 | 2001 | ACCORD                | 01-16-24      | 319 | BLACK     | NG048350 | Unknown  | 1HGCG32511A029815 |
-| 2005 | FOCUS                 | 01-16-24      | 411 | BLACK     | NG048349 | Unknown  | 1FAFP38Z05W103018 |
+| 2003 | CENTURY               | 01-16-24      | 410 | SILVER    | NG048346 | Unknown  | 2G4WS52J331293582 |
 | 2005 | FOCUS                 | 01-16-24      | 411 | MAROON    | NG048347 | Unknown  | 1FAFP34N65W200775 |
 | 2011 | CRUZE                 | 01-16-24      | 411 | BLACK     | NG048348 | Unknown  | 1G1PC5SH1B7167007 |
-| 2003 | CENTURY               | 01-16-24      | 410 | SILVER    | NG048346 | Unknown  | 2G4WS52J331293582 |
+| 2005 | FOCUS                 | 01-16-24      | 411 | BLACK     | NG048349 | Unknown  | 1FAFP38Z05W103018 |
 | 2012 | IMPALA                | 01-16-24      | 411 | SILVER    | NG048345 | Unknown  | 2G1WG5E37C1327602 |
-| 1995 | CHEVROLET 20 VAN      | 01-16-24      | 207 | BLUE      | NG048334 | Unknown  | 1GNEG25H9SF212379 |
 | 1998 | ISUZU HOMBRE          | 01-16-24      | 207 | WHITE     | NG048337 | Unknown  | 1GGCS1442W8668868 |
 | 2002 | MAXIMA                | 01-16-24      | 319 | BLUE      | NG048343 | Unknown  | JN1DA31D12T441786 |
-| 1999 | CAMRY                 | 01-16-24      | 319 | TAN       | NG048329 | Unknown  | 2T1CF22P6XC143617 |
 | 2008 | VUE                   | 01-16-24      | 411 | BLACK     | NG048328 | Unknown  | 3GSCL53728S730673 |
+| 1999 | CAMRY                 | 01-16-24      | 319 | TAN       | NG048329 | Unknown  | 2T1CF22P6XC143617 |
+| 1995 | CHEVROLET 20 VAN      | 01-16-24      | 207 | BLUE      | NG048334 | Unknown  | 1GNEG25H9SF212379 |
 | 2009 | AURA                  | 01-16-24      | 411 | WHITE     | NG048304 | Unknown  | 1G8ZS57BX9F152779 |
 | 2001 | SEBRING               | 01-16-24      | 411 | GRAY      | NG048303 | Unknown  | 1C3EL56U71N538806 |
 | 2001 | LEXUS GS300           | 01-16-24      | 319 | SILVER    | NG048294 | Unknown  | JT8BD69S710127753 |
 | 2010 | SUBURBAN 1500         | 01-16-24      | 207 | GRAY      | NG048262 | Unknown  | 1GNUKJE38AR255231 |
 | 2009 | ODYSSEY               | 01-16-24      | 319 | GRAY      | NG048257 | Unknown  | 5FNRL38269B016403 |
 | 2011 | EXPLORER              | 01-16-24      | 207 | TAN       | NG048217 | Unknown  | 1FMHK8D87BGA76798 |
-| 2006 | COBALT                | 01-16-24      | 410 | RED       | NG048023 | Unknown  | 1G1AL15F467685157 |
-| 2008 | VUE                   | 01-16-24      | 410 | BLACK     | NG048046 | Unknown  | 3GSDL63728S666726 |
 | 1994 | CHEVROLET 1500 PICKUP | 01-16-24      | 207 | BLUE      | NG047871 | Unknown  | 2GCEK19K1R1215544 |
 | 2008 | PRIUS                 | 01-16-24      | 319 | SILVER    | NG047740 | Unknown  | JTDKB20U083365077 |
 | 2005 | EQUINOX               | 01-15-24      | 207 | GOLD      | NG048336 | Unknown  | 2CNDL63F856045936 |
-| 2007 | VIBE                  | 01-15-24      | 411 | RED       | NG048320 | Unknown  | 5Y2SL658X7Z400168 |
-| 2010 | ALTIMA                | 01-15-24      | 319 | GRAY      | NG048322 | Unknown  | 1N4AL2AP3AN514406 |
 | 2000 | ALERO                 | 01-15-24      | 411 | MAROON    | NG048325 | Unknown  | 1G3NK52T6YC434423 |
+| 2010 | ALTIMA                | 01-15-24      | 319 | GRAY      | NG048322 | Unknown  | 1N4AL2AP3AN514406 |
+| 2007 | VIBE                  | 01-15-24      | 411 | RED       | NG048320 | Unknown  | 5Y2SL658X7Z400168 |
 | 2008 | CIVIC                 | 01-15-24      | 320 | BLACK     | NG048317 | Unknown  | 1HGFA16578L034903 |
 | 2010 | G6                    | 01-15-24      | 411 | RED       | NG048313 | Unknown  | 1G2ZA5EBXA4159215 |
-| 2002 | SILVERADO 1500 PICKUP | 01-15-24      | 207 | WHITE     | NG048307 | Unknown  | 1GCEK14W12Z125138 |
 | 2004 | VENTURE               | 01-15-24      | 412 | BLUE      | NG048310 | Unknown  | 1GNDX03EX4D223091 |
+| 2002 | SILVERADO 1500 PICKUP | 01-15-24      | 207 | WHITE     | NG048307 | Unknown  | 1GCEK14W12Z125138 |
 | 2003 | ELEMENT               | 01-15-24      | 207 | GREEN     | NG048306 | Unknown  | 5J6YH28553L049084 |
 | 2008 | UPLANDER              | 01-15-24      | 411 | WHITE     | NG048297 | Unknown  | 1GBDV13W08D190786 |
 | 2002 | FOCUS                 | 01-15-24      | 411 | BLUE      | NG048283 | Unknown  | 1FAFP36332W110099 |
@@ -2129,13 +2127,13 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2004 | YUKON XL 1500         | 01-15-24      | 207 | BLACK     | NG048202 | Unknown  | 3GKFK16Z84G271670 |
 | 2004 | SIERRA 1500 PICKUP    | 01-15-24      | 207 | RED       | NG048155 | Unknown  | 1GTEK19T74E114945 |
 | 2015 | TAURUS                | 01-15-24      | 412 | BLACK     | NG047773 | Unknown  | 1FAHP2E88FG156690 |
-| 2005 | CIVIC                 | 01-12-24      | 320 | BLUE      | NG048295 | Unknown  | JHMES96665S014530 |
-| 2007 | ACCENT                | 01-12-24      | 320 | WHITE     | NG048296 | Unknown  | KMHCN36C17U023142 |
-| 2001 | TRACKER               | 01-12-24      | 207 | BLUE      | NG048300 | Unknown  | 2CNBJ13C916904550 |
 | 2003 | MAXIMA                | 01-12-24      | 320 | SILVER    | NG048301 | Unknown  | JN1DA31D93T507065 |
 | 2006 | INFINITI M35          | 01-12-24      | 320 | BLACK     | NG048302 | Unknown  | JNKAY01FX6M255447 |
-| 2009 | ROGUE                 | 01-12-24      | 207 | WHITE     | NG048287 | Unknown  | JN8AS58V49W449045 |
+| 2001 | TRACKER               | 01-12-24      | 207 | BLUE      | NG048300 | Unknown  | 2CNBJ13C916904550 |
+| 2007 | ACCENT                | 01-12-24      | 320 | WHITE     | NG048296 | Unknown  | KMHCN36C17U023142 |
+| 2005 | CIVIC                 | 01-12-24      | 320 | BLUE      | NG048295 | Unknown  | JHMES96665S014530 |
 | 2008 | INFINITI G35          | 01-12-24      | 320 | BLUE      | NG048289 | Unknown  | JNKBV61F08M261017 |
+| 2009 | ROGUE                 | 01-12-24      | 207 | WHITE     | NG048287 | Unknown  | JN8AS58V49W449045 |
 | 1990 | SUNBIRD               | 01-12-24      | 412 | WHITE     | NG048279 | Unknown  | 1G2JB34K7L7542174 |
 | 2007 | LACROSSE              | 01-12-24      | 412 | BLUE      | NG048276 | Unknown  | 2G4WC582771222906 |
 | 2007 | PT CRUISER            | 01-12-24      | 412 | GRAY      | NG048273 | Unknown  | 3A4FY58B57T585316 |
@@ -2145,18 +2143,20 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2006 | ENVOY                 | 01-12-24      | 207 | GOLD      | NG048225 | Unknown  | 1GKDT13S862336461 |
 | 2003 | AVALON                | 01-12-24      | 320 | BLACK     | NG048228 | Unknown  | 4T1BF28B93U296394 |
 | 2007 | SPORTAGE              | 01-12-24      | 207 | GREEN     | NG048243 | Unknown  | KNDJE723077309748 |
+| 2000 | SUBURBAN 1500         | 01-12-24      | 207 | WHITE     | NG048085 | Unknown  | 3GNFK16T6YG213979 |
 | 2011 | LIBERTY               | 01-12-24      | 203 | WHITE     | NG048069 | Unknown  | 1J4PN2GK8BW549698 |
 | 1997 | FORD F150 PICKUP      | 01-12-24      | 207 | BLACK     | NG048086 | Unknown  | 1FTDX08W4VKB90158 |
-| 2000 | SUBURBAN 1500         | 01-12-24      | 207 | WHITE     | NG048085 | Unknown  | 3GNFK16T6YG213979 |
 | 2009 | VOLVO 50 SERIES       | 01-12-24      | 320 | BLACK     | NG047948 | Unknown  | YV1MW382692455874 |
 | 2006 | BMW X5                | 01-12-24      | 206 | BLACK     | NG047891 | Unknown  | 5UXFB535X6LV25937 |
 | 2004 | CROSSFIRE             | 01-12-24      | 412 | ORANGE    | NG047849 | Unknown  | 1C3AN69L34X003479 |
 | 2016 | CHARGER               | 01-12-24      | 412 | WHITE     | NG047704 | Unknown  | 2C3CDXCT7GH110361 |
 | 2001 | FORD F150 PICKUP      | 01-12-24      | 207 | BLUE      | NG047090 | Unknown  | 2FTZF17241CA69867 |
-| 2007 | TOWN & COUNTRY        | 01-11-24      | 412 | SILVER    | NG048255 | Unknown  | 2A4GP54LX7R206934 |
+| 2003 | SATURN L SERIES       | 01-11-24      | 412 | TAN       | NG048003 | Unknown  | 1G8JU54F93Y547840 |
+| 2006 | CR-V                  | 01-11-24      | 206 | BLACK     | NG048120 | Unknown  | JHLRD78986C012110 |
 | 2011 | REGAL                 | 01-11-24      | 412 | GRAY      | NG048266 | Unknown  | W04GP5EC9B1008664 |
 | 2005 | IMPALA                | 01-11-24      | 413 | RED       | NG048261 | Unknown  | 2G1WF52EX59313206 |
 | 2005 | VUE                   | 01-11-24      | 413 | GRAY      | NG048259 | Unknown  | 5GZCZ53445S840677 |
+| 2007 | TOWN & COUNTRY        | 01-11-24      | 412 | SILVER    | NG048255 | Unknown  | 2A4GP54LX7R206934 |
 | 2006 | CR-V                  | 01-11-24      | 206 | BLACK     | NG048256 | Unknown  | JHLRD78586C037814 |
 | 2005 | FORESTER              | 01-11-24      | 320 | SILVER    | NG048251 | Unknown  | JF1SG63675H730932 |
 | 1999 | EXPLORER              | 01-11-24      | 206 | GREEN     | NG048249 | Unknown  | 1FMZU34X3XZA88760 |
@@ -2167,18 +2167,21 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2003 | AVIATOR               | 01-11-24      | 206 | WHITE     | NG048171 | Unknown  | 5LMEU88H43ZJ45845 |
 | 1997 | FORD F150 PICKUP      | 01-11-24      | 206 | RED       | NG048203 | Unknown  | 1FTDX18W4VKB61958 |
 | 1998 | CR-V                  | 01-11-24      | 206 | BLUE      | NG048172 | Unknown  | JHLRD1860WC035514 |
-| 2006 | CR-V                  | 01-11-24      | 206 | BLACK     | NG048120 | Unknown  | JHLRD78986C012110 |
-| 2003 | SATURN L SERIES       | 01-11-24      | 412 | TAN       | NG048003 | Unknown  | 1G8JU54F93Y547840 |
 | 2004 | MDX                   | 01-11-24      | 206 | BLUE      | NG047980 | Unknown  | 2HNYD18274H512420 |
 | 2003 | SATURN L SERIES       | 01-11-24      | 413 | GREEN     | NG047974 | Unknown  | 1G8JU54F73Y565771 |
 | 2004 | ELEMENT               | 01-11-24      | 206 | SILVER    | NG047934 | Unknown  | 5J6YH27674L002652 |
 | 2009 | SENTRA                | 01-11-24      | 320 | SILVER    | NG047937 | Unknown  | 3N1AB61E09L655578 |
-| 2006 | EQUINOX               | 01-11-24      | 206 | SILVER    | NG047843 | Unknown  | 2CNDL73F066028300 |
 | 2005 | LIBERTY               | 01-11-24      | 206 | RED       | NG047841 | Unknown  | 1J4GL48K45W702551 |
+| 2006 | EQUINOX               | 01-11-24      | 206 | SILVER    | NG047843 | Unknown  | 2CNDL73F066028300 |
 | 2002 | X TYPE                | 01-11-24      | 320 | GREEN     | NG047749 | Unknown  | SAJEA51C22WC50885 |
 | 2002 | GRAND CHEROKEE        | 01-11-24      | 206 | GRAY      | NG047291 | Unknown  | 1J4GW48S62C322616 |
 | 2012 | FOCUS                 | 01-11-24      | 412 | BLACK     | NG046479 | Unknown  | 1FAHP3F2XCL423105 |
 | 2007 | FIVE HUNDRED          | 01-11-24      | 412 | GREEN     | NG045894 | Unknown  | 1FAFP271X7G108407 |
+| 2003 | PASSAT                | 01-10-24      | 321 | GRAY      | NG048048 | Unknown  | WVWMD63B33P055172 |
+| 2000 | CELICA                | 01-10-24      | 321 | RED       | NG048047 | Unknown  | JTDDR32T7Y0002324 |
+| 2006 | SIENNA                | 01-10-24      | 321 | WHITE     | NG048206 | Unknown  | 5TDZA23C26S461132 |
+| 2009 | MAZDA 6               | 01-10-24      | 321 | SILVER    | NG048030 | Unknown  | 1YVHP81A595M24854 |
+| 2005 | BMW 325i              | 01-10-24      | 321 | BLUE      | NG048033 | Unknown  | WBAET37435NJ89497 |
 | 1999 | EIGHTY EIGHT          | 01-10-24      | 413 | MAROON    | NG048248 | Unknown  | 1G3HN52K1X4819294 |
 | 2006 | CR-V                  | 01-10-24      | 206 | GRAY      | NG048250 | Unknown  | SHSRD78806U419158 |
 | 2007 | SILVERADO 1500 PICKUP | 01-10-24      | 206 | WHITE     | NG048242 | Unknown  | 1GCEK19J47Z618414 |
@@ -2191,43 +2194,39 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | TOWN & COUNTRY        | 01-10-24      | 413 | MAROON    | NG048216 | Unknown  | 2C8GP64L35R308924 |
 | 2008 | G6                    | 01-10-24      | 413 | BLACK     | NG048209 | Unknown  | 1G2ZH57N084177185 |
 | 2000 | JETTA                 | 01-10-24      | 321 | BLUE      | NG048180 | Unknown  | 3VWSC29M3YM126506 |
-| 1988 | CHEVROLET 3500 PICKUP | 01-10-24      | 205 | WHITE     | NG048066 | Unknown  | 1GTGC34K5JE529581 |
 | 2010 | ENCLAVE               | 01-10-24      | 206 | BLACK     | NG048220 | Unknown  | 5GALVBED5AJ248831 |
 | 2002 | RENDEZVOUS            | 01-10-24      | 413 | BLUE      | NG048165 | Unknown  | 3G5DB03E02S518941 |
 | 2007 | NITRO                 | 01-10-24      | 205 | SILVER    | NG048133 | Unknown  | 1D8GU58K87W550013 |
 | 2007 | COLORADO              | 01-10-24      | 206 | WHITE     | NG048105 | Unknown  | 1GCCS149878120212 |
 | 2007 | MALIBU                | 01-10-24      | 413 | SILVER    | NG048098 | Unknown  | 1G1ZS58F77F222512 |
+| 1988 | CHEVROLET 3500 PICKUP | 01-10-24      | 205 | WHITE     | NG048066 | Unknown  | 1GTGC34K5JE529581 |
 | 2007 | ECLIPSE               | 01-10-24      | 321 | BLACK     | NG048064 | Unknown  | 4A3AK64FX7E063455 |
-| 2005 | BMW 325i              | 01-10-24      | 321 | BLUE      | NG048033 | Unknown  | WBAET37435NJ89497 |
-| 2009 | MAZDA 6               | 01-10-24      | 321 | SILVER    | NG048030 | Unknown  | 1YVHP81A595M24854 |
-| 2006 | SIENNA                | 01-10-24      | 321 | WHITE     | NG048206 | Unknown  | 5TDZA23C26S461132 |
-| 2000 | CELICA                | 01-10-24      | 321 | RED       | NG048047 | Unknown  | JTDDR32T7Y0002324 |
-| 2003 | PASSAT                | 01-10-24      | 321 | GRAY      | NG048048 | Unknown  | WVWMD63B33P055172 |
 | 2003 | AUDI A4               | 01-10-24      | 321 | SILVER    | NG047973 | Unknown  | WAUAT48H53K017914 |
 | 2005 | VOLVO 60 SERIES       | 01-10-24      | 321 | BLACK     | NG047947 | Unknown  | YV1RS612252447309 |
 | 2015 | FUSION                | 01-10-24      | 413 | WHITE     | NG047939 | Unknown  | 3FA6P0UU5FR282380 |
 | 2008 | SILVERADO 1500 PICKUP | 01-10-24      | 206 | BLACK     | NG047340 | Unknown  | 1GCEK19028Z237878 |
-| 2007 | LUCERNE               | 01-09-24      | 413 | TAN       | NG048224 | Unknown  | 1G4HD57287U189944 |
+| 2003 | EXPLORER              | 01-09-24      | 205 | RED       | NG048127 | Unknown  | 1FMZU62K63UC63518 |
+| 1993 | CHEVROLET 10 VAN      | 01-09-24      | 205 | GRAY      | NG048024 | Unknown  | 2GBEG25K9P4149175 |
+| 2006 | TOWN & COUNTRY        | 01-09-24      | 413 | BLACK     | NG048204 | Unknown  | 2A4GP54LX6R687881 |
 | 1992 | CAMRY                 | 01-09-24      | 321 | RED       | NG048226 | Unknown  | 4T1SK11E7NU001788 |
+| 2007 | LUCERNE               | 01-09-24      | 413 | TAN       | NG048224 | Unknown  | 1G4HD57287U189944 |
 | 2004 | FORESTER              | 01-09-24      | 321 | WHITE     | NG048218 | Unknown  | JF1SG63684H749083 |
 | 2001 | TUNDRA                | 01-09-24      | 205 | RED       | NG048214 | Unknown  | 5TBBT481X1S132257 |
 | 2005 | MURANO                | 01-09-24      | 205 | GOLD      | NG048210 | Unknown  | JN8AZ08W85W420956 |
-| 1999 | LEGACY                | 01-09-24      | 321 | BLUE      | NG048208 | Unknown  | 4S3BG6859X7650888 |
 | 2006 | FORD F150 PICKUP      | 01-09-24      | 205 | BLUE      | NG048201 | Unknown  | 1FTPW14VX6FA79692 |
-| 2006 | TOWN & COUNTRY        | 01-09-24      | 413 | BLACK     | NG048204 | Unknown  | 2A4GP54LX6R687881 |
+| 1999 | LEGACY                | 01-09-24      | 321 | BLUE      | NG048208 | Unknown  | 4S3BG6859X7650888 |
 | 2005 | HIGHLANDER            | 01-09-24      | 205 | SILVER    | NG048198 | Unknown  | JTEEP21A150078326 |
 | 2007 | BMW X3                | 01-09-24      | 205 | BLACK     | NG048167 | Unknown  | WBXPC93427WF25017 |
 | 2002 | MALIBU                | 01-09-24      | 413 | TAN       | NG048189 | Unknown  | 1G1ND52J22M519357 |
-| 2005 | TOWN & COUNTRY        | 01-09-24      | 413 | TAN       | NG048068 | Unknown  | 2C4GP54LX5R421815 |
 | 1993 | CHEVROLET 1500 PICKUP | 01-09-24      | 205 | TEAL      | NG048154 | Unknown  | 1GCDC14K5PZ197375 |
 | 1998 | FORD F150 PICKUP      | 01-09-24      | 205 | RED       | NG048184 | Unknown  | 1FTZX18W9WKB05389 |
 | 2006 | BMW 530i              | 01-09-24      | 321 | BLACK     | NG048183 | Unknown  | WBANF735X6CG67444 |
 | 2002 | LIBERTY               | 01-09-24      | 205 | SILVER    | NG048178 | Unknown  | 1J4GL58K62W356200 |
 | 2006 | MURANO                | 01-09-24      | 205 | GOLD      | NG048147 | Unknown  | JN8AZ08T56W417780 |
-| 1993 | CHEVROLET 10 VAN      | 01-09-24      | 205 | GRAY      | NG048024 | Unknown  | 2GBEG25K9P4149175 |
-| 2003 | EXPLORER              | 01-09-24      | 205 | RED       | NG048127 | Unknown  | 1FMZU62K63UC63518 |
+| 2005 | TOWN & COUNTRY        | 01-09-24      | 413 | TAN       | NG048068 | Unknown  | 2C4GP54LX5R421815 |
 | 2016 | SORENTO               | 01-09-24      | 205 | WHITE     | NG047585 | Unknown  | 5XYPG4A37GG051381 |
-| 2003 | SILVERADO 1500 PICKUP | 01-08-24      | 205 | BLACK     | NG048084 | Unknown  | 2GCEK19V531168858 |
+| 2009 | JOURNEY               | 01-08-24      | 414 | BLACK     | NG048058 | Unknown  | 3D4GG57V19T199426 |
+| 2008 | ESCAPE                | 01-08-24      | 205 | RED       | NG048035 | Unknown  | 1FMCU93118KD31398 |
 | 2005 | JETTA                 | 01-08-24      | 322 | BLUE      | NG048196 | Unknown  | 3VWDF71K45M628797 |
 | 2001 | CIVIC                 | 01-08-24      | 322 | WHITE     | NG048185 | Unknown  | 1HGES16591L021746 |
 | 1994 | CHEVROLET 1500 PICKUP | 01-08-24      | 205 | BLACK     | NG048174 | Unknown  | 1GCEK19K0RE116504 |
@@ -2235,15 +2234,13 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2005 | ESCALADE              | 01-08-24      | 205 | BLUE      | NG048164 | Unknown  | 1GYEK63N85R110270 |
 | 2012 | IMPALA                | 01-08-24      | 414 | WHITE     | NG048158 | Unknown  | 2G1WB5E39C1314879 |
 | 2020 | INFINITI Q50          | 01-08-24      | 322 | BLACK     | NG048156 | Unknown  | JN1EV7AR3LM251933 |
-| 2007 | ALTIMA                | 01-08-24      | 322 | BLACK     | NG048141 | Unknown  | 1N4BL21E27C160711 |
 | 2013 | JETTA                 | 01-08-24      | 321 | SILVER    | NG048140 | Unknown  | 3VWBX7AJ8DM290380 |
+| 2007 | ALTIMA                | 01-08-24      | 322 | BLACK     | NG048141 | Unknown  | 1N4BL21E27C160711 |
 | 2008 | SIENNA                | 01-08-24      | 321 | SILVER    | NG048179 | Unknown  | 5TDZK22CX8S225166 |
+| 2003 | SILVERADO 1500 PICKUP | 01-08-24      | 205 | BLACK     | NG048084 | Unknown  | 2GCEK19V531168858 |
 | 2008 | RAV4                  | 01-08-24      | 205 | SILVER    | NG048099 | Unknown  | JTMBK31V586048925 |
-| 2008 | ESCAPE                | 01-08-24      | 205 | RED       | NG048035 | Unknown  | 1FMCU93118KD31398 |
-| 2009 | JOURNEY               | 01-08-24      | 414 | BLACK     | NG048058 | Unknown  | 3D4GG57V19T199426 |
-| 2009 | COBALT                | 01-08-24      | 414 | GRAY      | NG048026 | Unknown  | 1G1AS58H497115526 |
-| 2006 | G6                    | 01-08-24      | 414 | SILVER    | NG048025 | Unknown  | 1G2ZF55B764197347 |
-| 2007 | AUDI A4               | 01-05-24      | 322 | GRAY      | NG048081 | Unknown  | WAUAF48H77K020889 |
+| 2009 | GRAND CHEROKEE        | 01-05-24      | 204 | SILVER    | NG048049 | Unknown  | 1J8GR48K69C510519 |
+| 2013 | ELANTRA               | 01-05-24      | 322 | BURGUNDY  | NG048089 | Unknown  | 5NPDH4AE4DH404620 |
 | 1997 | SUBURBAN 2500         | 01-05-24      | 204 | GREEN     | NG048152 | Unknown  | 3GNGK26J8VG107103 |
 | 2000 | SOLARA                | 01-05-24      | 322 | RED       | NG048143 | Unknown  | 2T1CF22P7YC337302 |
 | 2001 | CIVIC                 | 01-05-24      | 322 | SILVER    | NG048142 | Unknown  | 1HGEM22511L010343 |
@@ -2251,59 +2248,58 @@ Stock numbers are prefixed with `UG` for Rosemount and `NG` for East Bethel.
 | 2007 | AVALANCHE 1500        | 01-05-24      | 204 | BLUE      | NG048132 | Unknown  | 3GNFK12367G119962 |
 | 2004 | VOLVO 70 SERIES       | 01-05-24      | 322 | SILVER    | NG048139 | Unknown  | YV1NC63D74J045526 |
 | 2001 | DODGE 1500 PICKUP     | 01-05-24      | 204 | BLACK     | NG048101 | Unknown  | 3B7HC13Z91G738550 |
+| 2007 | AUDI A4               | 01-05-24      | 322 | GRAY      | NG048081 | Unknown  | WAUAF48H77K020889 |
 | 2007 | ACCORD                | 01-05-24      | 322 | TAN       | NG048074 | Unknown  | JHMCN36427C000728 |
-| 2013 | ELANTRA               | 01-05-24      | 322 | BURGUNDY  | NG048089 | Unknown  | 5NPDH4AE4DH404620 |
-| 2009 | GRAND CHEROKEE        | 01-05-24      | 204 | SILVER    | NG048049 | Unknown  | 1J8GR48K69C510519 |
 | 2005 | SORENTO               | 01-05-24      | 204 | GREEN     | NG048028 | Unknown  | KNDJC733X55447570 |
 | 2006 | COLORADO              | 01-05-24      | 204 | BLACK     | NG047995 | Unknown  | 1GCDT136X68136869 |
 | 2005 | YUKON                 | 01-05-24      | 205 | WHITE     | NG047909 | Unknown  | 1GKEK13T15J255242 |
 | 2008 | EDGE                  | 01-05-24      | 204 | BLACK     | NG047893 | Unknown  | 2FMDK38C68BA60771 |
 | 1999 | FORD F150 PICKUP      | 01-05-24      | 204 | MAROON    | NG047230 | Unknown  | 1FTRF18W8XNA95201 |
-| 2005 | CIVIC                 | 01-04-24      | 323 | BLACK     | NG048072 | Unknown  | 2HGES16575H533685 |
+| 2001 | DODGE 2500 PICKUP     | 01-04-24      | 204 | WHITE     | NG048122 | Unknown  | 1B7KF23Z41J272480 |
+| 2010 | COROLLA               | 01-04-24      | 322 | TAN       | NG048119 | Unknown  | 1NXBU4EE7AZ168376 |
+| 2012 | FIAT 500              | 01-04-24      | 323 | WHITE     | NG048121 | Unknown  | 3C3CFFAR0CT125099 |
+| 2009 | MAZDA 3               | 01-04-24      | 322 | CHARCOAL  | NG048096 | Unknown  | JM1BK32F291244262 |
 | 2004 | TACOMA                | 01-04-24      | 204 | RED       | NG048124 | Unknown  | 5TEWM72N24Z348694 |
 | 2006 | FORD F150 PICKUP      | 01-04-24      | 204 | WHITE     | NG048115 | Unknown  | 1FTRF12276NB72550 |
 | 2010 | ENCLAVE               | 01-04-24      | 204 | BLACK     | NG048112 | Unknown  | 5GALVBED3AJ139686 |
 | 2007 | DURANGO               | 01-04-24      | 204 | SILVER    | NG048110 | Unknown  | 1D8HB38P07F502080 |
 | 1992 | BLAZER S10/JIMMY S15  | 01-04-24      | 204 | RED       | NG048109 | Unknown  | 1GNDT13W5N2217612 |
+| 2005 | CIVIC                 | 01-04-24      | 323 | BLACK     | NG048072 | Unknown  | 2HGES16575H533685 |
 | 2003 | ACCORD                | 01-04-24      | 322 | SILVER    | NG048063 | Unknown  | 1HGCM66533A051354 |
 | 2005 | CIVIC                 | 01-04-24      | 323 | SILVER    | NG048114 | Unknown  | 2HGES16665H550454 |
-| 2012 | FIAT 500              | 01-04-24      | 323 | WHITE     | NG048121 | Unknown  | 3C3CFFAR0CT125099 |
-| 2009 | MAZDA 3               | 01-04-24      | 322 | CHARCOAL  | NG048096 | Unknown  | JM1BK32F291244262 |
-| 2010 | COROLLA               | 01-04-24      | 322 | TAN       | NG048119 | Unknown  | 1NXBU4EE7AZ168376 |
-| 2001 | DODGE 2500 PICKUP     | 01-04-24      | 204 | WHITE     | NG048122 | Unknown  | 1B7KF23Z41J272480 |
 | 2008 | CAMRY                 | 01-04-24      | 322 | GRAY      | NG047977 | Unknown  | 4T1BK46K18U057312 |
 | 2007 | CAMRY                 | 01-04-24      | 322 | SILVER    | NG047870 | Unknown  | JTNBB46K373041276 |
 | 2007 | ODYSSEY               | 01-04-24      | 323 | BLACK     | NG047799 | Unknown  | 5FNRL38627B045753 |
 | 2001 | GALANT                | 01-04-24      | 322 | WHITE     | NG047637 | Unknown  | 4A3AA46G21E159780 |
-| 2001 | SIENNA                | 01-03-24      | 323 | MAROON    | NG048061 | Unknown  | 4T3ZF13C31U363035 |
-| 2006 | FORD F150 PICKUP      | 01-03-24      | 203 | BLACK     | NG048051 | Unknown  | 1FTPW14V16KD06694 |
-| 2002 | FORD F350SD PICKUP    | 01-03-24      | 202 | BLUE      | NG048067 | Unknown  | 1FTSW31LX2EB68798 |
+| 2005 | SPORTAGE              | 01-03-24      | 204 | WHITE     | NG048013 | Unknown  | KNDJE723657123905 |
+| 2002 | JETTA                 | 01-03-24      | 323 | BLACK     | NG048053 | Unknown  | 3VWSE69M52M045256 |
+| 2003 | TAHOE                 | 01-03-24      | 203 | GREEN     | NG048094 | Unknown  | 1GNEK13Z83J160195 |
+| 2005 | MAZDA 3               | 01-03-24      | 323 | BLUE      | NG048031 | Unknown  | JM1BK12F251269466 |
+| 2011 | LEGACY                | 01-03-24      | 323 | SILVER    | NG048032 | Unknown  | 4S4BRCLC0B3334872 |
+| 2008 | COROLLA               | 01-03-24      | 323 | MAROON    | NG048034 | Unknown  | 1NXBR32E28Z982624 |
 | 2010 | TRAVERSE              | 01-03-24      | 204 | BLACK     | NG048103 | Unknown  | 1GNLRGEDXAJ206565 |
 | 2005 | MAZDA 6               | 01-03-24      | 323 | RED       | NG048102 | Unknown  | 1YVHP80C055M68029 |
 | 2001 | TACOMA                | 01-03-24      | 203 | WHITE     | NG048087 | Unknown  | 5TESM92N21Z806661 |
+| 2002 | FORD F350SD PICKUP    | 01-03-24      | 202 | BLUE      | NG048067 | Unknown  | 1FTSW31LX2EB68798 |
+| 2006 | FORD F150 PICKUP      | 01-03-24      | 203 | BLACK     | NG048051 | Unknown  | 1FTPW14V16KD06694 |
+| 2001 | SIENNA                | 01-03-24      | 323 | MAROON    | NG048061 | Unknown  | 4T3ZF13C31U363035 |
 | 2002 | SIERRA 1500 PICKUP    | 01-03-24      | 203 | BLUE      | NG048042 | Unknown  | 1GTEK19T92Z299795 |
-| 2008 | COROLLA               | 01-03-24      | 323 | MAROON    | NG048034 | Unknown  | 1NXBR32E28Z982624 |
-| 2011 | LEGACY                | 01-03-24      | 323 | SILVER    | NG048032 | Unknown  | 4S4BRCLC0B3334872 |
-| 2005 | MAZDA 3               | 01-03-24      | 323 | BLUE      | NG048031 | Unknown  | JM1BK12F251269466 |
-| 2002 | JETTA                 | 01-03-24      | 323 | BLACK     | NG048053 | Unknown  | 3VWSE69M52M045256 |
-| 2003 | TAHOE                 | 01-03-24      | 203 | GREEN     | NG048094 | Unknown  | 1GNEK13Z83J160195 |
-| 2005 | SPORTAGE              | 01-03-24      | 204 | WHITE     | NG048013 | Unknown  | KNDJE723657123905 |
 | 1999 | S10/S15/SONOMA        | 01-03-24      | 204 | BROWN     | NG048044 | Unknown  | 1GCCS1447XK120905 |
 | 2008 | ASPEN                 | 01-03-24      | 203 | BLACK     | NG048027 | Unknown  | 1A8HW58208F145500 |
 | 2014 | JETTA                 | 01-03-24      | 323 | BLACK     | NG047971 | Unknown  | 3VWD17AJ8EM392130 |
 | 2010 | ELANTRA               | 01-03-24      | 323 | GRAY      | NG047907 | Unknown  | KMHDU4AD7AU097668 |
 | 2007 | FORD E350 VAN         | 01-03-24      | 204 | WHITE     | NG047821 | Unknown  | 1FBSS31L97DA98367 |
+| 2002 | LEGACY                | 01-02-24      | 323 | BLUE      | NG048037 | Unknown  | 4S3BH665527641968 |
+| 2009 | VERSA                 | 01-02-24      | 323 | SILVER    | NG048018 | Unknown  | 3N1BC11E89L352908 |
+| 2011 | PATRIOT               | 01-02-24      | 203 | BURGUNDY  | NG048036 | Unknown  | 1J4NT4GB4BD204835 |
 | 2005 | EQUINOX               | 01-02-24      | 203 | GRAY      | NG048065 | Unknown  | 2CNDL73F456006928 |
 | 2010 | EQUINOX               | 01-02-24      | 203 | BROWN     | NG048039 | Unknown  | 2CNFLNEW3A6205232 |
-| 2011 | PATRIOT               | 01-02-24      | 203 | BURGUNDY  | NG048036 | Unknown  | 1J4NT4GB4BD204835 |
-| 2009 | VERSA                 | 01-02-24      | 323 | SILVER    | NG048018 | Unknown  | 3N1BC11E89L352908 |
-| 2002 | LEGACY                | 01-02-24      | 323 | BLUE      | NG048037 | Unknown  | 4S3BH665527641968 |
 | 2010 | OUTLOOK               | 01-02-24      | 203 | BROWN     | NG047987 | Unknown  | 5GZLRVEDXAJ131782 |
 | 2002 | CAMRY                 | 01-02-24      | 323 | SILVER    | NG047991 | Unknown  | 4T1BE32K82U604056 |
 | 2006 | SAAB 9-7X             | 01-02-24      | 203 | BLACK     | NG047966 | Unknown  | 5S3ET13S162802211 |
 | 2003 | SILVERADO 1500 PICKUP | 01-02-24      | 203 | SILVER    | NG047963 | Unknown  | 2GCEK19T031215583 |
 | 2011 | RANGER                | 01-02-24      | 203 | WHITE     | NG047930 | Unknown  | 1FTLR4FE8BPA49759 |
 | 2006 | FORD F150 PICKUP      | 01-02-24      | 203 | SILVER    | NG047936 | Unknown  | 1FTPW14V86KC85293 |
-| 2007 | SUBURBAN 1500         | 01-02-24      | 203 | TAN       | NG047918 | Unknown  | 3GNFK16347G257526 |
 | 2001 | CR-V                  | 01-02-24      | 203 | SILVER    | NG047919 | Unknown  | JHLRD18701C003485 |
+| 2007 | SUBURBAN 1500         | 01-02-24      | 203 | TAN       | NG047918 | Unknown  | 3GNFK16347G257526 |
 |      |                       |               |     |           |          |          |                   |
